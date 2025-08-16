@@ -1,0 +1,6621 @@
+[
+  {
+    "program": "Administrative Professional (A.A.S.)",
+    "semesters": [
+      {
+        "semester": 1,
+        "courses": [
+          {
+            "subject": "BUS",
+            "number": "1360",
+            "name": "Keyboarding/Word Processing"
+          },
+          {
+            "subject": "BUS",
+            "number": "1500",
+            "name": "Introduction to Business"
+          },
+          {
+            "subject": "ENG",
+            "number": "1510",
+            "name": "English Composition I"
+          },
+          {
+            "subject": "INT",
+            "number": "1555",
+            "name": "Inquire"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Mathematics Elective (Recommended: MAT 1500: Problem Solving)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective (Recommended: Choose any BUS or HIT course (1000 level) BUS 1610: Personal Finance or HIT 1420: Health Data Procedures or HIT 1410: Medical Terminology)"
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "courses": [
+          {
+            "subject": "BUS",
+            "number": "1420",
+            "name": "Office Procedures"
+          },
+          {
+            "subject": "CSC",
+            "number": "1560",
+            "name": "Computer Applications Software I"
+          },
+          {
+            "subject": "ENG",
+            "number": "1530",
+            "name": "English Composition II"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Social Sciences Elective (Recommended: PSY 1510: General Psychology)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Natural Sciences Elective (Recommended: BIO 1510: Health Science)"
+          }
+        ]
+      },
+      {
+        "semester": 3,
+        "courses": [
+          {
+            "subject": "BUS",
+            "number": "2320",
+            "name": "Word Processing Production"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective (Recommended: CMM 1510: Introduction to Communication or CMM 1610: Public Speaking)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "BUS 2550: Marketing or BUS 2570: Principles of Management or BUS 2580: Management & Organizational Behavior"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "BUS 1510: Principles of Financial Accounting or BUS 2550: Marketing or BUS 2570: Principles of Management or BUS 2580: Management & Organizational Behavior"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective Recommended: BUS 1510: Principles of Financial Accounting (if not already taken)"
+          }
+        ]
+      },
+      {
+        "semester": 4,
+        "courses": [
+          {
+            "subject": "BUS",
+            "number": "2420",
+            "name": "Professional Development/Internship"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Elective (Recommended: BUS 1650: Global Business)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Elective (Recommended: BUS 2550: Marketing or BUS 2570: Principles of Management or BUS 2580: Management & Organizational Behavior)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective (Recommended: SOC 1510: Introduction to Sociology)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": "Administrative Professional (Certificate)",
+    "semesters": [
+      {
+        "semester": 1,
+        "courses": [
+          {
+            "subject": "BUS",
+            "number": "1360",
+            "name": "Keyboarding/Word Processing"
+          },
+          {
+            "subject": "BUS",
+            "number": "1500",
+            "name": "Introduction to Business"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective (Recommended: BUS 2320: Word Processing Production or BUS 2550: Marketing or BUS 2570: Principles of Management or BUS 2580: Management & Organizational Behavior or HIT 1410: Medical Terminology or HIT 1420: Health Data Procedures)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Mathematics Elective (Recommended: MAT 1500: Problem Solving)"
+          },
+          {
+            "subject": "ENG",
+            "number": "1510",
+            "name": "English Composition I"
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "courses": [
+          {
+            "subject": "BUS",
+            "number": "1420",
+            "name": "Office Procedures"
+          },
+          {
+            "subject": "CSC",
+            "number": "1560",
+            "name": "Computer Applications Software I"
+          },
+          {
+            "subject": "ENG",
+            "number": "1530",
+            "name": "English Composition II"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective (Recommended: BUS 2320: Word Processing Production or BUS 2550: Marketing or BUS 2570: Principles of Management or BUS 2580: Management & Organizational Behavior or HIT 1410: Medical Terminology or HIT 1420: Health Data Procedures)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Social Sciences Elective (Recommended: PSY 1510: General Psychology or SOC 1510: Introduction to Sociology)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": "Adolescence Education (Liberal Arts & Sciences) (A.S.)",
+    "semesters": [
+      {
+        "semester": 1,
+        "courses": [
+          {
+            "subject": "EDU",
+            "number": "1510",
+            "name": "Foundations of Education"
+          },
+          {
+            "subject": "PSY",
+            "number": "1510",
+            "name": "General Psychology"
+          },
+          {
+            "subject": "General Elective",
+            "number": "",
+            "name": "Program Core Specialization Elective Choose a concentration course"
+          },
+          {
+            "subject": "ENG",
+            "number": "1510",
+            "name": "English Composition I"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "World Language (Recommended: ASL 1510: Introduction to Sign Language I or SPA 1510: Introductory Spanish I or FRE 1510: Introductory French I)"
+          },
+          {
+            "subject": "INT",
+            "number": "1555",
+            "name": "Inquire"
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "courses": [
+          {
+            "subject": "PSY",
+            "number": "2550",
+            "name": "Psychology of Adolescence"
+          },
+          {
+            "subject": "General Elective",
+            "number": "",
+            "name": "Program Core Specialization Elective Choose a concentration course"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Mathematics Elective (Recommended: MAT 1500: Problem Solving or MAT 1540: Elementary Statistics)"
+          },
+          {
+            "subject": "ENG",
+            "number": "1530",
+            "name": "English Composition II"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "World Language (Recommended: ASL 1520: Introduction to Sign Language II or SPA 1520: Introductory Spanish II or FRE 1520: Introductory French II)"
+          }
+        ]
+      },
+      {
+        "semester": 3,
+        "courses": [
+          {
+            "subject": "General Elective",
+            "number": "",
+            "name": "Program Core Specialization Elective Choose a concentration course"
+          },
+          {
+            "subject": "EDU",
+            "number": "2450",
+            "name": "Program Core Electives (Recommended: EDU 2450: Exceptional Children and EDU 2460: Field Experience/Exceptional Child)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective (Recommended: HIS 1530: US History Before 1865 or HIS 1540: US History Since 1865 or HIS 2610: Intro to US Women\u2019s History)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective (Recommended: HIS 1510: World History Before 1500 or HIS 1520: World History Since 1500 or ENG 2730: World Mythology)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Specialization Elective or Program Core Elective (Recommended: EDU 2340: Working with Adolescence or ENG 2650: Award-Winning Young Adult Literature or EDU 2330: Behavior Management in the Inclusive Classroom)"
+          }
+        ]
+      },
+      {
+        "semester": 4,
+        "courses": [
+          {
+            "subject": "General Elective",
+            "number": "",
+            "name": "Program Core Specialization Elective Choose a concentration course"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Elective (Recommended: EDU 2500: Literacy in the Classroom)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Science Elective Recommended: BIO 1510: Health Science or Lab Science (dependent upon Program Core Elective choices)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective (Recommended: ENG 2540: Creative Writing or ENG 2740: Newswriting and Editing or ENG 2890: Creative Nonfiction or CMM 1610: Public Speaking or THE 1510: Introduction to Theater or ART 1500: Intro to Art or MUS 1570: Music Theory I or MUS 1630: Beginning Piano or MUS 1670: Beginning Guitar)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": "Addictions Counseling (A.S.)",
+    "semesters": [
+      {
+        "semester": 1,
+        "courses": [
+          {
+            "subject": "HUS",
+            "number": "1210",
+            "name": "Introduction to Human Services"
+          },
+          {
+            "subject": "HUS",
+            "number": "1310",
+            "name": "Studies in Alcohol Chemical Dependency"
+          },
+          {
+            "subject": "PSY",
+            "number": "1510",
+            "name": "General Psychology"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Problem Solving with Mathematics or MAT 1540: Elementary Statistics"
+          },
+          {
+            "subject": "ENG",
+            "number": "1510",
+            "name": "English Composition I"
+          },
+          {
+            "subject": "INT",
+            "number": "1555",
+            "name": "Inquire"
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "courses": [
+          {
+            "subject": "HUS",
+            "number": "2430",
+            "name": "Alcohol/Chemical Dependency Treatment Methods"
+          },
+          {
+            "subject": "PSY",
+            "number": "2540",
+            "name": "Interpersonal Group Dynamics"
+          },
+          {
+            "subject": "HUS",
+            "number": "1410",
+            "name": "Generalist Practice Skills"
+          },
+          {
+            "subject": "ENG",
+            "number": "1530",
+            "name": "English Composition II"
+          },
+          {
+            "subject": "HUS",
+            "number": "2230",
+            "name": "Interviewing and Counseling"
+          }
+        ]
+      },
+      {
+        "semester": 3,
+        "courses": [
+          {
+            "subject": "BIO",
+            "number": "1510",
+            "name": "Health Science"
+          },
+          {
+            "subject": "PSY",
+            "number": "2560",
+            "name": "Abnormal Behavior"
+          },
+          {
+            "subject": "HUS",
+            "number": "1280",
+            "name": "Family Systems"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective* Choose a course from any SUNY Gen Ed category: Preference for a World Language, US History & Civic Engagement, World History & Global Awareness, or Diversity"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Electives Choose a course from the Human Services area not already taken"
+          }
+        ]
+      },
+      {
+        "semester": 4,
+        "courses": [
+          {
+            "subject": "HUS",
+            "number": "2215",
+            "name": "Field Placement I: Addictions"
+          },
+          {
+            "subject": "HUS",
+            "number": "2400",
+            "name": "Ethics/Issues in Addiction Services"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective* Choose a course from any SUNY Gen Ed category: Preference for a World Language, US History & Civic Engagement, World History & Global Awareness, or Diversity"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective (Recommended: SOC 1510: Introduction to Sociology)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": "Addictions Counseling (Certificate)",
+    "semesters": [
+      {
+        "semester": 1,
+        "courses": [
+          {
+            "subject": "BIO",
+            "number": "1510",
+            "name": "Health Science"
+          },
+          {
+            "subject": "HUS",
+            "number": "1280",
+            "name": "Introduction to Family Systems"
+          },
+          {
+            "subject": "HUS",
+            "number": "1310",
+            "name": "Studies in Alcohol Chemical Dependency"
+          },
+          {
+            "subject": "HUS",
+            "number": "1410",
+            "name": "Generalist Practice Skills"
+          },
+          {
+            "subject": "HUS",
+            "number": "2230",
+            "name": "Interviewing and Counseling"
+          },
+          {
+            "subject": "PSY",
+            "number": "1510",
+            "name": "General Psychology"
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "courses": [
+          {
+            "subject": "HUS",
+            "number": "2215",
+            "name": "Field Placement I: Addictions"
+          },
+          {
+            "subject": "HUS",
+            "number": "2400",
+            "name": "Ethics/Issues in Addiction Services"
+          },
+          {
+            "subject": "HUS",
+            "number": "2430",
+            "name": "Alcohol/Chemical Dependency Treatments"
+          },
+          {
+            "subject": "PSY",
+            "number": "2540",
+            "name": "Interpersonal Group Dynamics"
+          },
+          {
+            "subject": "PSY",
+            "number": "2560",
+            "name": "Abnormal Behavior"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": "Childhood Education (Liberal Arts & Sciences) (A.S.)",
+    "semesters": [
+      {
+        "semester": 1,
+        "courses": [
+          {
+            "subject": "EDU",
+            "number": "1510",
+            "name": "Foundations of Education"
+          },
+          {
+            "subject": "PSY",
+            "number": "1510",
+            "name": "General Psychology"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Specialization Elective"
+          },
+          {
+            "subject": "ENG",
+            "number": "1510",
+            "name": "English Composition I"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "World Language Recommended: ASL 1510: Introduction to Sign Language I or SPA 1510: Introductory Spanish I or FRE 1510: Introductory French I"
+          },
+          {
+            "subject": "INT",
+            "number": "1555",
+            "name": "Inquire"
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "courses": [
+          {
+            "subject": "PSY",
+            "number": "2520",
+            "name": "Child Development"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Specialization Elective"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving or MAT 1540: Elementary Statistics"
+          },
+          {
+            "subject": "ENG",
+            "number": "1530",
+            "name": "English Composition II"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "World Language Recommended: ASL 1520: Introduction to Sign Language II or SPA 1520: Introductory Spanish II or FRE 1520: Introductory French II"
+          }
+        ]
+      },
+      {
+        "semester": 3,
+        "courses": [
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Specialization Elective"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Electives Recommended: EDU 2450: Exceptional Children and EDU 2460: Field Experience/Exceptional Child"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective Recommended: HIS 1530: US History Before 1865 or HIS 1540: US History Since 1865 or HIS 2610: Intro to US Women’s History"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective Recommended: HIS 1510: World History Before 1500 or HIS 1520: World History Since 1500 or ENG 2730: World Mythology"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Specialization Elective or Program Core Elective Recommended: EDU 2330: Behavior Management in the Inclusive Classroom or ENG 2440: Children’s Literature or MAE 2510: Math for Educators"
+          }
+        ]
+      },
+      {
+        "semester": 4,
+        "courses": [
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Specialization Elective"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Elective Recommended: EDU 2500: Literacy in the Classroom or MAE 2510: Math for Elementary Teachers"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Science Elective Recommended: BIO 1510: Health Science or Lab Science (dependent upon Program Core Elective choices)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective Recommended: ENG 2540: Creative Writing or ENG 2740: Newswriting and Editing or ENG 2890: Creative Nonfiction or CMM 1610: Public Speaking or THE 1510: Introduction to Theater or ART 1500: Intro to Art or MUS 1570: Music Theory I or MUS 1630: Beginning Piano or MUS 1670: Beginning Guitar"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": "Business Administration (A.S.)",
+    "semesters": [
+      {
+        "semester": 1,
+        "courses": [
+          {
+            "subject": "BUS",
+            "number": "1510",
+            "name": "Principles of Financial Accounting"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Elective Recommended: BUS 1430: Entrepreneurship I or BUS 1500: Intro to Business or BUS 1610: Personal Finance or BUS 1650: Global Business or BUS 1700: Introduction to Tourism and Hospitality"
+          },
+          {
+            "subject": "ENG",
+            "number": "1510",
+            "name": "English Composition I"
+          },
+          {
+            "subject": "MAT",
+            "number": "1540",
+            "name": "Elementary Statistics"
+          },
+          {
+            "subject": "INT",
+            "number": "1555",
+            "name": "Inquire"
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "courses": [
+          {
+            "subject": "BUS",
+            "number": "1520",
+            "name": "Principles of Managerial Accounting"
+          },
+          {
+            "subject": "CSC",
+            "number": "1560",
+            "name": "Computer Applications Software I"
+          },
+          {
+            "subject": "MAT",
+            "number": "1590",
+            "name": "College Algebra and Trigonometry (or higher)"
+          },
+          {
+            "subject": "ENG",
+            "number": "1530",
+            "name": "English Composition II"
+          }
+        ]
+      },
+      {
+        "semester": 3,
+        "courses": [
+          {
+            "subject": "ECO",
+            "number": "2610",
+            "name": "Macroeconomic Principles"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "BUS 2550: Marketing or BUS 2570: Principles of Management or BUS 2580: Management & Organizational Behavior or BUS 2630: Human Resource Management"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Recommended: MAT 1600: Precalculus or Any SUNY Gen Ed course"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Natural Sciences Elective Recommended: BIO 1510: Health Science"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective Recommended:Diversity course"
+          }
+        ]
+      },
+      {
+        "semester": 4,
+        "courses": [
+          {
+            "subject": "ECO",
+            "number": "2620",
+            "name": "Microeconomic Principles"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "BUS 2550: Marketing or BUS 2570: Principles of Management or BUS 2580: Management & Organizational Behavior or BUS 2630: Human Resource Management"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective Recommended: ENG 1580: Introduction to Technical Writing"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective Recommended: ASL 1510: Introductory Sign Language I or SPA 1510: Introductory Spanish I or HIS 1510: World History before 1500 or HIS 1520: World History since 1500 or HIS 1530: US History before 1865 or HIS 1540: US History since 1865"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": "Business Administration (A.A.S.)",
+    "semesters": [
+      {
+        "semester": 1,
+        "courses": [
+          {
+            "subject": "BUS",
+            "number": "1510",
+            "name": "Principles of Financial Accounting"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Elective Recommended BUS 1430: Entrepreneurship I or BUS 1500: Intro to Business or BUS 1610: Personal Finance or BUS 1650: Global Business or BUS 1700: Introduction to Tourism and Hospitality"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving"
+          },
+          {
+            "subject": "ENG",
+            "number": "1510",
+            "name": "English Composition I"
+          },
+          {
+            "subject": "INT",
+            "number": "1555",
+            "name": "Inquire"
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "courses": [
+          {
+            "subject": "BUS",
+            "number": "1520",
+            "name": "Principles of Managerial Accounting"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Elective Recommended: CMM 1610: Public Speaking"
+          },
+          {
+            "subject": "ENG",
+            "number": "1530",
+            "name": "English Composition II"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Social Sciences Elective Recommended: ECO 1530: Contemporary Economics or SOC 1510: Intro to Sociology or ANT 1510: Human Evolution and Prehistory"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Natural Sciences Elective Recommended: BIO 1510: Health Science"
+          }
+        ]
+      },
+      {
+        "semester": 3,
+        "courses": [
+          {
+            "subject": "CSC",
+            "number": "1560",
+            "name": "Computer Applications Software I"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "BUS 2530: Business Law I or BUS 2540: Business Law II"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Elective Recommended: BUS 2550: Marketing or BUS 2570: Principles of Management or BUS 2630: Human Resource Management"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective Recommended: ASL 1510: Introductory Sign Language I or SPA 1510: Introductory Spanish I or HIS 1510: World History before 1500 or HIS 1520: World History since 1500 or HIS 1530: US History before 1865 or HIS 1540: US History since 1865"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective"
+          }
+        ]
+      },
+      {
+        "semester": 4,
+        "courses": [
+          {
+            "subject": "BUS",
+            "number": "2580",
+            "name": "Management & Organizational Behavior"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Elective Recommended: BUS 2010: Business Internship or CMM 1700: Intro to Social Media Marketing or LDR 1660: Leadership Development"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective Recommended: ENG 1580: Introduction to Technical Writing"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": "Corrections Officer Technology (Certificate)",
+    "semesters": [
+      {
+        "semester": 1,
+        "courses": [
+          {
+            "subject": "CRI",
+            "number": "1350",
+            "name": "Corrections Academy"
+          },
+          {
+            "subject": "CRI",
+            "number": "1440",
+            "name": "Inmate Direct Supervision"
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "courses": [
+          {
+            "subject": "CRI",
+            "number": "1310",
+            "name": "Corrections Practicum"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "ENG 1510: English Composition or ENG 1530: English Composition II"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "PSY 1510: General Psychology or SOC 1510: Introduction to Sociology"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Mathematics and Sciences Elective"
+          },
+          {
+            "subject": "CRI",
+            "number": "1430",
+            "name": "Inmate Classification"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": "Computer-Aided Design (Certificate)",
+    "semesters": [
+      {
+        "semester": 1,
+        "courses": [
+          {
+            "subject": "MCT",
+            "number": "1240",
+            "name": "Engineering Drawing with AutoCAD"
+          },
+          {
+            "subject": "MCT",
+            "number": "1270",
+            "name": "Machine Theory and Operations"
+          },
+          {
+            "subject": "MCT",
+            "number": "1380",
+            "name": "Introduction to Solid Modeling"
+          },
+          {
+            "subject": "MCT",
+            "number": "2340",
+            "name": "Dimensional Metrology"
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "courses": [
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "CSC 1510 or CSC 1560: Introduction to Computer Science or Computer Application Software I"
+          },
+          {
+            "subject": "MCT",
+            "number": "1310",
+            "name": "Industrial Safety & Quality Practices"
+          },
+          {
+            "subject": "MCT",
+            "number": "1320",
+            "name": "Production Processes & Maintenance Awareness"
+          },
+          {
+            "subject": "MCT",
+            "number": "1340",
+            "name": "Manufacturing Drawings & Geometric Dimensioning & Tolerancing"
+          },
+          {
+            "subject": "MCT",
+            "number": "2380",
+            "name": "Advanced Solid Modeling"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": "Computer Science (A.S.)",
+    "semesters": [
+      {
+        "semester": 1,
+        "courses": [
+          {
+            "subject": "CSC",
+            "number": "1570",
+            "name": "Programming Concepts & Applications"
+          },
+          {
+            "subject": "CSC",
+            "number": "1580",
+            "name": "Computer Hardware & System Software"
+          },
+          {
+            "subject": "ENG",
+            "number": "1510",
+            "name": "English Composition I"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective Recommended: Choose a math course if needed due to placement or choose an elective"
+          },
+          {
+            "subject": "INT",
+            "number": "1555",
+            "name": "Inquire"
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "courses": [
+          {
+            "subject": "CSC",
+            "number": "1590",
+            "name": "Computer Programming"
+          },
+          {
+            "subject": "CSC",
+            "number": "2510",
+            "name": "Introduction to Networks"
+          },
+          {
+            "subject": "ENG",
+            "number": "1530",
+            "name": "English Composition II"
+          },
+          {
+            "subject": "MAT",
+            "number": "1710",
+            "name": "Calculus/Analytic Geometry I"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Social Sciences Elective Recommended: SOC 1510: Intro to Sociology"
+          }
+        ]
+      },
+      {
+        "semester": 3,
+        "courses": [
+          {
+            "subject": "CSC",
+            "number": "2670",
+            "name": "Computer Organization"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Elective or Elective Recommended: CSC 2660: Database Management (if CSC 2540 not already completed)"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Natural Sciences Elective Choose a course from SUNY Gen Ed – Natural Sciences category"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective Recommended: ANT 1520: Introduction to Anthropology"
+          }
+        ]
+      },
+      {
+        "semester": 4,
+        "courses": [
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Elective or Elective Recommended: CSC 2540 Introduction to Systems Analysis"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective*"
+          },
+          {
+            "subject": "MAT",
+            "number": "1670",
+            "name": "Discrete Mathematics"
+          },
+          {
+            "subject": "CSC",
+            "number": "1600",
+            "name": "Data Structures"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": "Community Health Worker (Certificate)",
+    "semesters": [
+      {
+        "semester": 1,
+        "courses": [
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "ANT 1520: Introduction to Cultural Anthropology or SOC 1510: Introduction to Sociology or PSY 1510: General Psychology"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "BIO 1500: Human Biology or BIO 1510: Health Science or BIO 1570: Principles of Cell and Molecular Biology or BIO 2510: Anatomy & Physiology I"
+          },
+          {
+            "subject": "ENG",
+            "number": "1510",
+            "name": "English Composition I"
+          },
+          {
+            "subject": "HUS",
+            "number": "1210",
+            "name": "Introduction to Human Services"
+          },
+          {
+            "subject": "HUS",
+            "number": "1350",
+            "name": "Crisis Intervention"
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "courses": [
+          {
+            "subject": "COH",
+            "number": "1010",
+            "name": "Community Health Worker Internship"
+          },
+          {
+            "subject": "COH",
+            "number": "2500",
+            "name": "Introduction to Public Health"
+          },
+          {
+            "subject": "HUS",
+            "number": "1410",
+            "name": "Generalist Practice Skills"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Electives Behavioral Health: HUS 1310: Introduction to Alcohol and Chemical Dependency HUS 2430: Chemical Dependency Treatment Methods PSY 2560: Abnormal Behavior or SOC 2540: Deviant Behavior ALSO Community Health: COH 1500: Community Health Promotion Choose two of the following: ANT 2550/SOC 2550: Introduction to Dis/Ability Studies ANT 2590/SOC 2590: Sex, Sexuality, and Gender BIO 2760: Nutrition HUS 2370: Gerontology PSY 2510:  Life Span Development PSY 2570: Human Sexuality"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": "Communication (A.S.)",
+    "semesters": [
+      {
+        "semester": 1,
+        "courses": [
+          {
+            "subject": "CMM",
+            "number": "1610",
+            "name": "Public Speaking"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Elective Recommended: CMM 1700: Intro to Social Media Marketing"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving"
+          },
+          {
+            "subject": "ENG",
+            "number": "1510",
+            "name": "Composition I"
+          },
+          {
+            "subject": "INT",
+            "number": "1555",
+            "name": "Inquire"
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "courses": [
+          {
+            "subject": "CMM",
+            "number": "1510",
+            "name": "Introduction to Communication"
+          },
+          {
+            "subject": "",
+            "number": "",
+            "name": "Program Core Elective "
+          },
+          {
+            "subject": "ENG",
+            "number": "1530",
+            "name": "English Composition II"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Social Sciences Elective Recommended: ANT 1520: Intro to Cultural Anthropology"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Natural Sciences Elective Recommended: PHY 1510: Understanding Physics"
+          }
+        ]
+      },
+      {
+        "semester": 3,
+        "courses": [
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Humanities Elective Recommended: CMM 2530: Media Writing"
+          },
+          {
+            "subject": "CMM",
+            "number": "1750",
+            "name": "Rhetoric of Vision and Sound"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Social Sciences Elective Recommended: SOC 1510: Intro to Sociology"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Elective Recommended: CMM 1710: Digital Video Production"
+          }
+        ]
+      },
+      {
+        "semester": 4,
+        "courses": [
+          {
+            "subject": "CMM",
+            "number": "2500",
+            "name": "Interpersonal Communication"
+          },
+          {
+            "subject": "CMM",
+            "number": "2610",
+            "name": "Mass Communication and Media Literacy"
+          },
+          {
+            "subject": "ELEc",
+            "number": "",
+            "name": "Social Sciences Elective Recommended: GLS 1500: Intro to Global Studies"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Program Core Elective Recommended: CMM 2560: Communication Internship"
+          },
+          {
+            "subject": "ELEC",
+            "number": "",
+            "name": "Elective Recommended: SPA 1510: Introductory Spanish"
+          }
+        ]
+      }
+    ]
+  },
+  {
+  "program": "Criminal Justice (A.A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "",
+          "number": "",
+          "name": "CRI 1320 Intro to Law Enforcement or CRI 1520 Intro to Corrections"
+        },
+        {
+          "subject": "CRI",
+          "number": "1510",
+          "name": "Intro to Criminal Justice"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1510"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "PSY 1510: General Psychology or SOC 1510: Introduction to Sociology"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "CRI",
+          "number": "1420",
+          "name": "Report Writing in Criminal Justice"
+        },
+        {
+          "subject": "CRI",
+          "number": "2370",
+          "name": "Criminal Investigations"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: ANT 1520: Intro to Cultural Anthropology or HIS 1510: World History before 1500 or HIS 1520: World History since 1500 or SOC 1510: Intro to Sociology"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "CRI 1560: Homeland Security or CRI 1600: Intro to Intelligence Studies or CRI 2510: Police Community Relations or CRI 2520: Police Administration or CRI 2540: Criminalistics or CRI 2650: Juvenile Justice System or CRI 2570: Organized Crime or CRI 2580: Intro to Terrorism or CRI 2610: White Collar Crime"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "CRI 2330: Criminal Procedural Law or CRI 2530: Criminal Law"
+        },
+        {
+          "subject": "CRI",
+          "number": "2550",
+          "name": "Ethics in Criminal Justice"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Recommended: CMM 1610"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "CRI",
+          "number": "1290",
+          "name": "Physical Fitness for Criminal Justice"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "CRI 1560: Homeland Security or CRI 1600: Intro to Intelligence Studies or CRI 2510: Police Community Relations or CRI 2520: Police Administration or CRI 2540: Criminalistics or CRI 2650: Juvenile Justice System or CRI 2570: Organized Crime or CRI 2580: Intro to Terrorism or CRI 2610: White Collar Crime"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "PSY 2560: Abnormal Behavior or SOC 2560: Criminology or SOC 2580: Race and Ethnicity or PSY 2580: Forensic Psychology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "ASL 1510: Introductory Sign Language I or SPA 1510: Introductory Spanish I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+  {
+  "program": "Criminal Justice (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "CRI",
+          "number": "1510",
+          "name": "Intro to Criminal Justice"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective: PSY 1510: General Psychology or SOC 1510: Introduction to Sociology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended:BIO 1510: Health Science"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective: Recommended: CRI 1320: Intro to Law Enforcement or CRI 1520: Intro to Corrections or CRI 2530: Criminal Law"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective: Choose CRI electives pursuant to concentration area"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective: Recommended: MAT 1500: Problem Solving"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective: Recommended: ANT 1520: Intro to Cultural Anthropology or HIS 1510: World History before 1500 or HIS 1520: World History since 1500 or HIS 1530: US History before 1865 or HIS 1540: US History after 1865 or PSY 1510: General Psychology or SOC 1510: Intro to Sociology"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: CRI 1320: Intro to Law Enforcement or CRI 1520: Intro to Corrections or CRI 2530: Criminal Law or SOC 2560: Criminology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective: Choose CRI electives pursuant to concentration area"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Recommended: SOC 2540: Deviant Behavior or SOC 2580: Race and Ethnicity or PSY 2560: Abnormal Behavior or PSY 2580: Forensic Psychology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: CMM 1610: Public Speaking"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "",
+          "number": "",
+          "name": "Program Core Elective: Choose CRI electives pursuant to concentration area"
+        },
+        {
+          "subject": "CRI",
+          "number": "2550",
+          "name": "Ethics in Criminal Justice"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ANT 1520: Intro to Cultural Anthropology or HIS 1510: World History before 1500 or HIS 1520: World History since 1500 or HIS 1530: US History before 1865 or HIS 1540: US History after 1865 or  PSY 1510: General Psychology or SOC 1510: Intro to Sociology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Elective Recommended: ASL 1510: Introductory Sign Language I or SPA 1510: Introductory Spanish I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Cybersecurity (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "2510",
+          "name": "Introduction to Networks"
+        },
+        {
+          "subject": "CSC",
+          "number": "1570",
+          "name": "Programming Concepts & Applications"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "MAT",
+          "number": "1590",
+          "name": "College Algebra/Trigonometry (or higher)"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "1520",
+          "name": "Introduction to Cybersecurity"
+        },
+        {
+          "subject": "CSC",
+          "number": "1580",
+          "name": "Computer Hardware & System Software"
+        },
+        {
+          "subject": "CSC",
+          "number": "1590",
+          "name": "Computer Programming"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Recommended:  SOC 1510: Intro to Sociology"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "2660",
+          "name": "Database Management"
+        },
+        {
+          "subject": "CSC",
+          "number": "2670",
+          "name": "Computer Organization"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Choose a course from SUNY Gen Ed – Natural Sciences category"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Choose a math course numbered higher than MAT 1590"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "1600",
+          "name": "Data Structures"
+        },
+        {
+          "subject": "CSC",
+          "number": "2480",
+          "name": "Advanced Networking & Security"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ANT 1520: Introduction to Anthropology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a SUNY Gen Ed category not yet completed"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a SUNY Gen Ed category not yet completed"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Cybersecurity (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "1520",
+          "name": "Introduction to Cybersecurity"
+        },
+        {
+          "subject": "CSC",
+          "number": "1570",
+          "name": "Programming Concepts & Applications"
+        },
+        {
+          "subject": "CSC",
+          "number": "1580",
+          "name": "Computer Hardware & System Software"
+        },
+        {
+          "subject": "CSC",
+          "number": "2510",
+          "name": "Introduction to Networks"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "2480",
+          "name": "Advanced Networking & Security"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1590: College Algebra/Trigonometry (or higher)"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from: CSC 1530: Introduction to HTML & CSS (or higher) or BUS 1500: Intro to Business (or higher)"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Digital Audio Production (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "MUS",
+          "number": "1570",
+          "name": "Music Theory I"
+        },
+        {
+          "subject": "MUS",
+          "number": "1710",
+          "name": "Introduction to Sound Recording"
+        },
+        {
+          "subject": "MUS",
+          "number": "1730",
+          "name": "Intro to Music Technology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "MUS 1510: Music Appreciation or MUS 1670: Beginning Piano"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "College Composition I (or higher)"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "MUS",
+          "number": "2890",
+          "name": "Digital/Audio Seminar"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "CMM 1710: Digital Video Production or CMM 1750: Rhetoric of Vision and Sound"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "MUS 1530: Hist. Survey of Rock & Roll or MUS 1670: Beginning Piano"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "MUS 1610: Private Lessons I or MUS 1750-MUS 2880 (music ensembles)"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics & Sciences Elective Recommended: CSC 1510: Intro to Computer Science"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: PSY 1510: General Psychology or HIS 1540: US History Since 1865"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Direct Support Professional (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "COH",
+          "number": "1400",
+          "name": "Fundamentals of Client Care"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "HUS",
+          "number": "1210",
+          "name": "Introduction to Human Services"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "HUS",
+          "number": "1350",
+          "name": "Crisis Intervention"
+        },
+        {
+          "subject": "HUS",
+          "number": "1410",
+          "name": "Generalist Practice Skills"
+        },
+        {
+          "subject": "PSY",
+          "number": "1510",
+          "name": "General Psychology"
+        },
+        {
+          "subject": "COH",
+          "number": "2010",
+          "name": "Direct Support Professional Internship II"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "HUS",
+          "number": "2230",
+          "name": "Interviewing and Counseling"
+        },
+        {
+          "subject": "OTA",
+          "number": "1520",
+          "name": "Human Conditions Across the Lifespan"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "ANT 2550/SOC 2550: Introduction to Dis/Ability Studies"
+        },
+        {
+          "subject": "COH",
+          "number": "1020",
+          "name": "Direct Support Professional Internship"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Early Childhood (A.A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "EDU",
+          "number": "1250",
+          "name": "Early Childhood Development"
+        },
+        {
+          "subject": "EDU",
+          "number": "1290",
+          "name": "Introduction to Early Childhood Education Care"
+        },
+        {
+          "subject": "EDU",
+          "number": "1310",
+          "name": "Family, School, & Community Relations"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "PSY",
+          "number": "1510",
+          "name": "General Psychology"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "PSY",
+          "number": "2520",
+          "name": "Child Development"
+        },
+        {
+          "subject": "EDU",
+          "number": "1260",
+          "name": "Health, Safety, and Nutrition/Child"
+        },
+        {
+          "subject": "EDU",
+          "number": "2210",
+          "name": "Field Placement I"
+        },
+        {
+          "subject": "EDU",
+          "number": "1300",
+          "name": "Observation & Guidance of Young Children"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "EDU",
+          "number": "2150",
+          "name": "Infant & Toddler Development/Education"
+        },
+        {
+          "subject": "EDU",
+          "number": "2440",
+          "name": "Children’s Literature"
+        },
+        {
+          "subject": "EDU",
+          "number": "2450",
+          "name": "Exceptional Children"
+        },
+        {
+          "subject": "EDU",
+          "number": "2460",
+          "name": "Exceptional Children Field Experience"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving or MAT 1540: Statistics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: ANT 1520: Cultural Anthropology or SOC 1510: Intro to Sociology or PSY 1550: Stress & Coping or PSY 2500: Psychology of Personality or PSY 2530: Social Psychology or PSY 2560: Abnormal Behavior"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "EDU",
+          "number": "2220",
+          "name": "Field Placement II"
+        },
+        {
+          "subject": "EDU",
+          "number": "2510",
+          "name": "Philosophy and Techniques of Early Childhood Education"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1510: Health Science"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: EDU 2500: Literacy in the Classroom or EDU 1230: Working with Children"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: LDR 1300: Leadership Engagement or LDR 1660: Leadership Development or HUS 1220: Poverty/Social Class/America or HUS 1280: Intro to Family Systems"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Early Childhood Development (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "EDU",
+          "number": "1250",
+          "name": "Early Childhood Development"
+        },
+        {
+          "subject": "EDU",
+          "number": "1260",
+          "name": "Health, Safety & Nutrition in Early Childhood Development"
+        },
+        {
+          "subject": "EDU",
+          "number": "1290",
+          "name": "Introduction to Early Childhood Education"
+        },
+        {
+          "subject": "EDU",
+          "number": "1310",
+          "name": "Family, School, and Community Partnerships"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "PSY",
+          "number": "1510",
+          "name": "General Psychology"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "PSY",
+          "number": "2520",
+          "name": "Child Development"
+        },
+        {
+          "subject": "EDU",
+          "number": "2210",
+          "name": "Field Placement I - Education"
+        },
+        {
+          "subject": "EDU",
+          "number": "1300",
+          "name": "Observation & Guidance of Young Children"
+        },
+        {
+          "subject": "EDU",
+          "number": "2440",
+          "name": "Children’s Literature"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Early Childhood Education (Liberal Arts & Sciences) (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "EDU",
+          "number": "1510",
+          "name": "Foundations of Education"
+        },
+        {
+          "subject": "PSY",
+          "number": "1510",
+          "name": "General Psychology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Specialization Elective Choose a concentration course"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "World Language Recommended: ASL 1510: Introduction to Sign Language I or SPA 1510: Introductory Spanish I or FRE 1510: Introductory French I"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "PSY",
+          "number": "2520",
+          "name": "Child Development"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Specialization Elective Choose a concentration course"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving or MAT 1540: Elementary Statistics"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "World Language Recommended: ASL 1520: Introduction to Sign Language II or SPA 1520: Introductory Spanish II or FRE 1520: Introductory French II"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Specialization Elective Choose a concentration course"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: EDU 2450: Exceptional Children and EDU 2460: Field Experience/Exceptional Child"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: HIS 1530: US History Before 1865 or HIS 1540: US History Since 1865 or HIS 2610: Intro to US Women’s History"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: HIS 1510: World History Before 1500 or HIS 1520: World History Since 1500 or ENG 2730: World Mythology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Specialization Elective or Program Core Elective Recommended: EDU 1290: Intro to Early Childhood Education/Care or EDU 2330: Behavior Management in the Inclusive Classroom or ENG 2440: Children’s Literature"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Specialization Elective Choose a concentration course" 
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: EDU 2500: Literacy in the Classroom or MAE 2510: Math for Elementary Teachers or EDU 2150: Infant/Toddler/Development/Edu or EDU 2510: Philosophy/Techniques Young Children"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Science Elective Recommended: BIO 1510: Health Science or Lab Science (dependent upon Program Core Elective choices)"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ENG 2540: Creative Writing or ENG 2740: Newswriting and Editing or ENG 2890: Creative Nonfiction or CMM 1610: Public peaking or THE 1510: Introduction to Theater or ART 1500: Intro to Art or MUS 1570: Music Theory I or MUS 1630: Beginning Piano or MUS 1670: Beginning Guitar"        	},
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Economics (Social Sciences) (Liberal Arts & Sciences) (A.A.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "MAT",
+          "number": "1600",
+          "name": "Precalculus"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: PSY 1510: General Psychology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: HIS 1520: World History Since 1500 or HIS 1540: US History Since 1865"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: SOC 1510: Intro to Sociology or ANT 1520: Intro to Cultural Anthropology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: ECO 1530: Contemporary Economic Problems"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: MAT 1710: Calculus/Analytic Geometry"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: HIS 1520: World History Since 1500  or HIS 1540: US History Since 1865"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "ECO 2610: Macroeconomics or ECO 2620: Microeconomics"
+        },
+        {
+          "subject": " ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose any course not already required within the PSY, ANT, ECO, GEO, GLS, HIS, POL, or SOC disciplines that is approved for Applied Learning"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1510: Health Science"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Humanities Elective Recommended: CMM 1610: Public Speaking or PHL 1510: Intro to Philosophy"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: BUS 1510: Principles of Financial Accounting"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "ECO 2610: Macroeconomics or ECO 2620: Microeconomics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective If necessary, choose a course from a SUNY Gen Ed category not yet completed"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: MAT 1540: Elementary Statistics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Engineering Science (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "CHE",
+          "number": "1550",
+          "name": "College Chemistry I"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ENR",
+          "number": "1560",
+          "name": "Introduction to Engineering and Engineering Design"
+        },
+        {
+          "subject": "MAT",
+          "number": "1710",
+          "name": "Calculus and Analytic Geometry I"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "1610",
+          "name": "Computer Programming for Scientists and Engineers"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "MAT",
+          "number": "1720",
+          "name": "Calculus and Analytic Geometry II"
+        },
+        {
+          "subject": "PHY",
+          "number": "1710",
+          "name": "Analytical Physics I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: ANT 1510: Human Evolution and Prehistory"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ENR",
+          "number": "2510",
+          "name": "Thermodynamics"
+        },
+        {
+          "subject": "ENR",
+          "number": "2550",
+          "name": "Mechanics – Statics"
+        },
+        {
+          "subject": "ENR",
+          "number": "2740",
+          "name": "Analysis of Linear Electric Circuits"
+        },
+        {
+          "subject": "MAT",
+          "number": "2650",
+          "name": "Calculus and Analytic Geometry III"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: MAT 2670: Linear Algebra or CHE 2530: Organic Chemistry I"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ENR",
+          "number": "2560",
+          "name": "Mechanics - Dynamics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: ENR 2580: Strength of Materials"
+        },
+        {
+          "subject": "MAT",
+          "number": "2680",
+          "name": "Ordinary Differential Equations"
+        },
+        {
+          "subject": "PHY",
+          "number": "2710",
+          "name": "Analytical Physics II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: SOC 1510: Introduction to Sociology"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "English (Language, Literature, & Writing) (Liberal Arts & Sciences) (A.A.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ENG",
+          "number": "1540",
+          "name": "Intro to Literary Studies"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving or MAT 1540: Elementary Statistics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "World Language Choose a course from SUNY Gen Ed – World Languages category"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: ANT 1520: Intro to Cultural Anthropology or ANT 1530: Comparative Religion or SOC 1510: Intro to Sociology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics & Sciences Elective Recommended: CSC 1530: Intro to HTML & CSS or MAT 1540: Elementary Statistics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "World Language"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: World Language or ENG 1580: Intro to Technical Writing or PHL 1510: Intro. to Philosophy or PHL 1570: Critical Reasoning"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "2540",
+          "name": "Creative Writing"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a 2000-level, track-specific course Language Track: Two 2000-level sequence courses in Spanish (SPA 2510 and SPA 2520) or French (FRE 2510 and FRE 2520) Two additional 2000-level language courses: SPA 2530, SPA 2550, SPA 2560, RUS 2560 Literature Track: Four of the following: ENG 2510, ENG 2520, ENG 2550, ENG 2560, ENG 2580, ENG 2590, ENG 2610, ENG 2620, ENG 2560, ENG 2650, ENG 2660, ENG 2730, ENG 2830, ENG 2840, ENG 2850, ENG 2870 Writing Track: All of the following: ENG 2540, ENG 2740, ENG 2890, CMM 2530"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a 2000-level, track-specific course Language Track: Two 2000-level sequence courses in Spanish (SPA 2510 and SPA 2520) or French (FRE 2510 and FRE 2520) Two additional 2000-level language courses: SPA 2530, SPA 2550, SPA 2560, RUS 2560 Literature Track: Four of the following: ENG 2510, ENG 2520, ENG 2550, ENG 2560, ENG 2580, ENG 2590, ENG 2610, ENG 2620, ENG 2560, ENG 2650, ENG 2660, ENG 2730, ENG 2830, ENG 2840, ENG 2850, ENG 2870 Writing Track: All of the following: ENG 2540, ENG 2740, ENG 2890, CMM 2530"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1500: Human Biology or CHE 1500: Intro to Chemistry"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a 2000-level, track-specific course Language Track: Two 2000-level sequence courses in Spanish (SPA 2510 and SPA 2520) or French (FRE 2510 and FRE 2520) Two additional 2000-level language courses: SPA 2530, SPA 2550, SPA 2560, RUS 2560 Literature Track: Four of the following: ENG 2510, ENG 2520, ENG 2550, ENG 2560, ENG 2580, ENG 2590, ENG 2610, ENG 2620, ENG 2560, ENG 2650, ENG 2660, ENG 2730, ENG 2830, ENG 2840, ENG 2850, ENG 2870 Writing Track: All of the following: ENG 2540, ENG 2740, ENG 2890, CMM 2530"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a 2000-level, track-specific course Language Track: Two 2000-level sequence courses in Spanish (SPA 2510 and SPA 2520) or French (FRE 2510 and FRE 2520) Two additional 2000-level language courses: SPA 2530, SPA 2550, SPA 2560, RUS 2560 Literature Track: Four of the following: ENG 2510, ENG 2520, ENG 2550, ENG 2560, ENG 2580, ENG 2590, ENG 2610, ENG 2620, ENG 2560, ENG 2650, ENG 2660, ENG 2730, ENG 2830, ENG 2840, ENG 2850, ENG 2870 Writing Track: All of the following: ENG 2540, ENG 2740, ENG 2890, CMM 2530"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: HIS 1510: World History before 1500 or HIS 1520: World History since 1500 or HIS 1530: US History before 865 or HIS 1540: US History since 1865 or HIS 2610: Women’s History"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Entrepreneurship (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "BUS",
+          "number": "1430",
+          "name": "Entrepreneurship & Innovation"
+        },
+        {
+          "subject": "ENT",
+          "number": "1440",
+          "name": "Small Business Management"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: BUS 1500: Intro to Business or BUS 1650: Global Business"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics & Sciences Elective Recommended: MAT 1500: Problem Solving"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I (or higher)"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ENT",
+          "number": "1490",
+          "name": "Launching Ventures"
+        },
+        {
+          "subject": "BUS",
+          "number": "2540",
+          "name": "Business Law II"
+        },
+        {
+          "subject": "CSC",
+          "number": "1560",
+          "name": "Computer Application Software I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: BUS 2550: Marketing or BUS 2580: Management & Organizational Behavior or ENT 1480: Entrepreneurship Internship"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: LDR 1660: Leadership Development or ECO 1530: Contemporary Economic Problems or ECO 2610: Macroeconomics or ECO 2620: Microeconomics"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Global Affairs (A.A.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "GLS",
+          "number": "1500",
+          "name": "Introduction to Global Studies"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "College Composition I"
+        },
+        {
+          "subject": "MAT",
+          "number": "1540",
+          "name": "Elementary Statistics"
+        },
+        {
+          "subject": "GEO",
+          "number": "1520",
+          "name": "World Regional Geography"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "World Language Elective* Recommended: ARA 1510: Introductory Arabic I or ASL 1510: Introductory American Sign Language I or CHI 1510: Introductory Chinese I or FRE 1510: Introductory French I or RUS 1510: Introductory Russian I or SPA 1510: Introductory Spanish I"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "World Language Elective* Recommended: ARA 1520: Introductory Arabic II or ASL 1520: Introductory American Sign Language II or CHI 1520: Introductory Chinese II or FRE 1520: Introductory French II or RUS 1520: Introductory Russian II or SPA 1520: Introductory Spanish II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "HIS 1510: World History Before 1500 or HIS 1520: World History Since 1500"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1551: Introduction to Environmental Science"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "POL",
+          "number": "1520",
+          "name": "World Politics"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "CMM",
+          "number": "2500",
+          "name": "Interpersonal Communication"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a course from Cultural and Regional Studies ANT 1520: Intro to Cultural Anthropology ANT 1530 or REL 1530:Anthropology of the Supernatural ANT 1540 World Archaeology ANT 2510: Indigenous Peoples/North America ANT 2520: Peoples/Cultures of WorldART 1550: Art in Culture I ART 1560: Art in Culture II CMM 2610: Mass Commun/Media Literacy ENG 2510: World Lit - Enlightenment ENG 2520: World Lit since Enlightenment ENG 2600: Women in Literature ENG 2730: World Mythology REL 2580: Survey of Islamic Studies RUS 2560: Russian Civilization & Culture SOC 2510: Marriage & the Family SPA 2560: Latin American Civ/Culture"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a course from Institutions and Issues ANT 2550 or SOC 2550: Introduction to Dis/Ability Studies ANT 2590 or SOC 2590: Sex, Sexuality, and Gender BIO 1551: Introduction to Environmental Studies BIO 2570 or PHL 2570: Environmental Issues/Ethics BIO 2620: Tropical Biology BUS 1650: Global Business BUS 1710: Sustainable Tourism Planning & Development COH 2500: Introduction to Public Health CRI 2580: Introduction to Terrorism ECO 1530: Contemporary Economic Problems ECO 2610: Macroeconomic Principles ECO 2620: Microeconomic Principles POL 2860: European Union SOC 1510: Introduction to Sociology SOC 2520: Social Problems SOC 2580: Race & Ethnicity"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "GLS",
+          "number": "2500",
+          "name": "Global Affairs Keystone Project"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "GLS 2010: Global Studies Internship or SPA 1600 and SPA 1601: Globalize Your Mind or SPA 2600 and SPA 2601: Globalize Your Mind II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a course from Peace, Justice, Conflict Management ANT 2550 or SOC 2550: Introduction to Disability Studies ANT 2590 or SOC 2590: Sex, Sexuality, and Gender CRI 2550: Ethics in Criminal Justice LDR 1660: Leadership Development PHL 2630: Contemporary Moral Problems POL 2530: Law & Civil Rights PSY 2530: Social Psychology PSY 2590: Cross-Cultural Psychology SOC 2520: Social Problems  SOC 2580: Race & Ethnicity"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a 2000-level course Cultural and Regional Studies: ANT 2510: Indigenous Peoples/North America ANT 2520:Peoples/Cultures of World CMM 2610: Mass Commun/Media Literacy ENG 2510: World Lit - Enlightenment ENG 2520: World Lit since Enlightenment ENG 2600: Women in Literature ENG 2730: World Mythology REL 2580: Survey of Islamic Studies RUS 2560: Russian Civilization & Culture SOC 2510: Marriage & the Family SPA 2560: Latin American Civ/Culture Institutions and Issues: ANT 2550 or SOC 2550: Introduction to Dis/Ability Studie ANT 2590 or SOC 2590: Sex, Sexuality, and Gender BIO 2570 or PHL 2570: Environmental Issues/Ethics BIO 2620: Tropical Biology COH 2500: Introduction to Public Health CRI 2580: Introduction to Terrorism ECO 2610: Macroeconomic Principles ECO 2620: Microeconomic Principles POL 2860: European Union SOC 2520: Social Problems SOC 2580: Race & Ethnicity Peace, Justice, and Conflict Management: ANT 2550 or SOC 2550: Introduction to Disability Studies ANT 2590 or SOC 2590: Sex, Sexuality, and Gender CRI 2550: Ethics in Criminal Justice PHL 2630: Contemporary Moral Problems POL 2530: Law & Civil Rights PSY 2530: Social Psychology PSY 2590: Cross-Cultural Psychology SOC 2520 Social Problems SOC 2580 Race & Ethnicity"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Graphic Design (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ART",
+          "number": "1510",
+          "name": "Drawing I"
+        },
+        {
+          "subject": "ART",
+          "number": "1530",
+          "name": "2-D Design & Color"
+        },
+        {
+          "subject": "ART",
+          "number": "1730",
+          "name": "Graphic Design I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "ART 2540: 4D Design or ART 2550: Animation"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "ART 1540: 3-D Design, Concepts, & Materials or ART 2540: 4D Design"
+        },
+        {
+          "subject": "ART",
+          "number": "1740",
+          "name": "Typography & Layout"
+        },
+        {
+          "subject": "ART",
+          "number": "1750",
+          "name": "Graphic Design II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "ART 1611: Studio Projects Design I or ART 2560: Art & Design: Portfolio & Professionalism or ART Internship"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Graphic Design (Studio Arts) (Fine Arts) (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ART",
+          "number": "1510",
+          "name": "Drawing I"
+        },
+        {
+          "subject": "ART",
+          "number": "1530",
+          "name": "2-D Design and Color"
+        },
+        {
+          "subject": "ART",
+          "number": "1730",
+          "name": "Graphic Design I"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective"
+        },
+        {
+          "subject": "ART",
+          "number": "1750",
+          "name": "Graphic Design II"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving with Math (or higher)"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ART",
+          "number": "1550",
+          "name": "Art in Culture I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "ART 1670: Photo I: Digital Photography or ART 2590: Photo II: Digital & Darkroom"
+        },
+        {
+          "subject": "ART",
+          "number": "1740",
+          "name": "Typography and Layout"
+        },
+        {
+          "subject": "ART",
+          "number": "2560",
+          "name": "Art & Design: Portfolio & Professionalism"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1510: Health Science"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ART",
+          "number": "1540",
+          "name": "3D Design/Concepts/Materials"
+        },
+        {
+          "subject": "ART",
+          "number": "1560",
+          "name": "Art in Culture II"
+        },
+        {
+          "subject": "ART",
+          "number": "2540",
+          "name": "4D Design"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: ART 1500: Art & Design Appreciation"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: SOC 1510: Intro to Sociology"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Health Information Technology (A.A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "HIT",
+          "number": "1410",
+          "name": "Medical Terminology"
+        },
+        {
+          "subject": "HIT",
+          "number": "1420",
+          "name": "Health Data Procedures"
+        },
+        {
+          "subject": "BUS",
+          "number": "1360",
+          "name": "Keyboarding/Word Processing"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective - Biology Recommended: BIO 1510: Health Science"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "HIT",
+          "number": "1460",
+          "name": "Electronic Health Record Management"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: PSY 1510: General Psychology"
+        },
+        {
+          "subject": "CSC",
+          "number": "1560",
+          "name": "Computer Applications Software I"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "HIT",
+          "number": "2440",
+          "name": "Medical Coding I (CPT)"
+        },
+        {
+          "subject": "HIT",
+          "number": "2430",
+          "name": "Healthcare Documentation and Medical Transcription"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: SOC 1510: Introduction to Sociology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ANT 1520: Intro to Cultural Anthropology or ANT 2520: Peoples/Cultures of World or BUS 1650: Global Business"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "HIT",
+          "number": "2450",
+          "name": "Medical Coding II (ICD-10-CM)"
+        },
+        {
+          "subject": "HIT",
+          "number": "2460",
+          "name": "Health Insurance and Reimbursement"
+        },
+        {
+          "subject": "BUS",
+          "number": "2420",
+          "name": "Professional Development/Internship"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Health Information Technology (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "HIT",
+          "number": "1410",
+          "name": "Medical Terminology"
+        },
+        {
+          "subject": "HIT",
+          "number": "1420",
+          "name": "Health Data Procedures"
+        },
+        {
+          "subject": "BUS",
+          "number": "1360",
+          "name": "Keyboarding/Word Processing"
+        },
+        {
+          "subject": "BIO",
+          "number": "1510",
+          "name": "Health Science"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I (or higher)"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "HIT",
+          "number": "1460",
+          "name": "Electronic Health Record Management"
+        },
+        {
+          "subject": "CSC",
+          "number": "1560",
+          "name": "Computer Applications Software I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: PSY 1510: General Psychology or SOC 1510: Introduction to Sociology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Electives Recommended: HIT 2430: Healthcare Documentation/Medical Transcription or HIT 2440: Medical Coding I (CPT) or HIT 2450: Medical Coding II (ICD-10-CM) or BUS 2320: Word Processing Production or Any BUS elective, or math and/or English elective if pursuing A.A.S. degree"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Healthcare Studies (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "HCR",
+          "number": "1200",
+          "name": "Introduction to Healthcare Studies"
+        },
+        {
+          "subject": "HCR",
+          "number": "1210",
+          "name": "Introduction to Disease or"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I (or higher)"
+        },
+        {
+          "subject": "BIO",
+          "number": "1500",
+          "name": "Human Biology or"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from the following list: BIO 1500: Human Biology BIO 1510: Health Science BIO 2510: Anatomy and Physiology I BIO 2520: Anatomy and Physiology II BIO 2531: Microbiology and BIO 2532: Microbiology Lab BIO 2760: Nutrition CHE 1500: Intro to Chemistry CHE 1530: Allied Health Chemistry CHE 1550: College Chemistry I CMM 1610: Public Speaking CMM 2100: Communication at Work CMM 2500: Interpersonal Communication CSC 1560: Computer Applications Software I HCR 1300: Adult & Child CPR/AED HCR 1310: First Aid & Mental Health HCR 1450: Emergency Medical Technology HCR 1460: Personal Health and Safety HCR 2010: Healthcare Studies Internship HCR 2020: Healthcare Studies Internship II HIT 1410: Medical Terminology HIT 1420: Health Data Procedures HUM 1510: Achievement and Self HUM 1550: Life/Career Planning HUS 1210: Intro to Human Services INT 1500: Master Student INT 1555: Inquire OTA 1510: Foundation of Occupational Therapy OTA 1530: Fundamental Skills of OTA I PHE 1310: Healthy Weight Management PHE 1510: Intro to Fitness PHE 1530: Fundamentals of Movement PHE 1590: Principles of Fitness and Wellness PHE 1620: Fitness Concepts/Applications"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "PSY 1510: General Psychology or SOC 1510: Introduction to Sociology"
+        },
+        {
+          "subject": "MAT",
+          "number": "1500",
+          "name": "Problem Solving with Mathematics (or higher)"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from the following list: BIO 1500: Human Biology BIO 1510: Health Science BIO 2510: Anatomy and Physiology I BIO 2520: Anatomy and Physiology II BIO 2531: Microbiology and BIO 2532: Microbiology Lab BIO 2760: Nutrition CHE 1500: Intro to Chemistry CHE 1530: Allied Health Chemistry CHE 1550: College Chemistry I CMM 1610: Public Speaking CMM 2100: Communication at Work CMM 2500: Interpersonal Communication CSC 1560: Computer Applications Software I HCR 1300: Adult & Child CPR/AED HCR 1310: First Aid & Mental Health HCR 1450: Emergency Medical Technology HCR 1460: Personal Health and Safety HCR 2010: Healthcare Studies Internship HCR 2020: Healthcare Studies Internship II HIT 1410: Medical Terminology HIT 1420: Health Data Procedures HUM 1510: Achievement and Self HUM 1550: Life/Career Planning HUS 1210: Intro to Human Services INT 1500: Master Student INT 1555: Inquire OTA 1510: Foundation of Occupational Therapy OTA 1530: Fundamental Skills of OTA I PHE 1310: Healthy Weight Management PHE 1510: Intro to Fitness PHE 1530: Fundamentals of Movement PHE 1590: Principles of Fitness and Wellness PHE 1620: Fitness Concepts/Applications"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from the following list: BIO 1500: Human Biology BIO 1510: Health Science BIO 2510: Anatomy and Physiology I BIO 2520: Anatomy and Physiology II BIO 2531: Microbiology and BIO 2532: Microbiology Lab BIO 2760: Nutrition CHE 1500: Intro to Chemistry CHE 1530: Allied Health Chemistry CHE 1550: College Chemistry I CMM 1610: Public Speaking CMM 2100: Communication at Work CMM 2500: Interpersonal Communication CSC 1560: Computer Applications Software I HCR 1300: Adult & Child CPR/AED HCR 1310: First Aid & Mental Health HCR 1450: Emergency Medical Technology HCR 1460: Personal Health and Safety HCR 2010: Healthcare Studies Internship HCR 2020: Healthcare Studies Internship II HIT 1410: Medical Terminology HIT 1420: Health Data Procedures HUM 1510: Achievement and Self HUM 1550: Life/Career Planning HUS 1210: Intro to Human Services INT 1500: Master Student INT 1555: Inquire OTA 1510: Foundation of Occupational Therapy OTA 1530: Fundamental Skills of OTA I PHE 1310: Healthy Weight Management PHE 1510: Intro to Fitness PHE 1530: Fundamentals of Movement PHE 1590: Principles of Fitness and Wellness PHE 1620: Fitness Concepts/Applications"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Homeland Security (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "CRI",
+          "number": "1510",
+          "name": "Intro to Criminal Justice"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "PSY 1510: General Psychology or SOC 1510: Introduction to Sociology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1510: Health Science"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "CRI",
+          "number": "1560",
+          "name": "Homeland Security"
+        },
+        {
+          "subject": "CRI",
+          "number": "1600",
+          "name": "Intro to Intelligence Studies"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving w/Mathematics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ANT 1520: Intro to Cultural Anthropology or HIS 1510: World History before 1500 or HIS 1520: World History since 1500 or SOC 1510: Intro to Sociology"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "CRI",
+          "number": "2580",
+          "name": "Introduction to Terrorism"
+        },
+        {
+          "subject": "CRI",
+          "number": "2550",
+          "name": "Ethics in Criminal Justice"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: CRI 2570: Organized Crime or CRI 2610: White Collar Crime or CRI 2660: Advanced Terrorism Studies or CRI 2670: Intelligence Analysis for Homeland Security"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: SOC 2540: Deviant Behavior or SOC 2580: Race and Ethnicity or PSY 2560: Abnormal Behavior or PSY 2580: Forensic Psychology or POL 1510: American Politics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: CMM 1610: Public Speaking"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "CRI",
+          "number": "2680",
+          "name": "The Constitution and Homeland Security"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: CRI 2570: Organized Crime or CRI 2610: White Collar Crime or CRI 2660: Advanced Terrorism Studies or CRI 2670: Intelligence Analysis for Homeland Security"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ANT 1520: Intro to Cultural Anthropology or HIS 1510: World History Before 1500 or HIS 1520: World History Since 1500 or PSY 1510: General Psychology or SOC 1510: Intro to Sociology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ASL 1510: Introductory Sign Language I or SPA 1510: Introductory Spanish I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Human Services (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "HUS",
+          "number": "1210",
+          "name": "Introduction to Human Services"
+        },
+        {
+          "subject": "PSY",
+          "number": "1510",
+          "name": "General Psychology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Consider program track or transfer school requirements"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "HUS",
+          "number": "1410",
+          "name": "Generalist Practice Skills"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "BIO 1500: Human Biology or BIO 1510: Health Science"
+        },
+        {
+          "subject": "SOC",
+          "number": "1510",
+          "name": "Introduction to Sociology"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "HUS",
+          "number": "2230",
+          "name": "Interviewing and Counseling"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a course from your program track Mental Health Track HUS 1310: Intro to Alcohol & Chemical Dependency HUS 2430: Chemical Dependency Treatment Methods PSY 2560: Abnormal Psychology PSY 2540: Interpersonal & Group Dynamics Child & Adolescent Track HUS 1280: Family Systems PSY 2520: Child Development HUS 2340: Working with Adolescents or PSY 2550: Psychology of Adolescents Gerontology Track HUS 1280: Family Systems HUS 2370: Introduction to Gerontology PSY 1610: Death and Dying PSY 2510: Life Span Development Criminal & Forensic Practice HUS 1310: Intro to Alcohol & Chemical Dependency CRI 1510: Introduction to Criminal Justice CRI 2620: Introduction to Probation & Parole CRI 2650 Juvenile Justice System Community & Policy Practice POL 1510 American Politics SOC 2520: Social Problems SOC 2580: Race and Ethnicity ANT 2590/SOC 2590: Sex, Sexuality and Gender"
+        },
+        {
+          "subject": "MAT",
+          "number": "1540",
+          "name": "Elementary Statistics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a course from a SUNY Gen Ed category not yet completed with a focus on Global Perspectives"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a course from a SUNY Gen Ed category"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Consider program track or transfer school requirements"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a course from a SUNY Gen Ed category not yet completed"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "HUS 2250: Policy and Organization or HUS 1280: Intro to Family Systems"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "HUS 2210 or HUS 2215: Field Placement I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a course from your program track Mental Health Track HUS 1310: Intro to Alcohol & Chemical Dependency HUS 2430: Chemical Dependency Treatment Methods PSY 2560: Abnormal Psychology PSY 2540: Interpersonal & Group Dynamics Child & Adolescent Track HUS 1280: Family Systems PSY 2520: Child Development HUS 2340: Working with Adolescents or PSY 2550: Psychology of Adolescents Gerontology Track HUS 1280: Family Systems HUS 2370:Introduction to Gerontology PSY 1610: Death and Dying PSY 2510: Life Span Development Criminal & Forensic Practice HUS 1310: Intro to Alcohol & Chemical Dependency CRI 1510: Introduction to Criminal Justice CRI 2620: Introduction to Probation & Parole CRI 2650 Juvenile Justice System Community & Policy Practice POL 1510 American Politics SOC 2520: Social Problems SOC 2580: Race and Ethnicity ANT 2590/SOC 2590: Sex, Sexuality and Gender"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Individual Studies (A.A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Choose a mathematics course based on placement"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: SOC 1510: Intro to Sociology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: HUM 1550: Life and Career Planning"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: Choose a course from SUNY Gen Ed – Social Sciences category"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a course that emphasizes values and ethics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a course that provides an opportunity to apply what you have learned"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Individual Studies (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Math Elective Choose a college-level mathematics course based on placement"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Choose a course from SUNY Gen Ed – Social Sciences category"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Choose a course from SUNY Gen Ed – Natural Sciences category"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "SUNY General Education Elective Choose a course from a SUNY Gen Ed category not yet completed"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "SUNY General Education Elective Choose a course from any SUNY Gen Ed category"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Choose a course from a SUNY Gen Ed category not yet completed"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "SUNY General Education Elective Choose a course from any SUNY Gen Ed category"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a course emphasizing values and ethics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "SUNY General Education Elective Choose a course from any SUNY Gen Ed category"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a course that provides an opportunity to apply what you have learned"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Individual Studies (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics and Sciences Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Industrial Equipment Technology (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ELC",
+          "number": "1200",
+          "name": "Fundamentals of Electricity"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "CSC 1560: Computer App Software I or CSC 1580: Computer Hardware & System Software or MCT 1380: Introduction to Solid Modeling"
+        },
+        {
+          "subject": "MCT",
+          "number": "1240",
+          "name": "Engineering Drawing with AutoCAD"
+        },
+        {
+          "subject": "MCT",
+          "number": "1270",
+          "name": "Machine Theory and Operations"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ELC",
+          "number": "1220",
+          "name": "Industrial Automation/Programmable Logic Controllers"
+        },
+        {
+          "subject": "ELC",
+          "number": "1230",
+          "name": "Electric Motors and Control Systems"
+        },
+        {
+          "subject": "MCT",
+          "number": "1210",
+          "name": "Applied Pneumatics and Hydraulics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "MCT 1280: Computer Numeric Control with Machine Tools or MCT 2220: Automation and Robotics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "WLD 1350: Shielded Metal Arc Welding or WLD 1360: Gas Metal Arc Welding or WLD 1370: Gas Tungsten Arc Welding"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Information Technology (A.A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "1570",
+          "name": "Programming Concepts/Applications"
+        },
+        {
+          "subject": "CSC",
+          "number": "2510",
+          "name": "Intro to Networks"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective (college-level)"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "1520",
+          "name": "Intro to Cybersecurity"
+        },
+        {
+          "subject": "CSC",
+          "number": "1580",
+          "name": "Computer Hardware & System Software I"
+        },
+        {
+          "subject": "CSC",
+          "number": "1530",
+          "name": "Introduction to HTML & CSS"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: PSY 1510: General Psychology"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from non-required CSC courses above 1510 or BUS 1500"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from non-required CSC courses above 1510 or BUS 1500"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Choose a course from SUNY Gen Ed – Natural Sciences category"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: SOC 1510: Introduction to Sociology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: Math course if needed or ART 1730: Intro to Computer Art/Design"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "2450",
+          "name": "CIT Capstone"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from non-required CSC courses above 1510 or BUS 1500"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from non-required CSC courses above 1510 or BUS 1500"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a SUNY Gen Ed as needed"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a SUNY Gen Ed as needed"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Information Technology (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "1570",
+          "name": "Programming Concepts and Applications"
+        },
+        {
+          "subject": "CSC",
+          "number": "2510",
+          "name": "Introduction to Networks"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving with Mathematics (or higher)"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: SOC 1510: Introduction to Sociology"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "1520",
+          "name": "Intro to Cybersecurity"
+        },
+        {
+          "subject": "CSC",
+          "number": "1580",
+          "name": "Computer Hardware & System Software"
+        },
+        {
+          "subject": "CSC",
+          "number": "1530",
+          "name": "Introduction to HTML & CSS"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from non-required CSC courses above 1510 or BUS 1500"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Language, Literature, & Writing (Liberal Arts & Sciences) (A.A.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ENG",
+          "number": "1540",
+          "name": "Intro to Literary Studies"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving or MAT 1540: Elementary Statistics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "World Language Choose a course from SUNY Gen Ed – World Languages category"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: ANT 1520: Intro to Cultural Anthropology or ANT 1530: Comparative Religion or SOC 1510: Intro to Sociology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics & Sciences Elective Recommended: CSC 1530: Intro to HTML & CSS or MAT 1540: Elementary Statistics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "World Language Choose a course from SUNY Gen Ed – World Languages category"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: World Language or ENG 1580: Intro to Technical Writing or PHL 1510: Intro. to Philosophy or PHL 1570: Critical Reasoning"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "2540",
+          "name": "Creative Writing"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a 2000-level, track-specific course Language Track: Two 2000-level sequence courses in Spanish (SPA 2510 and SPA 2520) or French (FRE 2510 and FRE 2520) Two additional 2000-level language courses: SPA 2530, SPA 2550, SPA 2560, RUS 2560 Literature Track: Four of the following: ENG 2510, ENG 2520, ENG 2550, ENG 2560, ENG 2580, ENG 2590, ENG 2610, ENG 2620, ENG 2560, ENG 2650, ENG 2660, ENG 2730, ENG 2830, ENG 2840, ENG 2850, ENG 2870 Writing Track: All of the following: ENG 2540, ENG 2740, ENG 2890, CMM 2530"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a 2000-level, track-specific course Language Track: Two 2000-level sequence courses in Spanish (SPA 2510 and SPA 2520) or French (FRE 2510 and FRE 2520) Two additional 2000-level language courses: SPA 2530, SPA 2550, SPA 2560, RUS 2560 Literature Track: Four of the following: ENG 2510, ENG 2520, ENG 2550, ENG 2560, ENG 2580, ENG 2590, ENG 2610, ENG 2620, ENG 2560, ENG 2650, ENG 2660, ENG 2730, ENG 2830, ENG 2840, ENG 2850, ENG 2870 Writing Track: All of the following: ENG 2540, ENG 2740, ENG 2890, CMM 2530"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1500: Human Biology or CHE 1500: Intro to Chemistry"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a 2000-level, track-specific course Language Track: Two 2000-level sequence courses in Spanish (SPA 2510 and SPA 2520) or French (FRE 2510 and FRE 2520) Two additional 2000-level language courses: SPA 2530, SPA 2550, SPA 2560, RUS 2560 Literature Track: Four of the following: ENG 2510, ENG 2520, ENG 2550, ENG 2560, ENG 2580, ENG 2590, ENG 2610, ENG 2620, ENG 2560, ENG 2650, ENG 2660, ENG 2730, ENG 2830, ENG 2840, ENG 2850, ENG 2870 Writing Track: All of the following: ENG 2540, ENG 2740, ENG 2890, CMM 2530"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a 2000-level, track-specific course Language Track: Two 2000-level sequence courses in Spanish (SPA 2510 and SPA 2520) or French (FRE 2510 and FRE 2520) Two additional 2000-level language courses: SPA 2530, SPA 2550, SPA 2560, RUS 2560 Literature Track: Four of the following: ENG 2510, ENG 2520, ENG 2550, ENG 2560, ENG 2580, ENG 2590, ENG 2610, ENG 2620, ENG 2560, ENG 2650, ENG 2660, ENG 2730, ENG 2830, ENG 2840, ENG 2850, ENG 2870 Writing Track: All of the following: ENG 2540, ENG 2740, ENG 2890, CMM 2530"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: HIS 1510: World History before 1500 or HIS 1520: World History since 1500 or HIS 1530: US History before 1865 or HIS 1540: US History since 1865 or HIS 2610: Women’s History"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Law Enforcement Technology (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "ENG 1510: English Composition I or ENG 1530: English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective"
+        },
+        {
+          "subject": "CRI",
+          "number": "1370",
+          "name": "Radar/Lidar"
+        },
+        {
+          "subject": "CRI",
+          "number": "1390",
+          "name": "Breath Analysis"
+        },
+        {
+          "subject": "CRI",
+          "number": "2250",
+          "name": "Law Enforcement Academy I"
+        },
+        {
+          "subject": "CRI",
+          "number": "2380",
+          "name": "Law for the Law Enforcement Officer"
+        },
+        {
+          "subject": "SPA",
+          "number": "1530",
+          "name": "Spanish for Law Enforcement"
+        },
+        {
+          "subject": "PHE",
+          "number": "2460",
+          "name": "Physical Education/Law Enforcement"
+        },
+        {
+          "subject": "PHE",
+          "number": "2470",
+          "name": "Defensive Tactics/Law Enforcement"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "CRI",
+          "number": "2260",
+          "name": "Law Enforcement Academy II"
+        },
+        {
+          "subject": "CRI",
+          "number": "2420",
+          "name": "Standardized Field Sobriety Test"
+        },
+        {
+          "subject": "CRI",
+          "number": "2470",
+          "name": "Law Enforcement Practicum"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Life Sciences (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "BIO",
+          "number": "1570",
+          "name": "Principles of Cell & Molecular Biology"
+        },
+        {
+          "subject": "CHE",
+          "number": "1550",
+          "name": "College Chemistry I"
+        },
+        {
+          "subject": "MAT",
+          "number": "1590",
+          "name": "College Algebra/Trigonometry (or higher)"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "BIO",
+          "number": "1580",
+          "name": "Principles of Ecology & Evolution"
+        },
+        {
+          "subject": "CHE",
+          "number": "1560",
+          "name": "College Chemistry II"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "MAT",
+          "number": "1600",
+          "name": "Precalculus (or higher)"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: CHE 2530: Organic Chemistry I or Choose a course from the program core electives listing"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: BIO 2560: Genetics or Choose a course from the program core electives listing"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a course from the program core electives listing"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Science Elective Any Gen Ed Social Science Elective"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: CHE 2540: Organic Chemistry II or Choose a course from the program core electives listing"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: BIO 2650: Ecology Choose a course from the program core electives listing"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a course from a SUNY Gen Ed category that has not yet been fulfilled"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a course from a SUNY Gen Ed category that has not yet been fulfilled"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Machine Tool Technology (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "MCT",
+          "number": "1240",
+          "name": "Engineering Drawing with AutoCAD"
+        },
+        {
+          "subject": "MCT",
+          "number": "1270",
+          "name": "Machine Theory and Operations"
+        },
+        {
+          "subject": "MCT",
+          "number": "1380",
+          "name": "Introduction to Solid Modeling"
+        },
+        {
+          "subject": "MCT",
+          "number": "2340",
+          "name": "Dimensional Metrology"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "MCT",
+          "number": "1280",
+          "name": "CNC/Machine Tools"
+        },
+        {
+          "subject": "MCT",
+          "number": "1300",
+          "name": "Machine Tool Technology II"
+        },
+        {
+          "subject": "MCT",
+          "number": "1310",
+          "name": "Industrial Safety & Quality Maintenance"
+        },
+        {
+          "subject": "MCT",
+          "number": "1320",
+          "name": "Production Processes & Maintenance Awareness"
+        },
+        {
+          "subject": "MCT",
+          "number": "1340",
+          "name": "Manufacturing Drawing and GD&T"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Mechanical Technology - Design (A.A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "MAT",
+          "number": "1590",
+          "name": "College Algebra and Trigonometry"
+        },
+        {
+          "subject": "MCT",
+          "number": "1240",
+          "name": "Engineering Drawing w/AutoCAD"
+        },
+        {
+          "subject": "MCT",
+          "number": "1270",
+          "name": "Machine Theory and Operation"
+        },
+        {
+          "subject": "MCT",
+          "number": "1380",
+          "name": "Introduction to Solid Modeling"
+        },
+        {
+          "subject": "MCT",
+          "number": "2340",
+          "name": "Dimensional Metrology"
+        },
+        {
+          "subject": "PHY",
+          "number": "1500",
+          "name": "Foundational Physics"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "MAT",
+          "number": "1600",
+          "name": "Precalculus"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "MCT",
+          "number": "2380",
+          "name": "Advanced Solid Modeling"
+        },
+        {
+          "subject": "MCT",
+          "number": "1310",
+          "name": "Industrial Safety & Quality"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "MCT 1340: Manufacturing Drawings and GD&T or CSC 1510: Introduction to Computer Science or CSC 1560: Computer Application Software I"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "1570",
+          "name": "Programming Concepts & Applications"
+        },
+        {
+          "subject": "ENR",
+          "number": "1560",
+          "name": "Introduction to Engineering & Engineering Design"
+        },
+        {
+          "subject": "MCT",
+          "number": "1250",
+          "name": "Statics for Technology"
+        },
+        {
+          "subject": "MCT",
+          "number": "2270",
+          "name": "Mechanics of Energy Systems"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Choose a course that fulfills the Cultural Understanding and/or Global Perspectives requirements"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "MCT 2230: Mechanics of Materials or MCT 1310: Industrial Safety & Quality and MCT 1320: Production Processes and Maintenance"
+        },
+        {
+          "subject": "MCT",
+          "number": "2420",
+          "name": "Manufacturing Processes I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: SOC 1510: Introduction to Sociology"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Mechanical Technology - Machine Tool (A.A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        },
+        {
+          "subject": "MCT",
+          "number": "1240",
+          "name": "Engineering Drawing with AutoCAD"
+        },
+        {
+          "subject": "MCT",
+          "number": "1270",
+          "name": "Machine Theory and Operations"
+        },
+        {
+          "subject": "MCT",
+          "number": "1380",
+          "name": "Introduction to Solid Modeling"
+        },
+        {
+          "subject": "MCT",
+          "number": "2340",
+          "name": "Dimensional Metrology"
+        },
+        {
+          "subject": "PHY",
+          "number": "1500",
+          "name": "Foundational Physics"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "MCT",
+          "number": "1280",
+          "name": "Computer Numerical Control with Machine Tools"
+        },
+        {
+          "subject": "MCT",
+          "number": "1300",
+          "name": "Machine Tool Technology II"
+        },
+        {
+          "subject": "MCT",
+          "number": "1310",
+          "name": "Industrial Safety & Quality Practices"
+        },
+        {
+          "subject": "MCT",
+          "number": "1320",
+          "name": "Production Processes & Maintenance Awareness"
+        },
+        {
+          "subject": "MCT",
+          "number": "1340",
+          "name": "Manufacturing Drawing and GD&T"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "MAT",
+          "number": "1590",
+          "name": "College Algebra and Trigonometry (or higher)"
+        },
+        {
+          "subject": "MCT",
+          "number": "2280",
+          "name": "Advanced CNC Programming"
+        },
+        {
+          "subject": "MCT",
+          "number": "2300",
+          "name": "Machine Tool Technology III"
+        },
+        {
+          "subject": "WLD",
+          "number": "2370",
+          "name": "Metallurgy"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: SOC 1510: Intro to Sociology or ANT 1520: Intro to Cultural Anthropology"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "MCT",
+          "number": "2420",
+          "name": "Manufacturing Processes"
+        },
+        {
+          "subject": "MCT",
+          "number": "2410",
+          "name": "Computer-Aided Manufacturing"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: HIS 1510: World History Before 1500 or HIS 1520: World History since 1500"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Mechatronics (A.A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "MAT",
+          "number": "1590",
+          "name": "College Algebra & Trigonometry"
+        },
+        {
+          "subject": "ELC",
+          "number": "1200",
+          "name": "Fundamentals of Electricity"
+        },
+        {
+          "subject": "MCT",
+          "number": "1240",
+          "name": "Engineering Drawing w/AutoCAD"
+        },
+        {
+          "subject": "MCT",
+          "number": "1270",
+          "name": "Machine Theory and Operation"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquiry"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ELC",
+          "number": "1220",
+          "name": "Industrial Automation/PLC"
+        },
+        {
+          "subject": "ELC",
+          "number": "1230",
+          "name": "Electric Motors/Control Systems"
+        },
+        {
+          "subject": "MCT",
+          "number": "1210",
+          "name": "Applied Pneumatic & Hydraulics"
+        },
+        {
+          "subject": "MCT",
+          "number": "1280",
+          "name": "Computer Numerical Control with Machine Tools"
+        },
+        {
+          "subject": "MCT",
+          "number": "1310",
+          "name": "Industrial Safety & Quality Practices"
+        },
+        {
+          "subject": "MCT",
+          "number": "1320",
+          "name": "Production Processes & Maintenance"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "MCT",
+          "number": "2210",
+          "name": "Mechanical Drives"
+        },
+        {
+          "subject": "PHY",
+          "number": "1500",
+          "name": "Foundational Physics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: ANT 1510: Human Evolution and Prehistory or ANT 1520: Intro to Cultural Anthropology or HIS 1510: World History Before 1500 or HIS 1520: World History since 1500"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "CSC 1510: Intro to Computer Science or CSC 1560: Computer Application Software I or MCT 1380: Introduction to Solid Modeling"
+        },
+        {
+          "subject": "CSC",
+          "number": "1580",
+          "name": "Computer Hardware/Systems"
+        },
+        {
+          "subject": "ELC",
+          "number": "2220",
+          "name": "Advanced PLC"
+        },
+        {
+          "subject": "MCT",
+          "number": "2220",
+          "name": "Automation & Robotics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: SOC 1510: Intro to Sociology"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Media Arts (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "CMM",
+          "number": "1610",
+          "name": "Public Speaking"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: CMM 1630: Intro to TV Production"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "CMM",
+          "number": "1510",
+          "name": "Introduction to Communication"
+        },
+        {
+          "subject": "CMM",
+          "number": "1750",
+          "name": "Rhetoric of Vision and Sound"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: ART 1670: Digital Photography I"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: PHY 1510: Understanding Physics"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "CMM",
+          "number": "1710",
+          "name": "Digital Video Production"
+        },
+        {
+          "subject": "CMM",
+          "number": "2530",
+          "name": "Media Writing"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: ANT 1520: Intro to Cultural Anthropology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: SOC 1510: Intro to Sociology"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Humanities Elective Recommended: CMM 2840: Film Study and Appreciation"
+        },
+        {
+          "subject": "CMM",
+          "number": "2610",
+          "name": "Mass Communication and Media Literacy"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: GLS 1500: Intro to Global Studies"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: ART 1730: Graphic Design I"
+	},
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: CMM 2560: Communication Internship"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Multimedia Production (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ART",
+          "number": "1670",
+          "name": "Digital Photography I"
+        },
+        {
+          "subject": "CMM",
+          "number": "1750",
+          "name": "Rhetoric of Vision and Sound"
+        },
+        {
+          "subject": "ART",
+          "number": "1730",
+          "name": "Graphic Design I"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "CMM",
+          "number": "2530",
+          "name": "Media Writing"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "CMM",
+          "number": "1710",
+          "name": "Digital Video Production"
+        },
+        {
+          "subject": "MUS",
+          "number": "1730",
+          "name": "Music and the Digital Studio"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Electives ART 1570: Basic Black/White Photography or ART 1740: Graphic/Design/Layout/Publish or ART 1750: Graphic Design pplications or CMM 1630: Intro to TV Production or CMM 1700: Intro to Social Media Marketing or MUS 1710: Intro to Sound Recording or MUS 2890: Digital/Audio Studio"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics & Sciences Elective Recommended: PHY 1510: Understanding Physics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Music (Fine Arts) (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "MUS",
+          "number": "1570",
+          "name": "Music Theory I"
+        },
+        {
+          "subject": "MUS",
+          "number": "1930",
+          "name": "Aural Skills I"
+        },
+        {
+          "subject": "MUS",
+          "number": "1610",
+          "name": "Applied Music: Private Lessons I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Music Ensemble Chorus: MUS 1750 or MUS 1760 or MUS 2750 or MUS 2760 Rock: MUS 1850 or MUS 1860 or MUS 2850 or MUS 2860 Concert Band: MUS 1870 or MUS 1880 or MUS 2870 or MUS 2880"
+        },
+        {
+          "subject": "MUS",
+          "number": "1670",
+          "name": "Beginning Piano"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "MUS",
+          "number": "1580",
+          "name": "Music Theory II"
+        },
+        {
+          "subject": "MUS",
+          "number": "1940",
+          "name": "Aural Skills II"
+        },
+        {
+          "subject": "MUS",
+          "number": "1620",
+          "name": "Applied Music: Private Lessons II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Music Ensemble  Chorus: MUS 1750 or MUS 1760 or MUS 2750 or MUS 2760 Rock: MUS 1850 or MUS 1860 or MUS 2850 or MUS 2860 Concert Band: MUS 1870 or MUS 1880 or MUS 2870 or MUS 2880"
+        },
+        {
+          "subject": "MUS",
+          "number": "1690",
+          "name": "Piano II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving with Mathematics (or higher)"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "MUS",
+          "number": "2570",
+          "name": "Music Theory III"
+        },
+        {
+          "subject": "MUS",
+          "number": "2930",
+          "name": "Aural Skills III"
+        },
+        {
+          "subject": "MUS",
+          "number": "2610",
+          "name": "Applied Music: Private Lessons III"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Music Ensemble Chorus: MUS 1750 or MUS 1760 or MUS 2750 or MUS 2760 Rock: MUS 1850 or MUS 1860 or MUS 2850 or MUS 2860 Concert Band: MUS 1870 or MUS 1880 or MUS 2870 or MUS 2880"
+        },
+        {
+          "subject": "MUS",
+          "number": "1510",
+          "name": "Music Appreciation"
+        },
+        {
+          "subject": "MUS",
+          "number": "1730",
+          "name": "Introduction to Music Technology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1510: Health Science or BIO 1550: Intro to Environmental Science"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "MUS",
+          "number": "2620",
+          "name": "Applied Music: Private Lessons IV"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Music Ensemble Chorus: MUS 1750 or MUS 1760 or MUS 2750 or MUS 2760 Rock: MUS 1850 or MUS 1860 or MUS 2850 or MUS 2860 Concert Band: MUS 1870 or MUS 1880 or MUS 2870 or MUS 2880"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: MUS 1630: Beginning Voice or MUS 1680: Beginning Guitar or MUS 1700: Guitar II or MUS 1710: Intro to Sound Recording or MUS 1890: Guitar Maintenance/Repair or MUS 2580: Music Theory IV or MUS 2630: Applied Music Private Lessons V or MUS 2640: Applied Music Private Lessons VI or MUS 2890: Digital/Audio Studio or MUS 2940: Aural Skills IV"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: PSY 1510: General Psychology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: SOC 1510: Intro to Sociology or ANT 1520: Intro to Cultural Anthropology or ANT 2590/SOC 2590: Sex, Sexuality, and Gender"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Music Industry (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "MUS",
+          "number": "1570",
+          "name": "Music Theory I"
+        },
+        {
+          "subject": "MUS",
+          "number": "1520",
+          "name": "Introduction to Music Industry"
+        },
+        {
+          "subject": "BUS",
+          "number": "1500",
+          "name": "Introduction to Business"
+        },
+        {
+          "subject": "BUS",
+          "number": "1510",
+          "name": "Principles of Financial Accounting"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "MUS",
+          "number": "2520",
+          "name": "Practices & Issues in Music Business"
+        },
+        {
+          "subject": "MUS",
+          "number": "1610",
+          "name": "Applied Music: Private Lessons I"
+        },
+        {
+          "subject": "BUS",
+          "number": "1520",
+          "name": "Principles of Managerial Accounting"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving with Mathematics (or higher)"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "MUS",
+          "number": "1510",
+          "name": "Music Appreciation"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "MUS 1710: Intro to Sound Recording or MUS 1730: Intro to Music Technology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "CSC 1530: Intro to HTML & CSS or CSC 1560: Computer Application Software I"
+        },
+        {
+          "subject": "ECO",
+          "number": "2610",
+          "name": "Macroeconomics"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "MUS",
+          "number": "1530",
+          "name": "Historical Survey of Rock and Roll"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Music Ensemble Chorus: MUS 1750 or MUS 1760 or MUS 2750 or MUS 2760 Rock: MUS 1850 or MUS 1860 or MUS 2850 or MUS 2860 Concert Band: MUS 1870 or MUS 1880 or MUS 2870 or MUS 2880"
+        },
+        {
+          "subject": "ECO",
+          "number": "2620",
+          "name": "Microeconomics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1510: Health Science"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: SOC 1510: Intro to Sociology or ANT 1520: Intro to Cultural Anthropology or ANT 2590/SOC 2590: Sex, Sexuality, and Gender"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a course from any SUNY Gen Ed category"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Nursing (A.A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "BIO",
+          "number": "2510",
+          "name": "Anatomy and Physiology I"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "NUR",
+          "number": "1510",
+          "name": "Foundations of Nursing"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "BIO",
+          "number": "2520",
+          "name": "Anatomy and Physiology II"
+        },
+        {
+          "subject": "SOC",
+          "number": "1510",
+          "name": "Intro to Sociology"
+        },
+        {
+          "subject": "NUR",
+          "number": "1520",
+          "name": "Health Restoration"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "BIO",
+          "number": "2531",
+          "name": "Microbiology"
+        },
+        {
+          "subject": "BIO",
+          "number": "2532",
+          "name": "Microbiology lab"
+        },
+        {
+          "subject": "PSY",
+          "number": "2510",
+          "name": "Life Span Development"
+        },
+        {
+          "subject": "NUR",
+          "number": "2510",
+          "name": "Health Restoration and Maintenance I"
+        },
+        {
+          "subject": "NUR",
+          "number": "2550",
+          "name": "Pathophysiology I"
+        },
+        {
+          "subject": "NUR",
+          "number": "2350",
+          "name": "Pharmacology for Nurses I"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "MAT",
+          "number": "1540",
+          "name": "Elementary Statistics"
+        },
+        {
+          "subject": "NUR",
+          "number": "2520",
+          "name": "Health Restoration and Maintenance II"
+        },
+        {
+          "subject": "NUR",
+          "number": "2560",
+          "name": "Pathophysiology II"
+        },
+        {
+          "subject": "NUR",
+          "number": "2360",
+          "name": "Pharmacology for Nurses II"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Occupational Therapy Assistant (A.A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "OTA",
+          "number": "1510",
+          "name": "Foundations of Occupational Therapy"
+        },
+        {
+          "subject": "OTA",
+          "number": "1520",
+          "name": "Human Conditions Across the Lifespan"
+        },
+        {
+          "subject": "OTA",
+          "number": "1530",
+          "name": "Fundamental Skills of OT I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "BIO 1500: Human Biology or BIO 2510: Anatomy and Physiology I"
+        },
+        {
+          "subject": "PSY",
+          "number": "2510",
+          "name": "Life Span Development"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "OTA",
+          "number": "1620",
+          "name": "Psychosocial Concepts & Techniques"
+        },
+        {
+          "subject": "OTA",
+          "number": "1630",
+          "name": "Fundamental Skills of OT II"
+        },
+        {
+          "subject": "OTA",
+          "number": "1640",
+          "name": "OT Interventions I"
+        },
+        {
+          "subject": "OTA",
+          "number": "1650",
+          "name": "Growing Years: Birth – Young Adults"
+        },
+        {
+          "subject": "OTA",
+          "number": "1700",
+          "name": "Introduction to Professional Practice"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "PSY",
+          "number": "2560",
+          "name": "Abnormal Psychology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "HCR 2100: Kinesiology or BIO 2520: Anatomy and Physiology II"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "OTA",
+          "number": "2520",
+          "name": "Adulthood and Aging"
+        },
+        {
+          "subject": "OTA",
+          "number": "2540",
+          "name": "Community Based Practice"
+        },
+        {
+          "subject": "OTA",
+          "number": "2550",
+          "name": "Technology & Environmental Apps for Living"
+        },
+        {
+          "subject": "OTA",
+          "number": "2560",
+          "name": "OT Interventions II"
+        },
+        {
+          "subject": "OTA",
+          "number": "2570",
+          "name": "Classroom to Clinic: Preparation for Practice"
+        },
+        {
+          "subject": "OTA",
+          "number": "2620",
+          "name": "Physical Rehabilitation"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "MAT 1500: Problem Solving with Math or MAT 1540: Elementary Statistics"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "OTA",
+          "number": "2700",
+          "name": "Fieldwork IIA"
+        },
+        {
+          "subject": "OTA",
+          "number": "2720",
+          "name": "Fieldwork IIB"
+        },
+        {
+          "subject": "SOC",
+          "number": "1510",
+          "name": "Introduction to Sociology"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Physical Education Studies (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "HCR",
+          "number": "1300",
+          "name": "Adult & Child CPR/AED"
+        },
+        {
+          "subject": "HCR",
+          "number": "1310",
+          "name": "First Aid & Mental Health"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving with Mathematics"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from: Any PHE/SPT courses EDU 1510: Foundations/Education EDU 2450: Exceptional Children and EDU 2460: Field Exp/Exceptional Child Recommended: PHE 1620: Fitness Concepts and Applications"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: PSY 1510: General Psychology"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "BIO 1500: Human Biology or BIO 2510: Anatomy & Physiology I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: ANT 1520: Intro to Cultural Anthropology"
+        },
+        {
+          "subject": "PHE",
+          "number": "1590",
+          "name": "Principles of Fitness & Wellness"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from: Any PHE/SPT courses EDU 1510: Foundations/Education EDU 2450: Exceptional Children and EDU 2460: Field Exp/Exceptional Child Recommended: SPT 1310: Foundations of Coaching and Teaching"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from: Any PHE/SPT courses EDU 1510: Foundations/Education EDU 2450: Exceptional Children and EDU 2460: Field Exp/Exceptional Child Recommended: SPT 1300: Introduction to Sport Management or EDU 1510: Foundations/Educations"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from: Any PHE/SPT courses EDU 1510: Foundations/Education EDU 2450: Exceptional Children and EDU 2460: Field Exp/Exceptional Child"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Science Elective Choose from: BIO 1510: Health Science BIO 1570: Principles of Cell & Molecular BIO 1580: Principles-Ecology & Evolution BIO 2520: Anatomy and Physiology II BIO 2760: Nutrition CHE 1500: Intro to Chemistry CHE 1530: Allied Health Chemistry HCR 2100: Kinesiology Recommended: BIO 1510: Health Science"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: SOC 1510: Intro to Sociology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: Global Language or History"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        },
+        {
+          "subject": "PHE",
+          "number": "2880",
+          "name": "Sport Nutrition"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from: Any PHE or SPT courses EDU 1510: Foundations/Education EDU 2450: Exceptional Children and EDU 2460: Field Exp/Exceptional Child"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from: Any PHE or SPT courses EDU 1510: Foundations/Education EDU 2450: Exceptional Children and EDU 2460: Field Exp/Exceptional Child"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose from: Any PHE or SPT courses EDU 1510: Foundations/Education EDU 2450: Exceptional Children and EDU 2460: Field Exp/Exceptional Child"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Psychology (Social Sciences) (Liberal Arts & Sciences) (A.A.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        },
+        {
+          "subject": "PSY",
+          "number": "1510",
+          "name": "General Psychology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: ANT 1510: Human Evolution and Prehistory or ANT 1520: Introduction to Cultural Anthropology or ANT 1530: Comparative Religion"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1540: Elementary Statistics"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "PSY 2510: Life Span Development or PSY 2520: Child Development or PSY 2550: Psychology of Adolescence"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: HIS 1520: World History since 1500 or HIS 1530: U.S. History before 1865 or HIS 1540: U.S. History after 1865 or HIS 2610: Intro to U.S. Women’s History"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics & Sciences Elective Recommended: BIO 1510: Health Science or MAT 1540: Elementary Statistics"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: BUS 1500: Intro to Business or CMM 1510: Intro to Communication or CRI 1510: Intro to Criminal Justice or HUS 1210: Intro to Human Services"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "PSY",
+          "number": "2530",
+          "name": "Social Psychology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Choose any 2000 level social science course"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1500: Human Biology or BIO 2510: Anatomy & Physiology I or CHE 1500: Introduction to Chemistry"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Humanities Elective Recommended: Choose any Art, Music, or Theatre course"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ASL 1510: Introductory Sign Language I or SPA 1510: Introductory Spanish I"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "PSY",
+          "number": "2560",
+          "name": "Abnormal Behavior"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Any 1000 or 2000 level social science course"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ASL 1520: American Sign Language II or ARA 1520: Introductory Arabic II or FRE 1520:  Introductory French II or SPA 1520: Introductory Spanish II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose any Liberal Arts and Sciences elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Social Sciences (Liberal Arts & Sciences) (A.A.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: ANT 1510: Human Evolution and Prehistory or ANT 1520: Introduction to Cultural Anthropology or ANT 1530: Comparative Religion or GEO 1520: World Regional Geography or HIS 1510: World History before 1500 or HIS 1520: World History since 1500"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: ECO 1530: Contemporary Economic Problems or POL 1510: American Politics or PSY 1510: General Psychology or SOC 1510: Introduction to Sociology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving or MAT 1540: Elementary Statistics"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: HIS 1530: U.S. History before 1865 or HIS 1540: U.S. History after 1865 or HIS 2610: Intro to U.S. Women’s History"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Choose a 1000 or 2000 level social sciences course that is approved for SUNY Diversity"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics & Sciences Elective Recommended: BIO 1510: Health Science or MAT 1540: Elementary Statistics"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: BUS 1500: Intro to Business or CMM 1510: Intro to Communication or CRI 1510: Intro to Criminal Justice or HUS 1210: Intro to Human Services"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a 1000 or 2000 level social sciences course"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a 2000 level social science course"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1500: Human Biology or BIO 2510: Anatomy & Physiology I or CHE 1500: Introduction to Chemistry"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Humanities Elective Recommended: Choose any Art, Music, or Theatre course"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ASL 1510: Introductory Sign Language I or SPA 1510: Introductory Spanish I"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a 1000 or 2000 level social science course"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose a 1000 or 2000 level social science course that is approved for Applied Learning"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ASL 1520: American Sign Language II or ARA 1520: Introductory Arabic II or FRE 1520:  Introductory French II or SPA 1520: Introductory Spanish II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose any Liberal Arts and Sciences elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Sociology (Social Sciences) (Liberal Arts & Sciences) (A.A.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "SOC",
+          "number": "1510",
+          "name": "Introduction to Sociology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: ANT 1510: Human Evolution and Prehistory or ANT 1520: Introduction to Cultural Anthropology or ANT 1530: Comparative Religion"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1540: Elementary Statistics"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective (SOC) Choose any sociology course"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: HIS 1520: World History since 1500 or HIS 1530: U.S. History before 1865 or HIS 1540: U.S. History after 1865 or HIS 2610: Intro to U.S. Women’s History"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics & Sciences Elective Recommended: BIO 1510: Health Science or MAT 1540: Elementary Statistics"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: BUS 1500: Intro to Business or CMM 1510: Intro to Communication or CRI 1510: Intro to Criminal Justice or HUS 1210: Intro to Human Services"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose any 2000 level social sciences course"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Choose any 2000 level social sciences course"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1500: Human Biology or BIO 2510: Anatomy & Physiology I or CHE 1500: Introduction to Chemistry"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Humanities Elective Recommended: Choose any Art, Music, or Theatre course"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ASL 1510: Introductory Sign Language I or SPA 1510: Introductory Spanish I"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective (SOC) Choose any 2000 level sociology course that is approved for Applied Learning"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Choose any 1000 or 2000 level social sciences course"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ASL 1520: American Sign Language II or ARA 1520: Introductory Arabic II or FRE 1520: Introductory French II or SPA 1520: Introductory Spanish II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose any Liberal Arts and Sciences elective"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Sport Management (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "SPT",
+          "number": "1300",
+          "name": "Introduction to Sport Management"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "MAT",
+          "number": "1540",
+          "name": "Elementary Statistics"
+        },
+        {
+          "subject": "PSY",
+          "number": "1510",
+          "name": "Introduction to Psychology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: PHE 1590: Principles of Fitness & Wellness"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "SOC",
+          "number": "1510",
+          "name": "Introduction to Sociology"
+        },
+        {
+          "subject": "BUS",
+          "number": "1510",
+          "name": "Principles of Financial Accounting"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: SPT 1350: Sport Media"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ASL 1510: Introductory Sign Language or SPA 1510: Intro to Spanish 1"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "1510",
+          "name": "CMM 1510: Intro to Communication or CMM 1610: Public Speaking"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "ECO 2610: Macroeconomic Principles or ECO 2620: Microeconomic Principles"
+        },
+        {
+          "subject": "SPT",
+          "number": "1320",
+          "name": "Sport in Society"
+        },
+        {
+          "subject": "SPT",
+          "number": "1870",
+          "name": "Sport Psychology"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: SPT 2520: Ethical Leadership in Sport"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "SPT",
+          "number": "1550",
+          "name": "Sport Promotion and Marketing"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: BUS 2580: Management & Organizational Behavior"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1510: Health Science"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: HIS 1530: US History before 1865"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Studio Arts (Fine Arts) (A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ART",
+          "number": "1510",
+          "name": "Drawing I"
+        },
+        {
+          "subject": "ART",
+          "number": "1530",
+          "name": "2-D Design and Color"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving with Mathematics (or higher)"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ART",
+          "number": "1520",
+          "name": "Drawing II"
+        },
+        {
+          "subject": "ART",
+          "number": "1540",
+          "name": "3-D Design, Concepts, Materials"
+        },
+        {
+          "subject": "ART",
+          "number": "1730",
+          "name": "Graphic Design I"
+        },
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: SOC 1510: Introduction to Sociology"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "ART",
+          "number": "1550",
+          "name": "Art in Culture I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "ART 1670: Photo I: Digital Photography or ART 2590: Photo II: Digital & Darkroom"
+        },
+        {
+          "subject": "ART",
+          "number": "2510",
+          "name": "Painting I"
+        },
+        {
+          "subject": "ART",
+          "number": "2560",
+          "name": "Art & Design: Portfolio & Professionalism"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Natural Sciences Elective Recommended: BIO 1510: Health Science"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "ART",
+          "number": "1560",
+          "name": "Art in Culture II"
+        },
+        {
+          "subject": "ART",
+          "number": "1590",
+          "name": "Ceramics I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: ART 1510: Drawing I or ART 1520: Drawing II or ART 1590: Ceramics I or ART 1610-ART 1621: Studio Projects or  ART 2010-ART 2515: Art Internship/Honors or ART 2510: Painting I or ART 2520: Painting II or ART 2550: Animation or ART 2600: Ceramics II or ART 2730: Web Design and Animation"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Program Core Elective Recommended: ART 1510: Drawing I or ART 1520: Drawing II or ART 1590: Ceramics I or ART 1610-ART 1621: Studio Projects or ART 2010-ART 2515: Art Internship/Honors or ART 2510: Painting I or ART 2520: Painting II or ART 2550: Animation or ART 2600: Ceramics II or ART 2730: Web Design and Animation"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Recommended: ANT 1520: Introduction to Cultural Anthropology"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Tourism & Hospitality (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "BUS",
+          "number": "1500",
+          "name": "Introduction to Business"
+        },
+        {
+          "subject": "BUS",
+          "number": "1700",
+          "name": "Introduction to Tourism & Hospitality"
+        },
+        {
+          "subject": "BUS",
+          "number": "2100",
+          "name": "Special Topics in Tourism & Hospitality"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective Recommended: MAT 1500: Problem Solving with Mathematics (or higher)"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "BUS",
+          "number": "1710",
+          "name": "Sustainable Tourism Planning & Development"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "BUS 1510: Principles of Financial Accounting or BUS 2570: Principles of Management or BUS 2580: Management & Organizational Behavior or BUS 2630: Human Resource Management"
+        },
+        {
+          "subject": "CSC",
+          "number": "1560",
+          "name": "Computer Application Software I"
+        },
+        {
+          "subject": "BUS",
+          "number": "2012",
+          "name": "Tourism & Hospitality Internship"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Web Design (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "1530",
+          "name": "Introduction to HTML & CSS"
+        },
+        {
+          "subject": "CSC",
+          "number": "1570",
+          "name": "Programming Concepts/Applications"
+        },
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Mathematics Elective (college-level) Recommended: MAT 1500: Problem-Solving w/Mathematics (or higher)"
+        },
+        {
+          "subject": "CSC",
+          "number": "1520",
+          "name": "Intro to Cybersecurity"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "CSC",
+          "number": "1590",
+          "name": "Computer Programming"
+        },
+        {
+          "subject": "CSC",
+          "number": "2410",
+          "name": "Web Programming"
+        },
+        {
+          "subject": "CSC",
+          "number": "2660",
+          "name": "Database Management"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: PSY 1510: General Psychology or SOC 1510: Introduction to Sociology"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Welding Technology (A.A.S.)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1510",
+          "name": "English Composition I"
+        },
+        {
+          "subject": "WLD",
+          "number": "1200",
+          "name": "Safety and Cutting Processes"
+        },
+        {
+          "subject": "WLD",
+          "number": "1350",
+          "name": "Shielded Metal Arc Welding"
+        },
+        {
+          "subject": "WLD",
+          "number": "1360",
+          "name": "Gas Metal Arc Welding"
+        },
+        {
+          "subject": "WLD",
+          "number": "1370",
+          "name": "Gas Tungsten Arc Welding"
+        },
+        {
+          "subject": "INT",
+          "number": "1555",
+          "name": "Inquire"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ENG",
+          "number": "1530",
+          "name": "English Composition II"
+        },
+        {
+          "subject": "MCT",
+          "number": "1240",
+          "name": "Engineering Drawing with AutoCAD"
+        },
+        {
+          "subject": "WLD",
+          "number": "2250",
+          "name": "Advanced Shielded Metal Arc Welding"
+        },
+        {
+          "subject": "WLD",
+          "number": "2260",
+          "name": "Advanced Gas Metal Arc Welding"
+        },
+        {
+          "subject": "WLD",
+          "number": "2270",
+          "name": "Advanced Gas Tungsten Arc Welding"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "subject": "MAT",
+          "number": "1590",
+          "name": "College Algebra & Trigonometry (or higher)"
+        },
+        {
+          "subject": "PHY",
+          "number": "1500",
+          "name": "Foundational Physics"
+        },
+        {
+          "subject": "WLD",
+          "number": "2360",
+          "name": "Alternate Processes"
+        },
+        {
+          "subject": "WLD",
+          "number": "2370",
+          "name": "Metallurgy"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "subject": "CHE",
+          "number": "1500",
+          "name": "Introduction to Chemistry"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Social Sciences Elective Recommended: SOC 1510: Introduction to Sociology"
+        },
+        {
+          "subject": "WLD",
+          "number": "2350",
+          "name": "Fabrication"
+        },
+        {
+          "subject": "WLD",
+          "number": "2450",
+          "name": "Capstone Project"
+        },
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "Elective Choose a course that fulfills the Cultural Understanding and/or Global Perspectives requirements"
+        }
+      ]
+    }
+  ]
+},
+{
+  "program": "Welding Technology (Certificate)",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "ENG 1510: English Composition I or Social Science Elective or MCT 1270: Machine Theory and Operations or WLD 1380: Flux Cored Arc Welding"
+        },
+        {
+          "subject": "MCT",
+          "number": "1240",
+          "name": "Engineering Drawing with AutoCAD"
+        },
+        {
+          "subject": "WLD",
+          "number": "1200",
+          "name": "Safety and Cutting Processes"
+        },
+        {
+          "subject": "WLD",
+          "number": "1350",
+          "name": "Shielded Metal Arc Welding"
+        },
+        {
+          "subject": "WLD",
+          "number": "1360",
+          "name": "Gas Metal Arc Welding"
+        },
+        {
+          "subject": "WLD",
+          "number": "1370",
+          "name": "Gas Tungsten Arc Welding"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "subject": "ELEC",
+          "number": "",
+          "name": "ENG 1510: English Composition I or Social Science Elective or MCT 1270: Machine Theory and Operations or WLD 1380: Flux Cored Arc Welding"
+        },
+        {
+          "subject": "WLD",
+          "number": "2250",
+          "name": "Advanced Shielded Metal Arc Welding"
+        },
+        {
+          "subject": "WLD",
+          "number": "2260",
+          "name": "Advanced Gas Metal Arc Welding"
+        },
+        {
+          "subject": "WLD",
+          "number": "2270",
+          "name": "Advanced Gas Tungsten Arc Welding"
+        }
+      ]
+    }
+  ]
+}
+]
