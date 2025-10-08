@@ -4440,9 +4440,9 @@
           "name": "Introduction to Solid Modeling"
         },
         {
-          "subject": "MCT",
-          "number": "2340",
-          "name": "Dimensional Metrology"
+          "subject": "ELEC",
+          "number": "",
+          "name": "Transfer Path - INT 1555: Inquiry or Non-Transfer Path - MCT 2340: Dimensional Metrology"
         },
         {
           "subject": "PHY",
@@ -4470,19 +4470,14 @@
           "name": "Advanced Solid Modeling"
         },
         {
-          "subject": "MCT",
-          "number": "1310",
-          "name": "Industrial Safety & Quality"
-        },
-        {
           "subject": "ELEC",
           "number": "",
           "name": "MCT 1340: Manufacturing Drawings and GD&T or CSC 1510: Introduction to Computer Science or CSC 1560: Computer Application Software I"
         },
         {
-          "subject": "INT",
-          "number": "1555",
-          "name": "Inquire"
+          "subject": "PHY",
+          "number": "1500",
+          "name": "PHY 1500: Foundational Physics"
         }
       ]
     },
@@ -4495,14 +4490,14 @@
           "name": "Programming Concepts & Applications"
         },
         {
-          "subject": "ENR",
-          "number": "1560",
-          "name": "Introduction to Engineering & Engineering Design"
+          "subject": "ELEC",
+          "number": "",
+          "name": "Transfer Path -MCT 2340: Dimensional Metrology and MCT 1250: Statics for Technology or Non-Transfer Path - ENR 1560: Introduction to Engineering & Engineering Design"
         },
         {
-          "subject": "MCT",
-          "number": "1250",
-          "name": "Statics for Technology"
+          "subject": "ELEC",
+          "number": "",
+          "name": "If tranferring to 4 year program - MCT 1250: Statics for Technology"
         },
         {
           "subject": "MCT",
@@ -4527,7 +4522,7 @@
         {
           "subject": "ELEC",
           "number": "",
-          "name": "MCT 2230: Mechanics of Materials or MCT 1310: Industrial Safety & Quality and MCT 1320: Production Processes and Maintenance"
+          "name": "Transfer Path - MCT 2230: Mechanics of Materials or Non-Transfer Path - MCT 1310: Industrial Safety & Quality and MCT 1320: Production Processes and Maintenance"
         },
         {
           "subject": "MCT",
