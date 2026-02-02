@@ -1,0 +1,924 @@
+CAMPUS,DIVISION,CRN,SUBJ,CRSE,TITLE,XLST,START DATE,END DATE,LOCATION,DAYS TIME,SCHD,INST METHOD,INSTRUCTOR,CRHRS,QUOTA,ENRL,AVAIL,FTES,STATUS,TOTAL CAMPUS FTES,TOTAL DIVISION FTES,POT
+Dunkirk,Continuing Education,5340,CEJR,7460,Grade D Water Treatment Cert.,,20-Oct,22-Oct,OFFC TBD,..TWR.. 08:00 AM-03:00 PM,CEC,000,STAFF,,20,,20,,A,,,E
+Dunkirk,Continuing Education,5338,CEJR,7483,Grade II A,,21-Sep,2-Oct,OFFC TBD,.MTWRF. 09:00 AM-03:30 PM,CEC,000,STAFF,,20,,20,,A,,,E
+Dunkirk,Continuing Education,5339,CEJR,7484,Grade II B,,21-Sep,25-Sep,OFFC TBD,.MTWRF. 08:00 AM-03:30 PM,CEC,000,STAFF,,20,,20,,A,,,E
+Jamestown,*Arts/Humanities/Health Sci,3817,CERN,2510,NUR 2510 Review-NCLEX Success,,24-Aug,18-Dec,SHEL 334A,.M..... 09:30 AM-10:30 AM,TU,000,"Bablak, Debra",,60,,60,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3892,ANT,1510,Human Origins and Evolution,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Bessette, Shannon",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3893,ANT,1520,Intro to Cultural Anthropology,,24-Aug,18-Dec,HULT 203,..T.R.. 11:00 AM-12:15 PM,LE,000,"Frerichs, Jeanne",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3894,ANT,1520,Intro to Cultural Anthropology,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Lambert, Arnaud",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3895,ANT,1520,Intro to Cultural Anthropology,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Lambert, Arnaud",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4485,ANT,1520,Intro to Cultural Anthropology,,24-Aug,18-Dec,HULT 249,.M.W... 01:30 PM-02:45 PM,LE,000,"Shoup, Glen",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3896,ANT,1530,Anthropology of  Supernatural,252,24-Aug,18-Dec,SHEL 121,.M.W... 11:00 AM-12:15 PM,LE,006,"Scott, Chelsie",3,27,,27,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4486,ANT,2550,Intro. to Dis/Ability Studies,162,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Bessette, Shannon",3,13,,13,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5163,ANT,2590,"Sex, Sexuality, and Gender",401,24-Aug,18-Dec,HULT 204,.M.W... 01:30 PM-02:45 PM,LE,006,"Scott, Chelsie",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4495,ART,1500,Art & Design Appreciation,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LL,002,"Harvey Willms, Jaymee",3,18,,18,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4491,ART,1510,Drawing I,251,24-Aug,18-Dec,ARTW UP,.M.W... 03:45 PM-05:40 PM,LL,000,"Jeffery, Nathan",3,18,,18,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4494,ART,1510,Drawing I,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LL,002,"Renko, Kelsey",3,18,,18,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4861,ART,1510,Drawing I,,4-Sep,20-Jan,HSNYJM MAP,....... TBD-TBD,LL,000,"Johnson, Kevin",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,5238,ART,1510,Drawing I,,4-Sep,14-Jun,HSNYJM CASS,....... TBD-TBD,LL,000,"Shields, Nicole",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5247,ART,1510,Drawing I,,4-Sep,20-Jan,HSNYJM CLY,....... TBD-TBD,LL,000,"Mayott, Cheryl",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4474,ART,1530,2-D Design and Color,,24-Aug,18-Dec,ARTW UP,.M.W... 10:15 AM-12:10 PM,LL,000,"Jeffery, Nathan",3,18,,18,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4473,ART,1540,3-D Design/Concept/Materials,,24-Aug,18-Dec,ARTW UP,..T.R.. 10:15 AM-12:10 PM,LL,000,"Makovitch, Thomas",3,18,,18,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4496,ART,1550,Art in Culture I,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Shane, Robert",3,18,,18,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4497,ART,1560,Art in Culture II,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Shane, Robert",3,18,,18,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4488,ART,1590,Ceramics I,,24-Aug,18-Dec,ARTW DOWN,..T.R.. 03:45 PM-05:40 PM,LL,000,"Turner, Brenna",3,17,,17,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4697,ART,1590,Ceramics I,,4-Sep,14-Jun,HSNYJM CASS,....... TBD-TBD,LL,000,"Broadhead, Joy",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4743,ART,1590,Ceramics I,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LL,000,"Korzenski, Jodie",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4531,ART,1620,Studio Projects-Drawing I,251,24-Aug,18-Dec,ARTW UP,.M.W... 03:45 PM-05:40 PM,LL,000,"Jeffery, Nathan",3,3,,3,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4476,ART,1670,Photo I: Digital Photography,,24-Aug,18-Dec,ARTW DOWN,..T.R.. 01:30 PM-03:25 PM,LL,000,"Kirsch, Mark",3,18,,18,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5287,ART,1670,Photo I: Digital Photography,,4-Sep,20-Jan,HSNYJM SWC,....... TBD-TBD,LL,000,"Mitchener, Renee",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4487,ART,1730,Graphic Design I,,24-Aug,18-Dec,ARTW DOWN,..T.R.. 03:45 PM-05:40 PM,LL,000,"Jeffery, Nathan",3,18,,18,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4493,ART,1730,Graphic Design I,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LL,002,"Stinely, Alison",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4698,ART,1730,Graphic Design I,,4-Sep,14-Jun,HSNYJM CASS,....... TBD-TBD,LL,000,"Broadhead, Joy",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4478,ART,1740,Typography and Layout,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LL,002,"Bachorik, Alison",3,18,,18,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4475,ART,2510,Painting I,227,24-Aug,18-Dec,ARTW UP,.M.W... 01:30 PM-03:25 PM,LL,000,"Jeffery, Nathan",3,15,,15,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4520,ART,2621,Studio Projects-Painting I,227,24-Aug,18-Dec,ARTW UP,.M.W... 01:30 PM-03:25 PM,LL,000,"Jeffery, Nathan",1,3,,3,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4047,ASL,1510,Introductory Sign Language I,,24-Aug,18-Dec,SHEL 110,.M.W... 04:00 PM-05:50 PM,LL,000,"Krueger, Janelle",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4437,ASL,1510,Introductory Sign Language I,,24-Aug,18-Dec,ONLN ZOOM,.M.W... 06:00 PM-07:55 PM,LL,001,"Haskins, Shanin",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4252,CMM,1510,Intro to Communication,,24-Aug,18-Dec,SHEL 110,.M.W... 11:00 AM-12:15 PM,LE,000,"Sellstrom, Simone",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4422,CMM,1510,Intro to Communication,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Lindell, Gretchen",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4253,CMM,1610,Public Speaking,,24-Aug,18-Dec,SHEL 110,..T.R.. 01:30 PM-02:45 PM,LE,000,"Lindell, Gretchen",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4423,CMM,1610,Public Speaking,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Julian, Jeffrey",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4777,CMM,1610,Public Speaking,,4-Sep,20-Jan,HSNYJM FAL,....... TBD-TBD,LE,000,"Stowe, Rachel",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4812,CMM,1610,Public Speaking,,4-Sep,20-Jan,HSNYJM FRW,....... TBD-TBD,LE,000,"Burns, Lisa",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4865,CMM,1610,Public Speaking,,4-Sep,14-Jun,HSNYJM MAP,....... TBD-TBD,LE,000,"Abbey, Cara",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4884,CMM,1610,Public Speaking,,4-Sep,14-Jun,HSNYJM PIN,....... TBD-TBD,LE,000,"Szumigala, Jill",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4928,CMM,1610,Public Speaking,,4-Sep,20-Jan,HSNYJM SIL,....... TBD-TBD,LE,000,"Laurenzi, Carolyn",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4956,CMM,1610,Public Speaking,,4-Sep,14-Jun,HSNYJM WES,....... TBD-TBD,LE,000,"Wilson, Laura",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5024,CMM,1610,Public Speaking,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Rowe-Baehr, Elizabeth",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,5249,CMM,1610,Public Speaking,,4-Sep,20-Jan,HSNYJM CLY,....... TBD-TBD,LE,000,"Bonetti, Alexis",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,5313,CMM,1610,Public Speaking,,4-Sep,20-Jan,HSNYJM PAN,....... TBD-TBD,LE,000,"Keefe, Helen",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,5350,CMM,1610,Public Speaking,,4-Sep,20-Jan,HSNYJM RAN,....... TBD-TBD,LE,000,"Perison, Christina",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,5193,CMM,1700,Intro to Social Media Mrktng,,29-Sep,18-Dec,SHEL 124,.M.W... 01:30 PM-02:45 PM,LE,004,"Lindell, Gretchen",3,20,,20,,A,,,6
+Jamestown,Arts/Humanities/Social Science,4263,CMM,1750,Rhetoric of Vision and Sound,,24-Aug,18-Dec,SHEL 110,..T.R.. 11:00 AM-12:15 PM,LE,000,"Sellstrom, Simone",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4424,CMM,2500,Interpersonal Communication,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Sellstrom, Simone",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4269,CMM,2530,Media Writing,,24-Aug,18-Dec,SHEL 110,..T.R.. 09:30 AM-10:45 AM,LE,000,"Sellstrom, Simone",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4467,CMM,2560,Com/Media Arts/Internship I,,TBD,TBD,TBD TBD,....... TBD-TBD,IN,000,STAFF,1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4468,CMM,2561,Com/Media Arts/Internship II,,TBD,TBD,TBD TBD,....... TBD-TBD,IN,000,STAFF,2,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4469,CMM,2562,Com/Media Arts/Internship III,,TBD,TBD,TBD TBD,....... TBD-TBD,IN,000,STAFF,1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4470,CMM,2563,Com/Media Arts/Internship IV,,TBD,TBD,TBD TBD,....... TBD-TBD,IN,000,STAFF,1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4471,CMM,2564,Com/Media Arts/Internship V,,TBD,TBD,TBD TBD,....... TBD-TBD,IN,000,STAFF,2,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4472,CMM,2565,Com/Media Arts/Internship VI,,TBD,TBD,TBD TBD,....... TBD-TBD,IN,000,STAFF,1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4564,CMM,7021,Communication for Law Enforcem,,24-Aug,18-Dec,CARN TBD,....... TBD-TBD,LE,000,"Sellstrom, Simone",1,22,,22,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4052,ENG,0410,Develop Reading Versatility,,24-Aug,18-Dec,SHEL 224,.M.W... 11:00 AM-12:15 PM,LE,000,"March, Justin",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4053,ENG,0410,Develop Reading Versatility,,24-Aug,18-Dec,SHEL 224,..T.R.. 09:30 AM-10:45 AM,LE,000,"March, Justin",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4525,ENG,0410,Develop Reading Versatility,231,24-Aug,18-Dec,ONLN ZOOM,..T.... 09:30 AM-10:45 AM,LE,003,"Funke, Renee",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4982,ENG,0410,Develop Reading Versatility,,24-Aug,18-Dec,ONLN ZOOM,..T.... 06:00 PM-07:15 PM,LE,003,"March, Justin",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5335,ENG,0410,Develop Reading Versatility,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"March, Justin",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4065,ENG,0500,Composition I Workshop,,24-Aug,18-Dec,SHEL 225,.M.W... 11:00 AM-11:50 AM,LE,000,"Reeher, Jennifer",2,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4066,ENG,0500,Composition I Workshop,,24-Aug,18-Dec,SHEL 225,.M.W... 02:55 PM-03:45 PM,LE,000,"Munde, Christopher",2,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4070,ENG,0500,Composition I Workshop,,24-Aug,18-Dec,SHEL 225,..T.R.. 02:55 PM-03:45 PM,LE,000,"Stein, Johnny",2,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4343,ENG,0500,Composition I Workshop,,24-Aug,18-Dec,ONLN ZOOM,.M..... 06:00 PM-06:50 PM,LE,003,"Kenyon, Meredith",2,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4346,ENG,0500,Composition I Workshop,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Weyant, Karen",2,10,,10,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4624,ENG,0500,Composition I Workshop,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Weyant, Karen",2,10,,10,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5304,ENG,0500,Composition I Workshop,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Knowles, Victoria",2,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5325,ENG,0500,Composition I Workshop,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Classon, Lynn",2,10,,10,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5327,ENG,0500,Composition I Workshop,,24-Aug,18-Dec,SHEL 221,.M.W... 11:00 AM-11:50 AM,LE,000,"Griffin, Jonathan",2,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5328,ENG,0500,Composition I Workshop,,24-Aug,18-Dec,SHEL 221,..T.R.. 02:55 PM-03:45 PM,LE,000,"Griswold, Nancy",2,10,,10,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4056,ENG,1510,English Composition I,,24-Aug,18-Dec,SHEL 220,.M.W... 08:00 AM-09:15 AM,LE,000,"Higgins, Gilbert",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4057,ENG,1510,English Composition I,,24-Aug,18-Dec,SHEL 220,.M.W... 09:30 AM-10:45 AM,LE,000,"Higgins, Gilbert",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4058,ENG,1510,English Composition I,,24-Aug,18-Dec,SHEL 220,.M.W... 11:00 AM-12:15 PM,LE,000,"Weyant, Karen",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4060,ENG,1510,English Composition I,,24-Aug,18-Dec,SHEL 220,..T.R.. 08:00 AM-09:15 AM,LE,000,"Higgins, Gilbert",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4062,ENG,1510,English Composition I,,24-Aug,18-Dec,SHEL 221,..T.R.. 11:00 AM-12:15 PM,LE,000,"Griswold, Nancy",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4063,ENG,1510,English Composition I,205,24-Aug,18-Dec,SHEL 221,.M.W... 09:30 AM-10:45 AM,LE,000,"Reeher, Jennifer",3,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4064,ENG,1510,English Comp I (coreq 4065),205,24-Aug,18-Dec,SHEL 221,.M.W... 09:30 AM-10:45 AM,LE,000,"Reeher, Jennifer",3,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4067,ENG,1510,English Composition I,206,24-Aug,18-Dec,SHEL 224,.M.W... 01:30 PM-02:45 PM,LE,000,"Munde, Christopher",3,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4068,ENG,1510,English Comp I (coreq 4066),206,24-Aug,18-Dec,SHEL 224,.M.W... 01:30 PM-02:45 PM,LE,000,"Munde, Christopher",3,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4071,ENG,1510,English Composition I,207,24-Aug,18-Dec,SHEL 220,..T.R.. 01:30 PM-02:45 PM,LE,000,"Stein, Johnny",3,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4072,ENG,1510,English Comp I (coreq 4070),207,24-Aug,18-Dec,SHEL 220,..T.R.. 01:30 PM-02:45 PM,LE,000,"Stein, Johnny",3,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4344,ENG,1510,English Composition I,224,24-Aug,18-Dec,ONLN ZOOM,.M..... 04:30 PM-05:45 PM,LE,003,"Kenyon, Meredith",3,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4345,ENG,1510,English Comp I (coreq 4343),224,24-Aug,18-Dec,ONLN ZOOM,.M..... 04:30 PM-05:45 PM,LE,003,"Kenyon, Meredith",3,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4347,ENG,1510,English Composition I,226,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Weyant, Karen",3,10,,10,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4348,ENG,1510,English Comp I (coreq 4346),226,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Weyant, Karen",3,10,,10,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4363,ENG,1510,English Composition I,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Higgins, Gilbert",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4364,ENG,1510,English Composition I,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Keating, John",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4365,ENG,1510,English Composition I,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Reeher, Jennifer",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4366,ENG,1510,English Composition I,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Turner, Matthew",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4367,ENG,1510,English Composition I,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Classon, Lynn",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4519,ENG,1510,English Composition I,,24-Aug,18-Dec,HULT 212,..T.R.. 09:30 AM-10:45 AM,LE,000,"Knowles, Victoria",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4532,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYJM CLY,....... TBD-TBD,ITV,001,"Palmatier, Nicole",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4618,ENG,1510,English Composition I,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Stein, Johnny",3,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4625,ENG,1510,English Composition I,256,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Weyant, Karen",3,10,,10,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4626,ENG,1510,English Comp I (coreq 4624),256,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Weyant, Karen",3,10,,10,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4653,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM PTECH,....... TBD-TBD,LE,000,"Tracy, Jason",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4688,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYJM BRC,....... TBD-TBD,LE,000,"Carr, Rosanne",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4717,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYJM CHA,....... TBD-TBD,LE,000,"Muller, Gwen",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4751,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYJM DUN,....... TBD-TBD,LE,000,"Corbett, Amy",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4778,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM FAL,....... TBD-TBD,LE,000,"Stowe, Rachel",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4779,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM FAL,....... TBD-TBD,LE,000,"Stowe, Rachel",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4798,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM FRE,....... TBD-TBD,LE,000,"Reinhardt, Lisa",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4805,ENG,1510,English Composition I,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Turner, Matthew",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4808,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM FRE,....... TBD-TBD,LE,000,"Reinhardt, Lisa",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4814,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM FRW,....... TBD-TBD,LE,000,"Marzec, Lindsay",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4837,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Drake, Julie",3,60,,60,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4838,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Drake, Julie",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4839,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Roehmholdt, David",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4840,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Roehmholdt, David",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4866,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM MAP,....... TBD-TBD,LE,000,"Hewitt, Jennifer",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4875,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM PAN,....... TBD-TBD,LE,000,"Becker, David",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4885,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYJM PIN,....... TBD-TBD,LE,000,"Szumigala, Jill",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4919,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM SHE,....... TBD-TBD,LE,000,"Palmatier, Nicole",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4932,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYJM SWC,....... TBD-TBD,LE,000,"Eimiller, Junie",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4957,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM WES,....... TBD-TBD,LE,000,"Wilson, Laura",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4958,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM WES,....... TBD-TBD,LE,000,"Wilson, Laura",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5035,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM FRW,....... TBD-TBD,LE,000,"Ruhlman, Sandra",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5080,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Larivey, Megan",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5241,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM CASS,....... TBD-TBD,LE,000,"Katilus, Brianne",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5255,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Larivey, Megan",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5303,ENG,1510,English Comp I (coreq 5304),615,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Knowles, Victoria",3,10,,10,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5305,ENG,1510,English Composition I,615,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Knowles, Victoria",3,10,,10,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5317,ENG,1510,English Comp I (coreq 5325),85,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Classon, Lynn",3,10,,10,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5324,ENG,1510,English Composition I,85,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Classon, Lynn",3,10,,10,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5326,ENG,1510,English Comp I (coreq 5327),86,24-Aug,18-Dec,SHEL 225,.M.W... 09:30 AM-10:45 AM,LE,000,"Griffin, Jonathan",3,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5329,ENG,1510,English Comp I (coreq 5328),87,24-Aug,18-Dec,SHEL 221,..T.R.. 01:30 PM-02:45 PM,LE,000,"Griswold, Nancy",3,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5330,ENG,1510,English Composition I,86,24-Aug,18-Dec,SHEL 225,.M.W... 09:30 AM-10:45 AM,LE,000,"Griffin, Jonathan",3,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5331,ENG,1510,English Composition I,87,24-Aug,18-Dec,SHEL 221,..T.R.. 01:30 PM-02:45 PM,LE,000,"Griswold, Nancy",3,12,,12,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5343,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYJM SHE,....... TBD-TBD,ITV,000,"Palmatier, Nicole",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,5363,ENG,1510,English Composition I,,29-Sep,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Keating, John",3,15,,15,,A,,,6
+Jamestown,Arts/Humanities/Social Science,4085,ENG,1530,English Composition II,,24-Aug,18-Dec,SHEL 229,.M.W... 11:00 AM-12:15 PM,LE,000,"Classon, Lynn",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4086,ENG,1530,English Composition II,,24-Aug,18-Dec,SHEL 229,.M.W... 09:30 AM-10:45 AM,LE,000,"Weyant, Karen",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4087,ENG,1530,English Composition II,,24-Aug,18-Dec,SHEL 229,..T.R.. 09:30 AM-10:45 AM,LE,000,"Higgins, Gilbert",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4088,ENG,1530,English Composition II,,24-Aug,18-Dec,SHEL 221,.M..... 03:00 PM-04:15 PM,LE,004,"Stein, Johnny",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4350,ENG,1530,English Composition II,,24-Aug,18-Dec,ONLN ZOOM,..T.R.. 04:30 PM-05:45 PM,LE,001,"Stein, Johnny",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4356,ENG,1530,English Composition II,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Irland, Shaun",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4357,ENG,1530,English Composition II,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Yerpe, Dale",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4360,ENG,1530,English Composition II,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Stein, Johnny",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4361,ENG,1530,English Composition II,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Colosimo, Mandy",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4672,ENG,1530,English Composition II,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Keating, John",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4702,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYJM CASS,....... TBD-TBD,LE,000,"Thompson, Amanda",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4718,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYJM CHA,....... TBD-TBD,LE,000,"Muller, Gwen",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4719,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYJM CHA,....... TBD-TBD,LE,000,"Muller, Gwen",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4752,ENG,1530,English Composition II,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Corbett, Amy",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4754,ENG,1530,English Composition II,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Huffman, Kaitlin",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4782,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYJM FOR,....... TBD-TBD,LE,000,"Prinzi, Frank",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4799,ENG,1530,English Composition II,,4-Sep,14-Jun,HSNYJM FRE,....... TBD-TBD,LE,000,"Reinhardt, Lisa",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4841,ENG,1530,English Composition II,,4-Sep,14-Jun,HSNYJM JHS,....... TBD-TBD,LE,000,"Luce, Deanna",3,55,,55,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4867,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYJM MAP,....... TBD-TBD,LE,000,"Hewitt, Matthew",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4876,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYJM PAN,....... TBD-TBD,LE,000,"Becker, David",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4894,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYJM RAN,....... TBD-TBD,LE,000,"Perison, Christina",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4895,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYJM RAN,....... TBD-TBD,LE,000,"Perison, Christina",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4920,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYJM SHE,....... TBD-TBD,LE,000,"Palmatier, Nicole",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4929,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYJM SIL,....... TBD-TBD,LE,000,"DiGennaro, Anthony",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4934,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYJM SWC,....... TBD-TBD,LE,000,"Beichner-Miller, Christine",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4959,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYJM WES,....... TBD-TBD,LE,000,"Wilson, Laura",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,5014,ENG,1530,English Composition II,,4-Sep,14-Jun,HSNYJM PTECH,....... TBD-TBD,LE,000,"Tracy, Jason",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5266,ENG,1530,English Composition II,,4-Sep,14-Jun,HSNYJM FRW,....... TBD-TBD,LE,000,"Marzec, Lindsay",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4353,ENG,1540,Intro to Literary Studies,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"March, Justin",3,27,,27,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4689,ENG,1540,Intro to Literary Studies,,4-Sep,14-Jun,HSNYJM BRC,....... TBD-TBD,LE,000,"Carr, Rosanne",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4842,ENG,1540,Intro to Literary Studies,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Pirrello, Lora",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4843,ENG,1540,Intro to Literary Studies,,4-Sep,14-Jun,HSNYJM JHS,....... TBD-TBD,LE,000,"Roehmholdt, David",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4869,ENG,1540,Intro to Literary Studies,,4-Sep,14-Jun,HSNYJM MAP,....... TBD-TBD,LE,000,"Barton, Deborah",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4886,ENG,1540,Intro to Literary Studies,,4-Sep,14-Jun,HSNYJM PIN,....... TBD-TBD,LE,000,"Szumigala, Jill",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4935,ENG,1540,Intro to Literary Studies,,4-Sep,14-Jun,HSNYJM SWC,....... TBD-TBD,LE,000,"Beichner-Miller, Christine",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5253,ENG,1540,Intro to Literary Studies,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Miller, Julie",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5254,ENG,1540,Intro to Literary Studies,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Miller, Julie",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4522,ENG,2440,Children's Literature,165,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Funke, Renee",3,22,,22,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4352,ENG,2540,Creative Writing,,24-Aug,18-Dec,ONLN ZOOM,....R.. 03:00 PM-04:15 PM,LE,003,"Munde, Christopher",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5115,ENG,2730,World Mythology,,24-Aug,18-Dec,ONLN ZOOM,.M.W... 03:00 PM-04:15 PM,LE,001,"Yerpe, Dale",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4868,ENG,2740,Newswriting and Editing,,4-Sep,14-Jun,HSNYJM MAP,....... TBD-TBD,LE,000,"Hewitt, Matthew",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4978,ENG,2740,Newswriting and Editing,,4-Sep,14-Jun,HSNYJM SWC,....... TBD-TBD,LE,000,"Cresanti, Michelle",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5292,ENG,2740,Newswriting and Editing,,4-Sep,14-Jun,HSNYJM BRC,....... TBD-TBD,LE,000,"Carr, Rosanne",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5161,ENG,7010,Intro to Game Writing,,24-Aug,18-Dec,SHEL 220,.M.W... 01:30 PM-02:45 PM,LE,000,"Reeher, Jennifer",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4440,FRE,1510,Introductory French I,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LL,002,"Olson, Karen",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4755,FRE,2510,Intermediate French I,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Saye, Allie",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4756,FRE,2520,Intermediate French II,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Saye, Allie",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4285,GEO,1520,World Regional Geography,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Gedz, Cynthia",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5359,GLS,1500,Introduction to Global Affairs,,4-Sep,20-Jan,HSNYJM BRC,....... TBD-TBD,LE,000,"McCausland, Carrie",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,3991,HIS,1510,World History Before 1500,500,24-Aug,18-Dec,SHEL 121,.M.W... 09:30 AM-10:20 AM,LE,004,"O'Brian, Jonathan",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4759,HIS,1510,World History Before 1500,,4-Sep,20-Jan,HSNYJM DUN,....... TBD-TBD,LE,000,"Ahlstrom, Nathan",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,5110,HIS,1510,World History Before 1500,500,24-Aug,18-Dec,ONLN ZOOM,.M.W... 09:30 AM-10:20 AM,LE,001,"O'Brian, Jonathan",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5117,HIS,1510,World History Before 1500,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"O'Brian, Jonathan",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3994,HIS,1520,World History since 1500,,24-Aug,18-Dec,HULT 271,.M.W... 11:00 AM-11:50 AM,LE,004,"O'Brian, Jonathan",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3997,HIS,1530,US History before 1865,114,24-Aug,18-Dec,HULT 208,..T.... 08:00 AM-09:15 AM,LE,004,"O'Brian, Jonathan",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3998,HIS,1530,US History before 1865,114,24-Aug,18-Dec,ONLN ZOOM,..T.... 08:00 AM-09:15 AM,LE,003,"O'Brian, Jonathan",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3999,HIS,1530,US History before 1865,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"O'Brian, Jonathan",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4760,HIS,1530,US History before 1865,,4-Sep,20-Jan,HSNYJM DUN,....... TBD-TBD,LE,000,"Ahlstrom, Nathan",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4878,HIS,1530,US History before 1865,,4-Sep,20-Jan,HSNYJM PAN,....... TBD-TBD,ITV,000,"Armstrong, Kenneth",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4896,HIS,1530,US History before 1865,,4-Sep,20-Jan,HSNYJM RAN,....... TBD-TBD,LE,000,"Pihlblad, David",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,5259,HIS,1530,US History before 1865,,4-Sep,20-Jan,HSNYJM DUN,....... TBD-TBD,LE,000,"Ahlstrom, Nathan",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,5295,HIS,1530,US History before 1865,,4-Sep,20-Jan,HSNYJM CASS,....... TBD-TBD,ITV,001,"Armstrong, Kenneth",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4000,HIS,1540,US History Since 1865,88,24-Aug,18-Dec,HULT 208,.M.W... 01:30 PM-02:45 PM,ITV,000,"De Angelo, Donald",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4001,HIS,1540,US History Since 1865,,24-Aug,18-Dec,HULT 271,..T.R.. 01:30 PM-02:45 PM,LE,000,"De Angelo, Donald",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4002,HIS,1540,US History Since 1865,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"O'Brian, Jonathan",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5119,HIS,2560,History of World War II,605,24-Aug,18-Dec,HULT 211,.M.W... 04:30 PM-05:45 PM,LE,000,"Edwards, Gregory",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5120,HIS,2560,History of World War II,605,24-Aug,18-Dec,ONLN ZOOM,.M.W... 04:30 PM-05:45 PM,LE,001,"Edwards, Gregory",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5156,HIS,7512,Vietnam: History and Culture,,5-Nov,18-Dec,OFFC TBD,....... TBD-TBD,LE,000,"Sasse, Mark",3,,,,,A,,,4
+Jamestown,Arts/Humanities/Social Science,4097,MUS,1510,Music Appreciation,212,24-Aug,18-Dec,SHEL 121,..T.R.. 01:30 PM-02:45 PM,ITV,000,"Johnson, Marci",3,40,,40,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4098,MUS,1510,Music Appreciation,212,24-Aug,18-Dec,ONLN ZOOM,..T.R.. 01:30 PM-02:45 PM,ITV,001,"Johnson, Marci",3,40,,40,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4963,MUS,1510,Music Appreciation,,4-Sep,14-Jun,HSNYJM WES,....... TBD-TBD,LE,000,"Knappenberger, Kent",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5265,MUS,1510,Music Appreciation,,4-Sep,20-Jan,HSNYJM FRE,....... TBD-TBD,LE,000,"Bennett, Andrew",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4101,MUS,1570,Music Theory I,213,24-Aug,18-Dec,SHEL 138,..T.R.. 08:00 AM-09:15 AM,ITV,000,"Flory, Neil",3,40,,40,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4102,MUS,1570,Music Theory I,213,24-Aug,18-Dec,ONLN ZOOM,..T.R.. 08:00 AM-09:15 AM,ITV,001,"Flory, Neil",3,40,,40,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4964,MUS,1570,Music Theory I,,4-Sep,14-Jun,HSNYJM WES,....... TBD-TBD,LE,000,"Knappenberger, Kent",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5245,MUS,1570,Music Theory I,,4-Sep,20-Jan,HSNYJM CASS,....... TBD-TBD,LE,000,"Zenns, Jean-Nicole",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,5272,MUS,1570,Music Theory I,,4-Sep,14-Jun,HSNYJM JHS,....... TBD-TBD,LE,000,"Murray, Meghan",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5336,MUS,1570,Music Theory I,,4-Sep,14-Jun,HSNYJM FAL,....... TBD-TBD,LE,000,"Karbacka, Marie",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5384,MUS,1610,Applied Mus-Private Lessons I,,24-Aug,18-Dec,SHEL TBD,....... TBD-TBD,LE,000,"Johnson, Marci",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5385,MUS,1610,Applied Mus-Private Lessons I,,24-Aug,18-Dec,ONLN ZOOM,....... TBD-TBD,LE,001,"Johnson, Charles",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5386,MUS,1610,Applied Mus-Private Lessons I,,24-Aug,18-Dec,SHEL TBD,....... TBD-TBD,LE,000,"Eckstrom, Darwin",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5388,MUS,1610,Applied Mus-Private Lessons I,,24-Aug,18-Dec,ONLN ZOOM,....... TBD-TBD,LE,001,"Eckstrom, Darwin",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5389,MUS,1610,Applied Mus-Private Lessons I,,24-Aug,18-Dec,SHEL TBD,....... TBD-TBD,LE,001,"McKotch, Troy",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5390,MUS,1620,Applied Mus-Private Lessons II,,24-Aug,18-Dec,SHEL TBD,....... TBD-TBD,LE,000,"Johnson, Marci",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5391,MUS,1620,Applied Mus-Private Lessons II,,24-Aug,18-Dec,SHEL TBD,....... TBD-TBD,LE,000,"Johnson, Charles",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5392,MUS,1620,Applied Mus-Private Lessons II,,24-Aug,18-Dec,ONLN ZOOM,....... TBD-TBD,LE,001,"Johnson, Charles",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5393,MUS,1620,Applied Mus-Private Lessons II,,24-Aug,18-Dec,SHEL TBD,....... TBD-TBD,LE,000,"Wakefield, Christopher",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4113,MUS,1670,Beginning Piano,217,24-Aug,18-Dec,SHEL 144,.M.W... 01:30 PM-02:45 PM,LE,000,"Flory, Neil",3,40,,40,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4114,MUS,1670,Beginning Piano,217,24-Aug,18-Dec,ONLN ZOOM,.M.W... 01:30 PM-02:45 PM,LE,001,"Flory, Neil",3,40,,40,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4191,MUS,1710,Intro to Sound Recording,,24-Aug,18-Dec,SHEL 111,..T.R.. 11:00 AM-12:15 PM,LR,000,"Estep, Matthew",4,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4192,MUS,1710,Intro to Sound Recording - LAB,,24-Aug,18-Dec,SHEL 142,....R.. 02:50 PM-05:20 PM,LA,000,"Estep, Matthew",,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4207,MUS,1750,Music Ensembles: Chorus I,219,24-Aug,18-Dec,SHEL 147,.M..... 05:00 PM-06:40 PM,LE,000,"Costantini, Julie",2,50,,50,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4986,MUS,1760,Music Ensembles: Chorus II,219,24-Aug,18-Dec,SHEL 147,.M..... 05:00 PM-06:40 PM,LE,000,"Costantini, Julie",2,40,,40,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4211,MUS,1850,Music Ensembles: Rock I,220,29-Sep,18-Dec,SHEL 147,.....F. 01:30 PM-03:35 PM,LE,000,"Eckstrom, Darwin",2,50,,50,,A,,,6
+Jamestown,Arts/Humanities/Social Science,4212,MUS,1860,Music Ensembles: Rock II,220,29-Sep,18-Dec,SHEL 147,.....F. 01:30 PM-03:35 PM,LE,000,"Eckstrom, Darwin",2,50,,50,,A,,,6
+Jamestown,Arts/Humanities/Social Science,4217,MUS,1870,Music Ensem: Concert Band I,221,29-Sep,18-Dec,SHEL 147,..T.... 05:00 PM-07:05 PM,LE,000,"Wakefield, Christopher",2,50,,50,,A,,,6
+Jamestown,Arts/Humanities/Social Science,4219,MUS,1880,Music Ensem: Concert Band II,221,29-Sep,18-Dec,SHEL 147,..T.... 05:00 PM-07:05 PM,LE,000,"Wakefield, Christopher",2,50,,50,,A,,,6
+Jamestown,Arts/Humanities/Social Science,4105,MUS,1930,Aural Skills I,214,24-Aug,18-Dec,SHEL 138,.M.W.F. 08:30 AM-09:20 AM,ITV,000,"Johnson, Marci",2,40,,40,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4106,MUS,1930,Aural Skills I,214,24-Aug,18-Dec,ONLN ZOOM,.M.W.F. 08:30 AM-09:20 AM,ITV,001,"Johnson, Marci",2,40,,40,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5394,MUS,2610,Applied Mus-Private Lesson-III,,24-Aug,18-Dec,SHEL TBD,....... TBD-TBD,LE,000,"Johnson, Marci",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5395,MUS,2610,Applied Mus-Private Lesson-III,,24-Aug,18-Dec,SHEL TBD,....... TBD-TBD,LE,000,"Eckstrom, Darwin",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5396,MUS,2610,Applied Mus-Private Lesson-III,,24-Aug,18-Dec,SHEL TBD,....... TBD-TBD,LE,000,"Flory, Neil",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5397,MUS,2620,Applied Mus-Private Lessons IV,,24-Aug,18-Dec,SHEL TBD,....... TBD-TBD,LE,000,"Johnson, Marci",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5398,MUS,2620,Applied Mus-Private Lessons IV,,24-Aug,18-Dec,SHEL TBD,....... TBD-TBD,LE,000,"Johnson, Charles",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5399,MUS,2630,Applied Mus-Private Lessons V,,24-Aug,18-Dec,ONLN ZOOM,....... TBD-TBD,LE,001,"Johnson, Marci",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5400,MUS,2630,Applied Mus-Private Lessons V,,24-Aug,18-Dec,ONLN ZOOM,....... TBD-TBD,LE,001,"Laska, Alicia",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5401,MUS,2640,Applied Mus-Private Lessons VI,,24-Aug,18-Dec,ONLN ZOOM,....... TBD-TBD,LE,001,"Johnson, Marci",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5180,MUS,2645,Applied Music Priv.Lessons VII,,24-Aug,18-Dec,SHEL TBD,....... TBD-TBD,LE,000,"Eckstrom, Darwin",1,50,,50,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5402,MUS,2645,Applied Music Priv.Lessons VII,,24-Aug,18-Dec,SHEL TBD,....... TBD-TBD,LE,000,"Eckstrom, Darwin",1,,,,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4209,MUS,2750,Music Ensembles: Chorus III,219,24-Aug,18-Dec,SHEL 147,.M..... 05:00 PM-06:40 PM,LE,000,"Costantini, Julie",2,50,,50,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4210,MUS,2760,Music Ensembles: Chorus IV,219,24-Aug,18-Dec,SHEL 147,.M..... 05:00 PM-06:40 PM,LE,000,"Costantini, Julie",2,50,,50,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4213,MUS,2850,Music Ensembles: Rock III,220,29-Sep,18-Dec,SHEL 147,.....F. 01:30 PM-03:35 PM,LE,000,"Eckstrom, Darwin",2,50,,50,,A,,,6
+Jamestown,Arts/Humanities/Social Science,4215,MUS,2860,Music Ensembles: Rock IV,220,29-Sep,18-Dec,SHEL 147,.....F. 01:30 PM-03:35 PM,LE,000,"Eckstrom, Darwin",2,50,,50,,A,,,6
+Jamestown,Arts/Humanities/Social Science,4220,MUS,2870,Music Ensem: Concert Band III,221,29-Sep,18-Dec,SHEL 147,..T.... 05:00 PM-07:05 PM,LE,000,"Wakefield, Christopher",2,50,,50,,A,,,6
+Jamestown,Arts/Humanities/Social Science,4221,MUS,2880,Music Ensem: Concert Band IV,221,29-Sep,18-Dec,SHEL 147,..T.... 05:00 PM-07:05 PM,LE,000,"Wakefield, Christopher",2,50,,50,,A,,,6
+Jamestown,Arts/Humanities/Social Science,4009,POL,1510,American Politics,116,24-Aug,18-Dec,HULT 208,.M.W... 11:00 AM-12:15 PM,ITV,000,"De Angelo, Donald",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4235,PSY,1510,General Psychology,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Corapi, Frank",3,27,,27,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4237,PSY,1510,General Psychology,,24-Aug,18-Dec,HULT 249,.M.W... 09:30 AM-10:45 AM,LE,000,"Zeiders-Weber, Joshua",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4238,PSY,1510,General Psychology,,24-Aug,18-Dec,HULT 249,.M.W... 11:00 AM-12:15 PM,LE,000,"Zeiders-Weber, Joshua",3,33,,33,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4239,PSY,1510,General Psychology,,24-Aug,18-Dec,HULT 249,..T.R.. 11:00 AM-12:15 PM,LE,000,"Corapi, Frank",3,33,,33,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4240,PSY,1510,General Psychology,124,24-Aug,18-Dec,HULT 211,.M..... 06:00 PM-08:45 PM,LE,000,"Zeiders-Weber, Joshua",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4241,PSY,1510,General Psychology,124,24-Aug,18-Dec,ONLN ZOOM,.M..... 06:00 PM-08:45 PM,LE,001,"Zeiders-Weber, Joshua",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4242,PSY,1510,General Psychology,,24-Aug,18-Dec,HULT 249,..T.R.. 01:30 PM-02:45 PM,LE,000,"Zeiders-Weber, Joshua",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4243,PSY,1510,General Psychology,,29-Sep,4-Nov,HULT 271,.M.W... 01:30 PM-02:45 PM,LE,004,"Mitchell, Tracey",3,32,,32,,A,,,3
+Jamestown,Arts/Humanities/Social Science,4606,PSY,1510,General Psychology,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Zeiders-Weber, Joshua",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4787,PSY,1510,General Psychology,,4-Sep,20-Jan,HSNYJM FRW,....... TBD-TBD,LE,001,"Thompson, Amy",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4899,PSY,1510,General Psychology,,4-Sep,20-Jan,HSNYJM RAN,....... TBD-TBD,LE,000,"Wascher, Barbara",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4248,PSY,1550,Stress & Coping,126,24-Aug,18-Dec,HULT 204,.M.W... 03:00 PM-04:15 PM,LE,000,"Mitchell, Tracey",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4249,PSY,1550,Stress & Coping,126,24-Aug,18-Dec,ONLN ZOOM,.M.W... 03:00 PM-04:15 PM,LE,001,"Mitchell, Tracey",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4250,PSY,2510,Life Span Development,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Baruth, Katey",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4251,PSY,2510,Life Span Development,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Baruth, Katey",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4255,PSY,2510,Life Span Development,127,24-Aug,18-Dec,HULT 204,.M.W... 11:00 AM-12:15 PM,LE,000,"Mitchell, Tracey",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4256,PSY,2510,Life Span Development,127,24-Aug,18-Dec,ONLN ZOOM,.M.W... 11:00 AM-12:15 PM,LE,001,"Mitchell, Tracey",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4257,PSY,2520,Child Development,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Funke, Renee",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4258,PSY,2520,Child Development,129,24-Aug,18-Dec,HULT 267,.M..... 09:30 AM-10:45 AM,LE,005,"Funke, Renee",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4259,PSY,2520,Child Development,129,24-Aug,18-Dec,ONLN ZOOM,.M..... 09:30 AM-10:45 AM,LE,003,"Funke, Renee",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4260,PSY,2530,Social Psychology,130,24-Aug,18-Dec,SHEL 138,.M.W... 01:30 PM-02:45 PM,LE,000,"Zeiders-Weber, Joshua",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4264,PSY,2530,Social Psychology,130,24-Aug,18-Dec,ONLN ZOOM,.M.W... 01:30 PM-02:45 PM,LE,001,"Zeiders-Weber, Joshua",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4273,PSY,2540,Interpersonal/Group Dynamics,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Lachappelle, Francis",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4265,PSY,2550,Psychology of Adolescence,156,24-Aug,18-Dec,HULT 267,...W... 09:30 AM-10:45 AM,LE,005,"Funke, Renee",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4484,PSY,2550,Psychology of Adolescence,156,24-Aug,18-Dec,ONLN ZOOM,...W... 09:30 AM-10:45 AM,LE,003,"Funke, Renee",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4236,PSY,2560,Abnormal Behavior,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Corapi, Frank",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4266,PSY,2560,Abnormal Behavior,131,24-Aug,18-Dec,CARN 167,.M.W... 04:30 PM-05:45 PM,LE,000,"Olson, Kristin",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4268,PSY,2560,Abnormal Behavior,131,24-Aug,18-Dec,ONLN ZOOM,.M.W... 04:30 PM-05:45 PM,LE,001,"Olson, Kristin",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5183,PSY,2590,Cross-Cultural Psychology,444,24-Aug,18-Dec,HULT 204,..T.R.. 11:00 AM-12:15 PM,LE,000,"Zeiders-Weber, Joshua",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5184,PSY,2590,Cross-Cultural Psychology,444,24-Aug,18-Dec,ONLN ZOOM,..T.R.. 11:00 AM-12:15 PM,LE,001,"Zeiders-Weber, Joshua",3,32,,32,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4538,REL,1530,Anthropology of  Supernatural,252,24-Aug,18-Dec,SHEL 121,.M.W... 11:00 AM-12:15 PM,LE,006,"Scott, Chelsie",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3884,SOC,1510,Intro to Sociology,,24-Aug,18-Dec,HULT 204,.M.W... 09:30 AM-10:45 AM,LE,000,"Scott, Chelsie",3,27,,27,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3886,SOC,1510,Intro to Sociology,,24-Aug,18-Dec,HULT 249,..T.R.. 09:30 AM-10:45 AM,LE,000,"Shoup, Glen",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3887,SOC,1510,Intro to Sociology,,24-Aug,18-Dec,HULT 203,....R.. 06:00 PM-08:45 PM,LE,000,"Skinner, Allyn",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3888,SOC,1510,Intro to Sociology,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Thomas, Siby",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3889,SOC,1510,Intro to Sociology,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Thomas, Siby",3,27,,27,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3890,SOC,1510,Intro to Sociology,,29-Sep,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Thomas, Siby",3,26,,26,,A,,,6
+Jamestown,Arts/Humanities/Social Science,5212,SOC,1510,Intro to Sociology,,24-Aug,18-Dec,HULT 203,.M.W... 01:30 PM-02:45 PM,LE,000,"McCune, Meghan",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5312,SOC,1510,Intro to Sociology,51,24-Aug,18-Dec,HULT 208,..T.R.. 03:00 PM-04:15 PM,ITV,000,"Scott, Chelsie",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4008,SOC,2550,Intro. to Dis/Ability Studies,162,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Bessette, Shannon",3,13,,13,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4481,SOC,2560,Criminology,155,24-Aug,18-Dec,HULT 267,..T.R.. 01:30 PM-02:45 PM,ITV,000,"Corapi, Frank",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5162,SOC,2590,"Sex, Sexuality, and Gender",401,24-Aug,18-Dec,HULT 204,.M.W... 01:30 PM-02:45 PM,LE,006,"Scott, Chelsie",3,26,,26,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3970,SPA,1510,Introductory Spanish I,665,24-Aug,18-Dec,SHEL 138,..T.R.. 02:30 PM-04:25 PM,LL,000,"Richau, Michelle",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3971,SPA,1510,Introductory Spanish I,665,24-Aug,18-Dec,ONLN ZOOM,..T.R.. 02:30 PM-04:25 PM,LL,001,"Richau, Michelle",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,5131,SPA,1510,Introductory Spanish I,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LL,002,"Richau, Michelle",3,24,,24,,A,,,1
+Jamestown,Arts/Humanities/Social Science,3977,SPA,1520,Introductory Spanish II,650,24-Aug,18-Dec,SHEL 121,.M.W... 01:30 PM-03:25 PM,LL,000,"Richau, Michelle",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4045,SPA,1520,Introductory Spanish II,650,24-Aug,18-Dec,ONLN ZOOM,.M.W... 01:30 PM-03:25 PM,LL,001,"Richau, Michelle",3,20,,20,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4693,SPA,2510,Intermediate Spanish I,,4-Sep,14-Jun,HSNYJM BRC,....... TBD-TBD,LE,000,"Potter, Kari",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4706,SPA,2510,Intermediate Spanish I,,4-Sep,20-Jan,HSNYJM CASS,....... TBD-TBD,LE,000,"Avila, Traci",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4765,SPA,2510,Intermediate Spanish I,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Lugo-Alfaro, Miriam",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4802,SPA,2510,Intermediate Spanish I,,4-Sep,14-Jun,HSNYJM FRE,....... TBD-TBD,LE,000,"Cruver, Cathleen",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4900,SPA,2510,Intermediate Spanish I,,4-Sep,14-Jun,HSNYJM RAN,....... TBD-TBD,LE,000,"Rose, Sarah",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4931,SPA,2510,Intermediate Spanish I,,4-Sep,14-Jun,HSNYJM SIL,....... TBD-TBD,LE,000,"VanDette, Albert",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5256,SPA,2510,Intermediate Spanish I,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Lugo-Alfaro, Miriam",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5352,SPA,2510,Intermediate Spanish I,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Logan, Luz",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4766,SPA,2520,Intermediate Spanish II,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Lugo-Alfaro, Miriam",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4803,SPA,2520,Intermediate Spanish II,,4-Sep,14-Jun,HSNYJM FRE,....... TBD-TBD,LE,000,"Cruver, Cathleen",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,4901,SPA,2520,Intermediate Spanish II,,4-Sep,14-Jun,HSNYJM RAN,....... TBD-TBD,LE,000,"Rose, Sarah",3,50,,50,,A,,,HS
+Jamestown,Arts/Humanities/Social Science,5031,THE,1510,Introduction to Theatre,,4-Sep,20-Jan,HSNYJM SWC,....... TBD-TBD,LE,000,"Beichner-Miller, Christine",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4295,THE,1570,Acting,280,24-Aug,18-Dec,ARTW UP,..T.R.. 11:00 AM-12:15 PM,LE,000,"Drew, Emily",3,15,,15,,A,,,1
+Jamestown,Arts/Humanities/Social Science,4858,THE,1570,Acting,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Tehan, Christopher",3,50,,50,,A,,,HS1
+Jamestown,Arts/Humanities/Social Science,4296,THE,2570,Acting II,280,24-Aug,18-Dec,ARTW UP,..T.R.. 11:00 AM-12:15 PM,LE,000,"Drew, Emily",3,5,,5,,A,,,1
+Jamestown,Continuing Education,5195,CECT,7193,Good Skills,,24-Aug,17-Sep,HULT 284,.MTWRF. 08:00 AM-03:30 PM,CEC,004,STAFF,,20,,20,,A,,,E
+Jamestown,Continuing Education,5196,CECT,7193,Good Skills,,28-Sep,22-Oct,HULT 284,.MTWRF. 08:00 AM-03:30 PM,CEC,004,STAFF,,20,,20,,A,,,E
+Jamestown,Continuing Education,5197,CECT,7193,Good Skills,,26-Oct,18-Nov,HULT 284,.MTWRF. 08:00 AM-03:30 PM,CEC,004,STAFF,,20,,20,,A,,,E
+Jamestown,Continuing Education,5434,CECT,7193,Good Skills,,23-Nov,18-Dec,HULT 284,.MTWRF. 08:00 AM-03:30 PM,CEC,004,STAFF,,20,,20,,A,,,E
+Jamestown,Health Sciences,3812,CERN,1510,NUR 1510 Review Session,,24-Aug,18-Dec,SHEL 332,.M..... 09:00 AM-09:45 AM,TU,000,"Johnson, Allison",,80,,80,,A,,,1
+Jamestown,Health Sciences,4427,HCR,1200,Intro to Healthcare Studies,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Dunn, Rose",3,24,,24,,A,,,1
+Jamestown,Health Sciences,4758,HCR,1210,Introduction to Disease,,4-Sep,20-Jan,HSNYJM DUN,....... TBD-TBD,LE,000,"Delgado, Kimberly",1,50,,50,,A,,,HS1
+Jamestown,Health Sciences,4314,HCR,1300,Adult & Child CPR/AED,,29-Sep,4-Nov,SHEL 117,......S 10:00 AM-06:00 PM,LE,000,"Whitmore, Kathleen",0.5,20,,20,,A,,,3
+Jamestown,Health Sciences,4315,HCR,1310,First Aid & Mental Health,,29-Sep,4-Nov,SHEL 117,......S 10:00 AM-06:00 PM,LE,000,"Whitmore, Kathleen",0.5,20,,20,,A,,,3
+Jamestown,Health Sciences,5290,HCR,1450,Emergency Medical Technology,,24-Aug,18-Dec,SHEL 334A,.M.WR.. 06:00 PM-09:00 PM,LL,000,"Smith, Robert",7,15,,15,,A,,,1
+Jamestown,Health Sciences,5291,HCR,1450,Emergency Medical Technology,,24-Aug,18-Dec,SHEL 334A,.M.WR.. 06:00 PM-09:00 PM,LL,000,"Smith, Robert",7,,,,,A,,,1
+Jamestown,Health Sciences,4428,HCR,2100,Kinesiology,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"O'Brien, Jack",3,24,,24,,A,,,1
+Jamestown,Health Sciences,5200,LPN,1110,Pharmacology & Dosage Calc,,24-Aug,18-Dec,SHEL 119,.M.W... 11:00 AM-12:15 PM,LE,000,"Burrell, Heather",3,9,,9,,A,,,1
+Jamestown,Health Sciences,5201,LPN,1120,PN Fundamentals,,24-Aug,18-Dec,SHEL 224,.....F. 09:30 AM-12:15 PM,LR,000,"Burrell, Heather",8,9,,9,,A,,,1
+Jamestown,Health Sciences,5202,LPN,1120,PN Fundamentals - LAB,,24-Aug,18-Dec,SHEL 229,.M..... 01:15 PM-04:00 PM,LA,000,"Burrell, Heather",,9,,9,,A,,,1
+Jamestown,Health Sciences,5202,LPN,1120,PN Fundamentals - LAB,,24-Aug,18-Dec,OFFC TBD,..T.R.. 06:00 AM-12:00 PM,LA,000,"Burrell, Heather",,9,,9,,A,,,1
+Jamestown,Health Sciences,3814,NUR,1510,Foundations of Nursing - LAB,,24-Aug,18-Dec,SHEL 332,..T.R.. 07:00 AM-01:00 PM,LA,000,"Johnson, Allison",,37,,37,,A,,,1
+Jamestown,Health Sciences,3815,NUR,1510,Foundations of Nursing - LAB,,24-Aug,18-Dec,SHEL 332,...W.F. 07:00 AM-01:00 PM,LA,000,"Johnson, Allison",,36,,36,,A,,,1
+Jamestown,Health Sciences,5432,NUR,1510,Foundations of Nursing,,24-Aug,18-Dec,SHEL 332,.M..... 10:00 AM-12:05 PM,LR,000,"Johnson, Allison",7,80,,80,,A,,,1
+Jamestown,Health Sciences,5432,NUR,1510,Foundations of Nursing,,24-Aug,18-Dec,SHEL 332,.M..... 01:15 PM-03:20 PM,LR,000,"Johnson, Allison",7,80,,80,,A,,,1
+Jamestown,Health Sciences,3816,NUR,2350,Pharmacology For Nurses I,,24-Aug,18-Dec,SHEL 334A,..T.... 01:30 PM-02:45 PM,LE,000,"Bablak, Debra",1.5,60,,60,,A,,,1
+Jamestown,Health Sciences,3818,NUR,2510,Health Restoration/Maint I,,24-Aug,18-Dec,SHEL 334A,.M..... 01:30 PM-03:25 PM,LR,000,"Bablak, Debra",8,70,,70,,A,,,1
+Jamestown,Health Sciences,3818,NUR,2510,Health Restoration/Maint I,,24-Aug,18-Dec,SHEL 334A,..T.... 10:15 AM-12:10 PM,LR,000,"Bablak, Debra",8,70,,70,,A,,,1
+Jamestown,Health Sciences,3819,NUR,2510,Health Restor/Maint I - LAB,,24-Aug,18-Dec,SHEL 334A,....... TBD-TBD,LA,000,"Bablak, Debra",,70,,70,,A,,,1
+Jamestown,Health Sciences,3820,NUR,2550,Pathophysiology I,,24-Aug,18-Dec,SHEL 334A,.M..... 11:00 AM-12:15 PM,LE,000,"Bablak, Debra",1.5,70,,70,,A,,,1
+Jamestown,Health Sciences,4093,OTA,1510,Foundation/Occupation/Therapy,,24-Aug,28-Sep,SHEL 117,....R.. 09:30 AM-12:15 PM,LE,000,"Tranum, Sarah",3,32,,32,,A,,,2
+Jamestown,Health Sciences,4093,OTA,1510,Foundation/Occupation/Therapy,,24-Aug,28-Sep,SHEL 146,....R.. 01:30 PM-04:00 PM,LE,000,"Tranum, Sarah",3,32,,32,,A,,,2
+Jamestown,Health Sciences,4094,OTA,1520,Human Conditions-Lifespan,,24-Aug,18-Dec,SHEL 117,..T.... 09:30 AM-12:15 PM,LR,000,"Swanson, Jessica",3,32,,32,,A,,,1
+Jamestown,Health Sciences,4615,OTA,1520,Human Conditions-Lifespan,239,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LR,002,"Swanson, Jessica",3,20,,20,,A,,,1
+Jamestown,Health Sciences,4436,OTA,2520,Adulthood and Aging,,24-Aug,18-Dec,ONLN ZOOM,.....F. 11:00 AM-12:15 PM,LE,001,"Tranum, Sarah",2,15,,15,,A,,,1
+Jamestown,Health Sciences,4324,OTA,2540,Community Based Practice,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LR,002,"Swanson, Jessica",1,15,,15,,A,,,1
+Jamestown,Health Sciences,4325,OTA,2540,Community Based Practice - FW,,24-Aug,18-Dec,SHEL 117,...W... 10:00 AM-12:15 PM,FW,000,"Swanson, Jessica",,10,,10,,A,,,1
+Jamestown,Health Sciences,4326,OTA,2540,Community Based Practice - FW,,24-Aug,18-Dec,SHEL 117,...W... 10:00 AM-12:15 PM,FW,000,"Tranum, Sarah",,10,,10,,A,,,1
+Jamestown,Health Sciences,4333,OTA,2550,Tech. & Enviro. App for Living,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LR,002,"Swanson, Jessica",2,15,,15,,A,,,1
+Jamestown,Health Sciences,4334,OTA,2550,Tech. & Enviro. App Liv - LAB,,24-Aug,18-Dec,SHEL 146,...W... 01:30 PM-04:00 PM,LA,000,"Tranum, Sarah",,15,,15,,A,,,1
+Jamestown,Health Sciences,4435,OTA,2570,Classroom to Clinic-Prep,,24-Aug,18-Dec,ONLN ONLN,.....F. 09:30 AM-10:45 AM,LE,003,"Tranum, Sarah",2,15,,15,,A,,,1
+Jamestown,Health Sciences,4327,OTA,2620,Physical Rehabilitation,,24-Aug,18-Dec,SHEL 146,.M.W... 09:00 AM-09:50 AM,LR,004,"Tranum, Sarah",3,15,,15,,A,,,1
+Jamestown,Health Sciences,4329,OTA,2620,Physical Rehab - LAB,,24-Aug,18-Dec,SHEL 146,.M..... 10:00 AM-12:15 PM,LA,000,"Tranum, Sarah",,15,,15,,A,,,1
+Jamestown,Multiple Divisions,4174,INT,1555,Inquire:Artificial Intelligenc,,24-Aug,4-Nov,ONLN ONLN,....... TBD-TBD,LE,002,"Reisch, Christopher",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4180,INT,1555,"Inquire:But First, Coffee!",,24-Aug,4-Nov,SHEL 224,.M.W... 09:30 AM-10:45 AM,LE,000,"Richau, Michelle",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4183,INT,1555,Inquire:Cursive:Curse or Craft,,24-Aug,4-Nov,SHEL 221,..T.R.. 09:30 AM-10:45 AM,LE,000,"Griswold, Nancy",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4286,INT,1555,"Inquire:Music:Love,Death,Spiri",136,24-Aug,4-Nov,SHEL 138,.M.W.F. 09:30 AM-10:20 AM,LE,000,"Flory, Neil",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4287,INT,1555,"Inquire:Music:Love,Death,Spiri",136,24-Aug,4-Nov,ONLN ZOOM,.M.W.F. 09:30 AM-10:20 AM,LE,001,"Flory, Neil",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4288,INT,1555,"Inquire:Music:Love,Death,Spiri",137,24-Aug,4-Nov,SHEL 138,.M.W... 03:00 PM-04:15 PM,LE,000,"Flory, Neil",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4289,INT,1555,"Inquire:Music:Love,Death,Spiri",137,24-Aug,4-Nov,ONLN ZOOM,.M.W... 03:00 PM-04:15 PM,LE,001,"Flory, Neil",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4290,INT,1555,"Inquire:Music:Love,Death,Spiri",138,29-Sep,4-Nov,SHEL 121,..T.R.. 03:00 PM-04:15 PM,LE,000,"Flory, Neil",2,20,,20,,A,,,3
+Jamestown,Multiple Divisions,4291,INT,1555,"Inquire:Music:Love,Death,Spiri",138,29-Sep,4-Nov,ONLN ZOOM,..T.R.. 03:00 PM-04:15 PM,LE,001,"Flory, Neil",2,20,,20,,A,,,3
+Jamestown,Multiple Divisions,4292,INT,1555,Inquire:Dark Side of Tourism,,24-Aug,4-Nov,CARN 167,...W... 01:30 PM-02:45 PM,LE,004,"Forney, Jennifer",2,23,,23,,A,,,5
+Jamestown,Multiple Divisions,4293,INT,1555,Inquire:Relationship Era (TV),,24-Aug,4-Nov,SHEL 110,.M.W... 01:30 PM-02:45 PM,LE,000,"Sellstrom, Simone",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4294,INT,1555,Inquire: Urban Legends,,24-Aug,4-Nov,ONLN ZOOM,.M..... 11:00 AM-12:15 PM,LE,001,"Munde, Christopher",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4311,INT,1555,Inquire: Urban Legends,,24-Aug,4-Nov,ONLN ZOOM,....R.. 01:30 PM-02:45 PM,LE,003,"Munde, Christopher",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4317,INT,1555,Inquire:What Makes Us Human?,,24-Aug,4-Nov,ONLN ZOOM,..T.... 07:30 PM-08:45 PM,LE,003,"Coe, Jennifer",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4319,INT,1555,Inquire:Mysteries of the Dream,,24-Aug,4-Nov,SHEL 223,....R.. 03:00 PM-03:50 PM,LE,004,"Smith, Tammy",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4320,INT,1555,Inquire:Gamers Guide to Galaxy,,24-Aug,4-Nov,SHEL 124,.M.W... 11:00 AM-11:50 AM,LE,004,"Stein, Johnny",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4330,INT,1555,Inquire:Let's Go Globe-Trottin,139,24-Aug,4-Nov,HULT 211,..T.R.. 11:00 AM-12:15 PM,LE,000,"Gedz, Cynthia",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4331,INT,1555,Inquire:Let's Go Globe-Trottin,139,24-Aug,4-Nov,ONLN ZOOM,..T.R.. 11:00 AM-12:15 PM,LE,001,"Gedz, Cynthia",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4413,INT,1555,Inquire: Food!,,24-Aug,4-Nov,ONLN ONLN,....... TBD-TBD,LE,002,"Bessette, Shannon",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4415,INT,1555,Inquire: Let's Play Fair,,24-Aug,4-Nov,ONLN ONLN,....... TBD-TBD,LE,002,"Brunelle, Aimee",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4417,INT,1555,Inquire:Mysteries of the Dream,,24-Aug,4-Nov,ONLN ONLN,....... TBD-TBD,LE,002,"Smith, Tammy",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4418,INT,1555,Inquire: Race to Wellness,,24-Aug,4-Nov,ONLN ONLN,....... TBD-TBD,LE,002,"Visbisky, Jennifer",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4419,INT,1555,Inquire:What Would Florence Ni,,24-Aug,4-Nov,ONLN ONLN,....... TBD-TBD,LE,002,"Burrell, Heather",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4420,INT,1555,Inquire:Wellness and Happiness,,24-Aug,4-Nov,ONLN ONLN,....... TBD-TBD,LE,002,"Cummings, Carla",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4511,INT,1555,Inquire: The Art of Adulting,,24-Aug,4-Nov,HULT 204,.M.W... 04:30 PM-05:45 PM,LE,000,"Silagyi, Tyler",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,4993,INT,1555,Inquire: In The News,,29-Sep,4-Nov,ONLN ONLN,....... TBD-TBD,LE,002,"Colosimo, Mandy",2,20,,20,,A,,,3
+Jamestown,Multiple Divisions,5145,INT,1555,Inquire: Redefining Feminism,,24-Aug,4-Nov,HULT 254,..T.R.. 11:00 AM-12:15 PM,LE,000,"O'Brian, Rachel",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,5147,INT,1555,Inquire: The Black Experience,,29-Sep,4-Nov,HULT 203,..T.R.. 01:30 PM-02:45 PM,LE,000,"Scott, Alize",2,20,,20,,A,,,3
+Jamestown,Multiple Divisions,5148,INT,1555,Inquire: The Magic of Disney,,24-Aug,4-Nov,HULT 203,..T.R.. 04:30 PM-05:45 PM,LE,000,"Brunacini, Alexis",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,5149,INT,1555,Inquire: 21st Century Cities,,24-Aug,4-Nov,ONLN ONLN,....... TBD-TBD,LE,002,"Bessette, Shannon",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,5151,INT,1555,Inquire: Unfiltered Realities,,24-Aug,4-Nov,ONLN ONLN,....... TBD-TBD,LE,002,"Drew, Emily",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,5222,INT,1555,Inquire:Wellness and Happiness,,24-Aug,4-Nov,ONLN ONLN,....... TBD-TBD,LE,002,"Cummings, Carla",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,5321,INT,1555,Inquire: Artificial Intelligen,,24-Aug,4-Nov,ONLN ONLN,....... TBD-TBD,LE,002,"Reisch, Christopher",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,5322,INT,1555,Inquire:Robot Revolution,1,24-Aug,4-Nov,ONLN ZOOM,.M.W... 11:00 AM-12:15 PM,LE,001,"Griffin, Timothy",2,20,,20,,A,,,5
+Jamestown,Multiple Divisions,5334,INT,1555,Inquire: Wellness & Happiness,,29-Sep,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Cummings, Carla",2,20,,20,,A,,,6
+Jamestown,Multiple Divisions,4150,INT,2015,HONORS Project I,,24-Aug,18-Dec,SHEL 132,..T.R.. 12:31 PM-01:00 PM,FW,006,"Raynor, Angela",1,36,,36,,A,,,1
+Jamestown,Multiple Divisions,4151,INT,2515,HONORS Project II,,24-Aug,18-Dec,SHEL 132,..T.R.. 12:31 PM-01:00 PM,FW,006,"Raynor, Angela",1,36,,36,,A,,,1
+Jamestown,Public & Professional Services,4022,BUS,1360,Keyboarding/Word Processing,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Johnston, Jeanne",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4651,BUS,1360,Keyboarding/Word Processing,,4-Sep,20-Jan,HSNYJM RAN,....... TBD-TBD,LE,000,"Congdon, Sara",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,4914,BUS,1360,Keyboarding/Word Processing,,4-Sep,14-Jun,HSNYJM SHE,....... TBD-TBD,LE,000,"Swanson, Molly",3,50,,50,,A,,,HS
+Jamestown,Public & Professional Services,5318,BUS,1360,Keyboarding/Word Processing,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Johnston, Jeanne",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4023,BUS,1430,Entrepreneurship & Innovation,,24-Aug,18-Dec,HULT 211,..T.... 09:30 AM-10:45 AM,LE,004,"Bray, Sarah",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4925,BUS,1430,Entrepreneurship & Innovation,,4-Sep,14-Jun,HSNYJM SIL,....... TBD-TBD,LE,000,"Castiglia, Rachel",3,50,,50,,A,,,HS
+Jamestown,Public & Professional Services,4028,BUS,1500,Intro to Business,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Miller, Deborah",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4030,BUS,1500,Intro to Business,,24-Aug,18-Dec,HULT 271,..T.R.. 11:00 AM-12:15 PM,LE,000,"Miller, Deborah",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4650,BUS,1500,Intro to Business,,4-Sep,20-Jan,HSNYJM RAN,....... TBD-TBD,LE,000,"Congdon, Sara",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,4748,BUS,1500,Intro to Business,,4-Sep,20-Jan,HSNYJM DUN,....... TBD-TBD,LE,000,"Skinner, Daniel",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,4809,BUS,1500,Intro to Business,,4-Sep,20-Jan,HSNYJM FRW,....... TBD-TBD,LE,000,"Yahner, Ashley",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,5023,BUS,1500,Intro to Business,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Schultze, Amy",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,4031,BUS,1510,Princ/Financial Accounting,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Hinz, Cindy",4,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4188,BUS,1510,Princ/Financial Accounting,,24-Aug,18-Dec,HULT 215,..T.R.. 01:30 PM-03:10 PM,LE,000,"Miller, Deborah",4,27,,27,,A,,,1
+Jamestown,Public & Professional Services,4189,BUS,1520,Princ/Managerial Accounting,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Hinz, Cindy",4,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4190,BUS,1520,Princ/Managerial Accounting,,24-Aug,18-Dec,HULT 203,..T.R.. 09:00 AM-10:40 AM,LE,000,"Miller, Deborah",4,20,,20,,A,,,1
+Jamestown,Public & Professional Services,4833,BUS,1610,Personal Finance,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Schultze, Amy",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,4916,BUS,1610,Personal Finance,,4-Sep,20-Jan,HSNYJM SHE,....... TBD-TBD,LE,000,"Swanson, Molly",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,4926,BUS,1610,Personal Finance,,4-Sep,14-Jun,HSNYJM SIL,....... TBD-TBD,LE,000,"Castiglia, Rachel",3,50,,50,,A,,,HS
+Jamestown,Public & Professional Services,5019,BUS,1610,Personal Finance,,4-Sep,14-Jun,HSNYJM FAL,....... TBD-TBD,LE,000,"Johnson, Michelle",3,50,,50,,A,,,HS
+Jamestown,Public & Professional Services,5248,BUS,1610,Personal Finance,,4-Sep,20-Jan,HSNYJM CLY,....... TBD-TBD,LE,000,"Perry, Lisa",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,5286,BUS,1610,Personal Finance,,4-Sep,20-Jan,HSNYJM SWC,....... TBD-TBD,LE,000,"Carlson, Barbara",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,4214,BUS,1650,Global Business,120,24-Aug,18-Dec,HULT 211,....R.. 09:30 AM-10:45 AM,ITV,004,"Daly, Dion",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,5414,BUS,1650,Global Business,120,24-Aug,18-Dec,ONLN ONLN,....R.. 09:30 AM-10:45 AM,LE,003,"Daly, Dion",3,1,,1,,A,,,1
+Jamestown,Public & Professional Services,4222,BUS,1700,Intro to Tourism & Hospitality,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Forney, Jennifer",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4797,BUS,1700,Intro to Tourism & Hospitality,,4-Sep,20-Jan,HSNYJM FRE,....... TBD-TBD,LE,000,"Andalora, Maria",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,4834,BUS,1700,Intro to Tourism & Hospitality,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"McIntyre, Sheila",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,4927,BUS,1700,Intro to Tourism & Hospitality,,4-Sep,14-Jun,HSNYJM SIL,....... TBD-TBD,LE,000,"Castiglia, Rachel",3,50,,50,,A,,,HS
+Jamestown,Public & Professional Services,5262,BUS,1700,Intro to Tourism & Hospitality,,4-Sep,14-Jun,HSNYJM FAL,....... TBD-TBD,LE,000,"Johnson, Michelle",3,50,,50,,A,,,HS
+Jamestown,Public & Professional Services,5387,BUS,1700,Intro to Tourism & Hospitality,,4-Sep,20-Jan,HSNYJM CLY,....... TBD-TBD,LE,000,"Perry, Lisa",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,4229,BUS,2420,Professional Development,123,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LR,002,"Rives, Krysta",5,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4231,BUS,2420,Professional Development,123,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,FW,002,"Rives, Krysta",,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4276,BUS,2530,Business Law I,133,24-Aug,18-Dec,HULT 211,.M.W... 09:30 AM-10:45 AM,ITV,000,"Daly, Dion",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4278,BUS,2530,Business Law I,133,24-Aug,18-Dec,ONLN ZOOM,.M.W... 09:30 AM-10:45 AM,LE,001,"Daly, Dion",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4233,BUS,2540,Business Law II,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Daly, Dion",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4279,BUS,2550,Marketing,,24-Aug,18-Dec,HULT 215,...W... 11:00 AM-12:15 PM,LE,004,"Forney, Jennifer",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4282,BUS,2550,Marketing,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Forney, Jennifer",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4283,BUS,2570,Princ of Management,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Congdon, Sara",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4284,BUS,2580,Mgmt / Organizational Behavior,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Forney, Jennifer",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4617,COH,1020,Direct Support Pro. Internship,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,IN,002,"O'Brian, Rachel",1,,,,,A,,,1
+Jamestown,Public & Professional Services,5205,COH,1400,Fundamentals Supportive Care,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Bessette, Shannon",3,,,,,A,,,1
+Jamestown,Public & Professional Services,5361,COH,1400,Fundamentals Supportive Care,,29-Sep,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"O'Brian, Rachel",3,15,,15,,A,,,6
+Jamestown,Public & Professional Services,5210,COH,2010,Direct Support Pro. Intern II,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,IN,002,"O'Brian, Rachel",2,,,,,A,,,1
+Jamestown,Public & Professional Services,3920,CRI,1290,Physical Fitness for CJ,,24-Aug,18-Dec,PHED 203,.M.W... 01:30 PM-02:45 PM,LL,000,"Barone, Brian",2,26,,26,,A,,,1
+Jamestown,Public & Professional Services,3922,CRI,1320,Intro Law Enforcement,963,24-Aug,18-Dec,HULT 211,.M.W... 11:00 AM-12:15 PM,ITV,000,"Barone, Brian",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4563,CRI,1370,Radar/LIDAR Operator,,5-Nov,18-Dec,CARN 169,..TWRF. 08:00 AM-04:30 PM,LL,000,"Rensel, Kyle",2,22,,22,,A,,,4
+Jamestown,Public & Professional Services,3929,CRI,1510,Intro to Criminal Justice,425,24-Aug,18-Dec,CARN 167,.M.W... 09:30 AM-10:45 AM,ITV,000,"Gerace, Marilyn",3,28,,28,,A,,,1
+Jamestown,Public & Professional Services,3930,CRI,1510,Intro to Criminal Justice,,24-Aug,18-Dec,CARN 168,..T.R.. 09:30 AM-10:45 AM,LE,000,"Barone, Brian",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4503,CRI,1510,Intro to Criminal Justice,425,24-Aug,18-Dec,ONLN ZOOM,.M.W... 09:30 AM-10:45 AM,LE,001,"Gerace, Marilyn",3,27,,27,,A,,,1
+Jamestown,Public & Professional Services,5164,CRI,1510,Intro to Criminal Justice,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Barone, Brian",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,3933,CRI,1520,Intro to Corrections,128,24-Aug,18-Dec,HULT 267,.M.W... 08:30 AM-09:20 AM,ITV,004,"Gerace, Joseph",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,5133,CRI,1720,CJ and the Mentally Ill,,29-Sep,4-Nov,CARN 168,U.....S 08:30 AM-04:30 PM,LE,000,"Barone, Brian",1,26,,26,,A,,,3
+Jamestown,Public & Professional Services,4560,CRI,2250,Law Enforcement Academy I,,24-Aug,18-Dec,CARN 169,.MTWRF. 08:00 AM-04:00 PM,LE,000,"Rensel, Kyle",10,22,,22,,A,,,1
+Jamestown,Public & Professional Services,3989,CRI,2330,Criminal Procedural Law,112,24-Aug,18-Dec,CARN 167,..T.R.. 09:30 AM-10:45 AM,ITV,000,"Gerace, Marilyn",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,5111,CRI,2330,Criminal Procedural Law,112,24-Aug,18-Dec,ONLN ZOOM,..T.R.. 09:30 AM-10:45 AM,LE,001,"Gerace, Marilyn",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,3938,CRI,2370,Criminal Investigation,471,24-Aug,18-Dec,CARN 167,..T.R.. 11:00 AM-12:15 PM,LE,000,"Gerace, Vincent",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,3940,CRI,2370,Criminal Investigation,471,24-Aug,18-Dec,ONLN ZOOM,..T.R.. 11:00 AM-12:15 PM,LE,001,"Gerace, Vincent",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4561,CRI,2380,Law/Law Enforcement Officer,,24-Aug,18-Dec,CARN 169,.MTWRF. 08:00 AM-04:00 PM,LE,000,"Rensel, Kyle",3,22,,22,,A,,,1
+Jamestown,Public & Professional Services,3944,CRI,2550,Ethics in Criminal Justice,958,24-Aug,18-Dec,CARN 167,..T.R.. 08:30 AM-09:20 AM,ITV,004,"Gerace, Marilyn",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,3945,CRI,2550,Ethics in Criminal Justice,958,24-Aug,18-Dec,ONLN ZOOM,..T.R.. 08:30 AM-09:20 AM,LE,003,"Gerace, Marilyn",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,5214,CRI,2550,Academy I,,24-Aug,18-Dec,PHED 203,.MTWRF. 08:00 AM-04:00 PM,LE,000,STAFF,3,20,,20,,A,,,1
+Jamestown,Public & Professional Services,5217,CRI,2550,Academy I,,24-Aug,18-Dec,CARN 169,.MTWRF. 08:30 AM-04:00 PM,LE,000,"Rensel, Kyle",3,,,,,A,,,1
+Jamestown,Public & Professional Services,3965,CRI,2570,Organized Crime in the US,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Barone, Brian",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4032,ECO,2610,Macroeconomic Principles,,24-Aug,18-Dec,HULT 215,.M.W... 01:30 PM-02:45 PM,LE,000,"Daly, Dion",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4035,ECO,2610,Macroeconomic Principles,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Bray, Sarah",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,5213,ECO,2620,Microeconomic Principles,442,24-Aug,18-Dec,ONLN ZOOM,.M.W... 09:30 AM-10:45 AM,LE,001,"Bray, Sarah",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4373,EDU,1250,Early Childhood Development,,29-Sep,4-Nov,ONLN ONLN,....... TBD-TBD,LE,002,"Funke, Renee",1,22,,22,,A,,,3
+Jamestown,Public & Professional Services,5307,EDU,1250,Early Childhood Development,,4-Sep,20-Jan,HSNYJM CASS,....... TBD-TBD,LE,000,"Bennink, Lindsey",1,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,5240,EDU,1290,Intro Early Childhood Ed/Care,,4-Sep,14-Jun,HSNYJM CASS,....... TBD-TBD,LE,000,"Bennink, Lindsey",3,50,,50,,A,,,HS
+Jamestown,Public & Professional Services,5153,EDU,1310,"Family, School, & Community Pa",585,24-Aug,18-Dec,HULT 267,....R.. 11:00 AM-12:15 PM,ITV,004,"Metzger, Heather",3,24,,24,,A,,,1
+Jamestown,Public & Professional Services,5155,EDU,1310,"Family, School, & Community Pa",585,24-Aug,18-Dec,ONLN ZOOM,....R.. 11:00 AM-12:15 PM,ITV,003,"Metzger, Heather",3,24,,24,,A,,,1
+Jamestown,Public & Professional Services,4335,EDU,1510,Foundations/Education-Tchg Pro,,24-Aug,18-Dec,HULT 267,..T.... 11:00 AM-12:15 PM,LE,004,"Metzger, Heather",3,,,,,A,,,1
+Jamestown,Public & Professional Services,4338,EDU,1510,Foundations/Education-Tchg Pro,140,24-Aug,18-Dec,ONLN ZOOM,..T.... 11:00 AM-12:15 PM,LE,003,"Funke, Renee",3,,,,,A,,,1
+Jamestown,Public & Professional Services,4386,EDU,1510,Foundations/Education-Tchg Pro,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Metzger, Heather",3,,,,,A,,,1
+Jamestown,Public & Professional Services,5079,EDU,1510,Foundations/Education-Tchg Pro,,4-Sep,14-Jun,HSNYJM CASS,....... TBD-TBD,LE,000,"Bennink, Lindsey",3,50,,50,,A,,,HS
+Jamestown,Public & Professional Services,5141,EDU,2220,Field Placement II,613,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LR,002,"Funke, Renee",3,,,,,A,,,1
+Jamestown,Public & Professional Services,5142,EDU,2220,Field II - Fieldwork,613,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,FW,002,"Funke, Renee",,,,,,A,,,1
+Jamestown,Public & Professional Services,4391,EDU,2340,Working with Adolescents,147,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Metzger, Heather",3,22,,22,,A,,,1
+Jamestown,Public & Professional Services,4392,EDU,2440,Children's Literature,165,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Funke, Renee",3,22,,22,,A,,,1
+Jamestown,Public & Professional Services,4393,EDU,2450,Exceptional Children,148,24-Aug,18-Dec,HULT 267,.M..... 11:00 AM-12:15 PM,ITV,004,"Metzger, Heather",3,22,,22,,A,,,1
+Jamestown,Public & Professional Services,4396,EDU,2450,Exceptional Children,148,24-Aug,18-Dec,ONLN ZOOM,.M..... 11:00 AM-12:15 PM,ITV,003,"Metzger, Heather",3,22,,22,,A,,,1
+Jamestown,Public & Professional Services,4397,EDU,2460,Field Exp/Exceptional Child,149,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LR,002,"Funke, Renee",1,,,,,A,,,1
+Jamestown,Public & Professional Services,4398,EDU,2460,Field Exp/Exceptional Child,149,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,FW,002,"Funke, Renee",,,,,,A,,,1
+Jamestown,Public & Professional Services,4399,EDU,2500,Literacy in the Classroom,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Funke, Renee",3,22,,22,,A,,,1
+Jamestown,Public & Professional Services,4036,ENT,1440,Small Business Management,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Bray, Sarah",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4011,HIT,1410,Medical Terminology,117,24-Aug,18-Dec,HULT 208,..T.R.. 11:00 AM-12:15 PM,ITV,000,"Rives, Krysta",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4014,HIT,1410,Medical Terminology,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Honeck, Angela",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4635,HIT,1410,Medical Terminology,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Johnston, Jeanne",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,5319,HIT,1410,Medical Terminology,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Rives, Krysta",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4018,HIT,1420,Health Data Procedures,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Rives, Krysta",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,5320,HIT,1420,Health Data Procedures,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Zandi, Melanie",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4019,HIT,1460,Electronic Health Record Mgm,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Rives, Krysta",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4020,HIT,2430,Healthcare Doc & Med Transcrip,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Rives, Krysta",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,4021,HIT,2440,Medical Coding I (CPT),,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Howard, Linda",4,26,,26,,A,,,1
+Jamestown,Public & Professional Services,3973,HUS,1210,Intro to Human Services,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Iannello, Catherine",3,25,,25,,A,,,1
+Jamestown,Public & Professional Services,3974,HUS,1210,Intro to Human Services,601,24-Aug,18-Dec,HULT 204,..T.R.. 09:30 AM-10:45 AM,ITV,000,"Lachappelle, Francis",3,25,,25,,A,,,1
+Jamestown,Public & Professional Services,5206,HUS,1210,Intro to Human Services,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Howe, Jennifer",3,15,,15,,A,,,1
+Jamestown,Public & Professional Services,5362,HUS,1210,Intro to Human Services,,29-Sep,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Gerace, Marilyn",3,15,,15,,A,,,6
+Jamestown,Public & Professional Services,3976,HUS,1280,Intro to Family Systems,167,24-Aug,18-Dec,HULT 208,.M.W... 09:30 AM-10:45 AM,LE,000,"Luka-Conley, Leanna",3,20,,20,,A,,,1
+Jamestown,Public & Professional Services,3978,HUS,1280,Intro to Family Systems,167,24-Aug,18-Dec,ONLN ZOOM,.M.W... 09:30 AM-10:45 AM,LE,001,"Luka-Conley, Leanna",3,18,,18,,A,,,1
+Jamestown,Public & Professional Services,3979,HUS,1310,Studies/Alcohol/Chem Depend,111,24-Aug,18-Dec,HULT 211,..T.R.. 01:30 PM-02:45 PM,ITV,000,"Lachappelle, Francis",3,15,,15,,A,,,1
+Jamestown,Public & Professional Services,5207,HUS,1350,Crisis Intervention,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Howe, Jennifer",1,,,,,A,,,1
+Jamestown,Public & Professional Services,3983,HUS,1410,Generalist Practice Skills,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"DeJoseph, Linda",3,25,,25,,A,,,1
+Jamestown,Public & Professional Services,4405,HUS,2210,Field Placement I-Social Work,152,24-Aug,18-Dec,HULT 204,..T.... 03:00 PM-04:15 PM,LR,004,"Lachappelle, Francis",5,15,,15,,A,,,1
+Jamestown,Public & Professional Services,4406,HUS,2210,Field Placement I-Social Work,603,24-Aug,18-Dec,HULT TBD,....... TBD-TBD,FW,000,"Lachappelle, Francis",,15,,15,,A,,,1
+Jamestown,Public & Professional Services,4407,HUS,2215,Field Placement: Addictions I,152,24-Aug,18-Dec,HULT 204,..T.... 03:00 PM-04:15 PM,LR,004,"Lachappelle, Francis",5,10,,10,,A,,,1
+Jamestown,Public & Professional Services,4408,HUS,2215,Field Placement: Addictions I,603,24-Aug,18-Dec,TBD TBD,....... TBD-TBD,FW,000,"Lachappelle, Francis",,10,,10,,A,,,1
+Jamestown,Public & Professional Services,4616,HUS,2230,Interviewing and Counseling,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Lachappelle, Francis",3,26,,26,,A,,,1
+Jamestown,Public & Professional Services,3972,HUS,2340,Working with Adolescents,147,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Metzger, Heather",3,22,,22,,A,,,1
+Jamestown,Public & Professional Services,3987,LDR,1300,Leadership Engagement,,29-Sep,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Funke, Renee",3,22,,22,,A,,,6
+Jamestown,Public & Professional Services,4652,LDR,1300,Leadership Engagement,,4-Sep,20-Jan,HSNYJM RAN,....... TBD-TBD,ITV,000,"Congdon, Sara",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,5025,LDR,1300,Leadership Engagement,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Melquist, Todd",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,5026,LDR,1300,Leadership Engagement,,4-Sep,14-Jun,HSNYJM JHS,....... TBD-TBD,LE,000,"Melquist, Todd",3,50,,50,,A,,,HS
+Jamestown,Public & Professional Services,4429,PHE,1310,Healthy Weight Management,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Urho-Young, Inkeri",3,20,,20,,A,,,1
+Jamestown,Public & Professional Services,5143,PHE,1320,Strength & Conditioning Founda,,24-Aug,18-Dec,PHED 158,..T.R.. 09:30 AM-10:45 AM,LE,000,"Jambliter, Charles",3,20,,20,,A,,,1
+Jamestown,Public & Professional Services,5086,PHE,1502,Athletic Part-Volleyball-FR,,24-Aug,18-Dec,PHED TBD,....... TBD-TBD,LL,000,"Hordych, Jacob",1,7,,7,,A,,,1
+Jamestown,Public & Professional Services,5084,PHE,1503,Athletic Part-Soccer-FR,,24-Aug,18-Dec,PHED TBD,....... TBD-TBD,LL,000,"Hordych, Jacob",1,20,,20,,A,,,1
+Jamestown,Public & Professional Services,5089,PHE,1509,Athletic Part-Cross Country-FR,,24-Aug,18-Dec,PHED TBD,....... TBD-TBD,LL,000,"Hordych, Jacob",1,1,,1,,A,,,1
+Jamestown,Public & Professional Services,4300,PHE,1540,Core Concepts,,29-Sep,4-Nov,PHED 203,..T.R.. 01:30 PM-02:45 PM,LL,000,"Sardo, Tina",1,18,,18,,A,,,3
+Jamestown,Public & Professional Services,4430,PHE,1590,Principles/Fitness/Wellness,,24-Aug,18-Dec,PHED 211,.M..... 11:00 AM-12:15 PM,LE,004,"Hordych, Jacob",3,20,,20,,A,,,1
+Jamestown,Public & Professional Services,4301,PHE,1610,Intro to Aerobic Exercise,,5-Nov,18-Dec,PHED 203,..T.R.. 01:30 PM-02:45 PM,LL,000,"Sardo, Tina",1,18,,18,,A,,,4
+Jamestown,Public & Professional Services,4431,PHE,1620,Fitness Concepts/Applications,,24-Aug,18-Dec,PHED 211,.M..... 09:30 AM-10:45 AM,LE,004,"Hordych, Jacob",3,20,,20,,A,,,1
+Jamestown,Public & Professional Services,4786,PHE,1620,Fitness Concepts/Applications,,4-Sep,14-Jun,HSNYJM FOR,....... TBD-TBD,LE,000,"Greenough, Scot",3,50,,50,,A,,,HS
+Jamestown,Public & Professional Services,5246,PHE,1620,Fitness Concepts/Applications,,4-Sep,14-Jun,HSNYJM CASS,....... TBD-TBD,LE,000,"Hoffman, Jodi",3,50,,50,,A,,,HS
+Jamestown,Public & Professional Services,4302,PHE,1790,Cardio Kickboxing,,24-Aug,28-Sep,PHED TBD,..T.R.. 01:30 PM-02:45 PM,LL,000,"Sardo, Tina",1,18,,18,,A,,,2
+Jamestown,Public & Professional Services,4562,PHE,2460,Phys Ed for Law Enforcement,,24-Aug,18-Dec,CARN TBD,.MTWRF. 01:00 PM-04:00 PM,LL,000,"Rensel, Kyle",2,22,,22,,A,,,1
+Jamestown,Public & Professional Services,5218,PHE,2460,Phys Ed for Law Enforcement,,24-Aug,18-Dec,PHED 203,.MTWRF. 08:30 AM-04:00 PM,LL,000,"Rensel, Kyle",2,19,,19,,A,,,1
+Jamestown,Public & Professional Services,5087,PHE,2502,Athletic Part-Volleyball-SO,,24-Aug,18-Dec,PHED TBD,....... TBD-TBD,LL,000,"Hordych, Jacob",1,1,,1,,A,,,1
+Jamestown,Public & Professional Services,5085,PHE,2503,Athletic Part-Soccer-SO,,24-Aug,18-Dec,PHED TBD,....... TBD-TBD,LL,000,"Hordych, Jacob",1,16,,16,,A,,,1
+Jamestown,Public & Professional Services,4298,PHE,2880,Sport Nutrition,,24-Aug,18-Dec,PHED 158,..T.R.. 11:00 AM-12:15 PM,LE,000,"Sardo, Tina",3,20,,20,,A,,,1
+Jamestown,Public & Professional Services,4432,PHE,2880,Sport Nutrition,,5-Nov,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Brunelle, Aimee",3,20,,20,,A,,,4
+Jamestown,Public & Professional Services,4307,SPT,1300,Introduction-Sport Management,,24-Aug,18-Dec,PHED 211,..T.R.. 09:30 AM-10:45 AM,LE,000,"Hordych, Jacob",3,20,,20,,A,,,1
+Jamestown,Public & Professional Services,4433,SPT,1300,Introduction-Sport Management,,29-Sep,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Hordych, Jacob",3,23,,23,,A,,,6
+Jamestown,Public & Professional Services,5020,SPT,1300,Introduction-Sport Management,,4-Sep,20-Jan,HSNYJM FAL,....... TBD-TBD,LE,000,"Wilcox, Drew",3,50,,50,,A,,,HS1
+Jamestown,Public & Professional Services,4308,SPT,1320,Sport in Society,230,24-Aug,18-Dec,SHEL 121,..T.R.. 11:00 AM-12:15 PM,LE,000,"Hordych, Jacob",3,20,,20,,A,,,1
+Jamestown,Public & Professional Services,4434,SPT,1870,Sport Psychology,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Brunelle, Aimee",3,20,,20,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3901,BIO,1510,Health Science,,24-Aug,18-Dec,SCCE 120,..T.R.. 09:30 AM-10:45 AM,LE,000,"Fedyshin, Staci",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3902,BIO,1510,Health Science,,24-Aug,18-Dec,SCCE 124,..T.R.. 01:30 PM-02:45 PM,LE,000,"Whitmore, Kathleen",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3903,BIO,1510,Health Science,,24-Aug,18-Dec,SCCE 125,.M.W... 11:00 AM-12:15 PM,LE,000,"Whitmore, Kathleen",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3906,BIO,1510,Health Science,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Dundore-Shrout, Kari",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4177,BIO,1510,Health Science,,29-Sep,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Honeck, Angela",3,24,,24,,A,,,6
+Jamestown,Science/Tech/Engineer/Math,4745,BIO,1510,Health Science,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Delgado, Kimberly",3,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,5009,BIO,1510,Health Science,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Honeck, Angela",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,5109,BIO,1510,Health Science,400,24-Aug,18-Dec,SCCE 124,..T.R.. 03:00 PM-04:15 PM,ITV,000,"Whitmore, Kathleen",3,18,,18,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3876,BIO,1551,Intro Enviro Science Lecture,,24-Aug,18-Dec,SCCE 124,..T.R.. 11:00 AM-12:15 PM,LE,000,"Parmenter, Kirk",3,20,,20,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3908,BIO,1552,Intr Environmental Science-LAB,,24-Aug,18-Dec,SCCE 129,.M..... 01:30 PM-04:15 PM,LA,000,"Emke, Sandra",1,20,,20,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3914,BIO,2510,Anatomy & Physiology I,,24-Aug,18-Dec,SCCE 120,..T.R.. 01:30 PM-02:45 PM,LR,000,"Dundore-Shrout, Kari",4,30,,30,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3915,BIO,2510,Anatomy & Physiology I,,24-Aug,18-Dec,SCCE 120,..T.R.. 11:00 AM-12:15 PM,LR,000,"Dundore-Shrout, Kari",4,30,,30,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3916,BIO,2510,Anatomy & Physiology I - Lab,,24-Aug,18-Dec,SCCE 126,..T.... 06:00 PM-08:45 PM,LA,000,"Slojkowski, Christina",,18,,18,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3917,BIO,2510,Anatomy & Physiology I - Lab,,24-Aug,18-Dec,SCCE 126,...W... 01:30 PM-04:15 PM,LA,000,"Lehning, Ellen",,18,,18,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3918,BIO,2510,Anatomy & Physiology I - Lab,,24-Aug,18-Dec,SCCE 126,.....F. 09:30 AM-12:15 PM,LA,000,"Parmenter, Kirk",,18,,18,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3919,BIO,2510,Anatomy & Physiology I,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LR,002,"Lehning, Ellen",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3923,BIO,2510,Anatomy & Physiology I - Lab,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LA,002,"Fedyshin, Staci",,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4182,BIO,2510,Anatomy & Physiology I,,24-Aug,18-Dec,SCCE 120,.M.W... 04:30 PM-05:45 PM,LR,000,"Johnson, Timothy",4,30,,30,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4184,BIO,2510,Anatomy & Physiology I - Lab,,24-Aug,18-Dec,SCCE 126,..T.... 01:30 PM-04:15 PM,LA,000,"Fedyshin, Staci",,18,,18,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4186,BIO,2510,Anatomy & Physiology I - Lab,,24-Aug,18-Dec,SCCE 126,....R.. 01:30 PM-04:15 PM,LA,000,"Lehning, Ellen",,18,,18,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,5229,BIO,2510,Anatomy & Physiology I,,24-Aug,18-Dec,SCCE 120,.M.W... 11:00 AM-12:15 PM,LR,000,"Lehning, Ellen",4,30,,30,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,5230,BIO,2510,Anatomy & Physio I - LAB,,24-Aug,18-Dec,SCCE 126,..T.... 09:30 AM-12:15 PM,LA,000,"Lehning, Ellen",,18,,18,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3910,BIO,2520,Anatomy & Physiology II,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LR,002,"Lehning, Ellen",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3911,BIO,2520,Anatomy & Physiology II - Lab,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LA,002,"Fedyshin, Staci",,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,5168,BIO,2520,Anatomy & Physiology II,,24-Aug,18-Dec,SCCE 120,.M.W... 09:30 AM-10:45 AM,LR,000,"Harrington, Sharon",4,18,,18,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,5169,BIO,2520,Anatomy & Physiology II Lab,,24-Aug,18-Dec,SCCE 132,...W... 01:30 PM-04:15 PM,LA,000,"Harrington, Sharon",,18,,18,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3912,BIO,2531,Microbiology,,24-Aug,18-Dec,SCCE 120,..T.R.. 08:00 AM-09:15 AM,LE,000,"Pitoniak, Andrew",3,36,,36,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3913,BIO,2532,Microbiology - LAB,,24-Aug,18-Dec,SCCE 105,...W... 01:30 PM-04:15 PM,LA,000,"Pitoniak, Andrew",1,18,,18,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4533,BIO,2532,Microbiology - LAB,,24-Aug,18-Dec,SCCE 105,.....F. 09:30 AM-12:15 PM,LA,000,"Pitoniak, Andrew",1,18,,18,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3936,BIO,2760,Nutrition,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Dunn, Rose",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,5185,BIO,2760,Nutrition,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Dunn, Rose",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4480,CERP,1250,MCT 1250 Review Session,,24-Aug,18-Dec,JMTI 132,.M.W... 11:30 AM-12:20 PM,TU,000,"Piazza, Timothy",,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3954,CHE,1500,Intro to Chemistry,,24-Aug,18-Dec,SCCE 125,..T.R.. 11:00 AM-12:15 PM,LE,000,"Emley, Lillian",3,20,,20,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3956,CHE,1500,Intro to Chemistry,,24-Aug,18-Dec,SCCE 125,.M.W... 03:00 PM-04:15 PM,LE,000,"Allen, Rebecca",3,20,,20,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4749,CHE,1500,Intro to Chemistry,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Lotter, Kim",3,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4835,CHE,1500,Intro to Chemistry,,4-Sep,14-Jun,HSNYJM JHS,....... TBD-TBD,LE,000,"Warner, Thomas",3,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,5022,CHE,1500,Intro to Chemistry,,4-Sep,20-Jan,HSNYJM SWC,....... TBD-TBD,LE,000,"Miley, Katie",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,5258,CHE,1500,Intro to Chemistry,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Lotter, Kim",3,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,3957,CHE,1530,Allied Health Chemistry,,24-Aug,18-Dec,SCCE 109,..T.R.. 11:00 AM-12:15 PM,LE,000,"Larson, Kimberly",3,20,,20,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,5231,CHE,1530,Allied Health Chemistry,,24-Aug,18-Dec,SCCE 109,.M.W... 09:30 AM-10:45 AM,LE,000,"Dundore-Shrout, Kari",3,20,,20,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4121,CSC,1520,Intro to Cybersecurity,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Davis, Jeffrey",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4122,CSC,1530,Introduction to HTML & CSS,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Lasky, David",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4123,CSC,1560,Computer App Software I,,24-Aug,18-Dec,SHEL 122,.M.W... 10:50 AM-12:30 PM,LE,000,"Blair, Jonathan",4,20,,20,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4125,CSC,1560,Computer App Software I,319,24-Aug,18-Dec,ONLN ZOOM,..T.R.. 04:20 PM-06:00 PM,LE,001,"Lasky, David",4,25,,25,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4126,CSC,1560,Computer App Software I,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"McIntyre, Sheila",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4127,CSC,1570,CS1: Programming Concepts/Appl,,24-Aug,18-Dec,SHEL 122,..T.R.. 01:30 PM-02:45 PM,LE,000,"Scapelitte, Marc",3,16,,16,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4128,CSC,1570,CS1: Programming Concepts/Appl,,24-Aug,18-Dec,SHEL 122,.M.W... 01:30 PM-02:45 PM,LE,000,"Scapelitte, Marc",3,20,,20,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4130,CSC,1570,CS1: Programming Concepts/Appl,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Lee, Sung",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,5018,CSC,1570,CS1: Programming Concepts/Appl,,4-Sep,20-Jan,HSNYJM FAL,....... TBD-TBD,LE,000,"Caruso, Brandon",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,5225,CSC,1570,CS1: Programming Concepts/Appl,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Howard, Bernice",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,5308,CSC,1570,CS1: Programming Concepts/Appl,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Howard, Bernice",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4131,CSC,1580,Computer Hardware&Sys Software,,24-Aug,18-Dec,SHEL 124,..T.R.. 03:00 PM-04:15 PM,LE,000,"Blair, Jonathan",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4132,CSC,1580,Computer Hardware&Sys Software,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Sims, William",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4133,CSC,1590,CS2: Computer Programming,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Blair, Jonathan",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4135,CSC,1600,CS3: Data Structures,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Lee, Sung",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4139,CSC,2470,Network Administration,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Lee, Sung",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4136,CSC,2510,Introduction to Networks,,24-Aug,18-Dec,SHEL 122,.M.W... 09:30 AM-10:45 AM,LE,000,"Blair, Jonathan",3,20,,20,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4138,CSC,2510,Introduction to Networks,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Sims, William",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,5293,CSC,2510,Introduction to Networks,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Sims, William",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,5333,CSC,2510,Introduction to Networks,,24-Aug,18-Dec,OFFC TBD,....... TBD-TBD,LE,002,"Sims, William",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4140,CSC,2660,Database Management,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Davis, Jeffrey",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4141,CSC,2670,Computer Organization,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Blair, Jonathan",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4117,ELC,1200,Fundamentals of Electricity,,24-Aug,18-Dec,JMTI 125,..T.R.. 01:30 PM-03:25 PM,LL,000,"Piazza, Timothy",3,16,,16,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4142,ENR,1560,Intro Engineering & ENR Design,,24-Aug,18-Dec,JMTI 132,..T.R.. 01:00 PM-02:39 PM,LE,000,"Spess, Joseph",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4143,ENR,2510,Thermodynamics,322,24-Aug,18-Dec,SHEL 133,.M.W.F. 09:30 AM-10:20 AM,LR,000,"Nowling, Sean",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4145,ENR,2510,Thermodynamics - Lab,323,24-Aug,18-Dec,SHEL 133,.M.W.F. 10:30 AM-11:20 AM,LA,000,"Nowling, Sean",,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4146,ENR,2550,Mechanics-Statics,326,24-Aug,18-Dec,JMTI 125,..T.R.. 08:00 AM-09:15 AM,LE,000,"Piazza, Timothy",3,16,,16,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4147,ENR,2740,Analysis/Linear Elec Circuits,,24-Aug,18-Dec,JMTI 113,..T.R.. 09:30 AM-10:45 AM,LE,000,"Piazza, Timothy",3,16,,16,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4409,GLG,1550,Earth Science,,24-Aug,18-Dec,SCCE 125,..T.R.. 01:30 PM-02:45 PM,LE,000,"Crabtree, Darran",3,25,,25,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4517,MAE,2520,Math - Elementary Teachers II,330,24-Aug,18-Dec,HULT 267,..T.R.. 09:30 AM-10:45 AM,LE,000,"Metzger, Heather",3,26,,26,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4518,MAE,2520,Math - Elementary Teachers II,330,24-Aug,18-Dec,ONLN ZOOM,..T.R.. 09:30 AM-10:45 AM,LE,001,"Metzger, Heather",3,26,,26,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3831,MAT,0530,Essential Mathematics,,24-Aug,18-Dec,SHEL 119,.MTWR.. 04:30 PM-05:35 PM,LE,000,"Struble, Sandra",5,22,,22,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3865,MAT,0530,Essential Mathematics,302,24-Aug,18-Dec,ONLN ZOOM,.M.W... 08:30 AM-10:35 AM,LE,001,"Reisch, Christopher",5,22,,22,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4649,MAT,0530,Essential Mathematics,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Reisch, Christopher",5,,,,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,5309,MAT,0530,Essential Mathematics,,24-Aug,18-Dec,SHEL 119,.M.W... 08:30 AM-10:35 AM,LE,000,"Scapelitte, Marc",5,20,,20,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3832,MAT,0550,Algebra Fundamentals,,24-Aug,18-Dec,SHEL 223,.M.W.F. 09:30 AM-10:40 AM,LE,000,"Groh, Daniel",4,25,,25,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3834,MAT,0550,Algebra Fundamentals,305,24-Aug,18-Dec,SHEL 113,.MT.R.. 04:30 PM-05:40 PM,LE,000,"Zwyghuizen, Stephanie",4,20,,20,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3836,MAT,0550,Algebra Fundamentals,,24-Aug,18-Dec,SHEL 132,..T.R.. 01:30 PM-03:10 PM,LE,000,"Giuffre, Mary Jo",4,25,,25,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3867,MAT,0550,Algebra Fundamentals,,24-Aug,18-Dec,SHEL 223,.M.W... 01:30 PM-03:10 PM,LE,000,"Groh, Daniel",4,25,,25,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3868,MAT,0550,Algebra Fundamentals,305,24-Aug,18-Dec,ONLN ZOOM,.MT.R.. 04:30 PM-05:40 PM,LE,001,"Zwyghuizen, Stephanie",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3988,MAT,0550,Algebra Fundamentals,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Zwyghuizen, Stephanie",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,5226,MAT,0550,Algebra Fundamentals,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Zeiders-Weber, Erin",4,18,,18,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3838,MAT,1500,Problem Solving w/Mathematics,,24-Aug,18-Dec,SHEL 132,.M.W... 09:30 AM-10:45 AM,LE,000,"Giuffre, Mary Jo",3,28,,28,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3842,MAT,1500,Problem Solving w/Mathematics,,24-Aug,18-Dec,SHEL 119,..T.R.. 01:30 PM-02:45 PM,LE,000,"Struble, Sandra",3,28,,28,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3843,MAT,1500,Problem Solving w/Mathematics,,24-Aug,18-Dec,SHEL 132,..T.R.. 09:30 AM-10:45 AM,LE,000,"Giuffre, Mary Jo",3,28,,28,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3844,MAT,1500,Problem Solving w/Mathematics,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Reisch, Christopher",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3871,MAT,1500,Problem Solving w/Mathematics,308,24-Aug,18-Dec,ONLN ZOOM,..T.R.. 11:00 AM-12:15 PM,LE,001,"Fofanah, Mary",3,28,,28,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4720,MAT,1500,Problem Solving w/Mathematics,,4-Sep,20-Jan,HSNYJM CHA,....... TBD-TBD,LE,000,"Cowan, Timothy",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4732,MAT,1500,Problem Solving w/Mathematics,,4-Sep,20-Jan,HSNYJM CLY,....... TBD-TBD,LE,000,"Kerr, Stacey",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4761,MAT,1500,Problem Solving w/Mathematics,,4-Sep,20-Jan,HSNYJM DUN,....... TBD-TBD,LE,000,"Vecchio, Vincent",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4870,MAT,1500,Problem Solving w/Mathematics,,4-Sep,20-Jan,HSNYJM MAP,....... TBD-TBD,LE,000,"Price, Karalea",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4880,MAT,1500,Problem Solving w/Mathematics,,4-Sep,20-Jan,HSNYJM PAN,....... TBD-TBD,LE,000,"Funk, Connie",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4887,MAT,1500,Problem Solving w/Mathematics,,4-Sep,20-Jan,HSNYJM PIN,....... TBD-TBD,LE,000,"Long, Danielle",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4897,MAT,1500,Problem Solving w/Mathematics,,4-Sep,20-Jan,HSNYJM RAN,....... TBD-TBD,LE,000,"Sexton, Mitchell",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,5235,MAT,1500,Problem Solving w/Mathematics,,4-Sep,20-Jan,HSNYJM BRC,....... TBD-TBD,LE,000,"Maas, Phillip",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,5244,MAT,1500,Problem Solving w/Mathematics,,4-Sep,20-Jan,HSNYJM CASS,....... TBD-TBD,LE,000,"Helwig, Stephen",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,5264,MAT,1500,Problem Solving w/Mathematics,,4-Sep,20-Jan,HSNYJM FOR,....... TBD-TBD,LE,000,"Kerstetter, Brenda",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,5342,MAT,1500,Problem Solving w/Mathematics,,4-Sep,20-Jan,HSNYJM SHE,....... TBD-TBD,LE,000,"Morano, Dakota",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,3847,MAT,1540,Elementary Statistics,,24-Aug,18-Dec,SHEL 119,.M.W... 01:30 PM-02:45 PM,LE,000,"Hnatyszyn, Ashley",3,28,,28,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3850,MAT,1540,Elementary Statistics,,24-Aug,18-Dec,SHEL 138,..T.R.. 11:00 AM-12:15 PM,LE,000,"Hnatyszyn, Ashley",3,28,,28,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3851,MAT,1540,Elementary Statistics,,24-Aug,18-Dec,SHEL 124,..T.R.. 01:30 PM-02:45 PM,LE,000,"Raynor, Angela",3,28,,28,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3853,MAT,1540,Elementary Statistics,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Russell, Barbara",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3874,MAT,1540,Elementary Statistics,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Raynor, Angela",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4704,MAT,1540,Elementary Statistics,,TBD,TBD,TBD TBD,....... TBD-TBD,LE,000,STAFF,3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4780,MAT,1540,Elementary Statistics,,4-Sep,14-Jun,HSNYJM FAL,....... TBD-TBD,LE,000,"Lebaron, Michael",3,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4937,MAT,1540,Elementary Statistics,,4-Sep,20-Jan,HSNYJM SWC,....... TBD-TBD,LE,000,"Putney, Taylor",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,5021,MAT,1540,Elementary Statistics,,4-Sep,14-Jun,HSNYJM FRE,....... TBD-TBD,LE,000,"Joint, Mimi",3,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,5227,MAT,1540,Elementary Statistics,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Russell, Barbara",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,5267,MAT,1540,Elementary Statistics,,4-Sep,20-Jan,HSNYJM FRW,....... TBD-TBD,LE,000,"Sposato, James",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,5413,MAT,1540,Elementary Statistics,,4-Sep,20-Jan,HSNYJM PAN,....... TBD-TBD,IS,004,"Funk, Connie",3,1,,1,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,3854,MAT,1590,College Algebra / Trigonometry,,24-Aug,18-Dec,SHEL 121,.M.W... 04:20 PM-06:00 PM,LE,000,"Barton, Tiffany",4,32,,32,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3855,MAT,1590,College Algebra / Trigonometry,,24-Aug,18-Dec,SHEL 119,..T.R.. 10:50 AM-12:30 PM,LE,000,"Struble, Sandra",4,32,,32,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3856,MAT,1590,College Algebra / Trigonometry,,24-Aug,18-Dec,ONLN ZOOM,..T.R.. 01:30 PM-03:10 PM,LE,001,"Reisch, Christopher",4,32,,32,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3859,MAT,1590,College Algebra / Trigonometry,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Witherow, Kimberly",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4655,MAT,1590,College Algebra / Trigonometry,,4-Sep,14-Jun,HSNYJM PTECH,....... TBD-TBD,LE,000,"Edwards, Matthew",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4721,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYJM CHA,....... TBD-TBD,LE,000,"Cowan, Timothy",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4722,MAT,1590,College Algebra / Trigonometry,,4-Sep,14-Jun,HSNYJM CHA,....... TBD-TBD,LE,000,"Cowan, Timothy",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4733,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYJM CLY,....... TBD-TBD,LE,000,"Kerr, Stacey",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4847,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Holt, Lisa",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4852,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Salvaggio, Joseph",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4881,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYJM PAN,....... TBD-TBD,LE,000,"Brink, Rodney",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4888,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYJM PIN,....... TBD-TBD,LE,000,"Cuthbert, Jacob",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4938,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYJM SWC,....... TBD-TBD,LE,000,"Barton, Tiffany",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4960,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYJM WES,....... TBD-TBD,LE,000,"Murtaugh, Kathleen",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4961,MAT,1590,College Algebra / Trigonometry,,4-Sep,14-Jun,HSNYJM WES,....... TBD-TBD,LE,000,"Murtaugh, Kathleen",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,5353,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Ruch, Raquel",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,3860,MAT,1600,Precalculus,,24-Aug,18-Dec,SHEL 132,..T.R.. 10:50 AM-12:30 PM,LE,000,"Raynor, Angela",4,32,,32,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3861,MAT,1600,Precalculus,,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Zwyghuizen, Stephanie",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4762,MAT,1600,Precalculus,,4-Sep,14-Jun,HSNYJM DUN,....... TBD-TBD,LE,000,"Pietro, Aaron",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4785,MAT,1600,Precalculus,,4-Sep,20-Jan,HSNYJM FOR,....... TBD-TBD,LE,000,"Dempsey, Thomas",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4817,MAT,1600,Precalculus,,4-Sep,14-Jun,HSNYJM FRW,....... TBD-TBD,LE,000,"Mole, Michelle",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4846,MAT,1600,Precalculus,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Maggio, Christopher",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4922,MAT,1600,Precalculus,,4-Sep,14-Jun,HSNYJM SHE,....... TBD-TBD,LE,000,"Morano, Dakota",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4930,MAT,1600,Precalculus,,4-Sep,14-Jun,HSNYJM SIL,....... TBD-TBD,LE,000,"Randolph, Kristy",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4939,MAT,1600,Precalculus,,4-Sep,20-Jan,HSNYJM SWC,....... TBD-TBD,LE,000,"Armstrong, Ashley",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,5011,MAT,1600,Precalculus,,4-Sep,14-Jun,HSNYJM WES,....... TBD-TBD,LE,000,"Murtaugh, Kathleen",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,3862,MAT,1710,Calculus/Analytic Geometry I,,24-Aug,18-Dec,SHEL 223,..T.R.. 10:50 AM-12:30 PM,LE,000,"Zeiders-Weber, Erin",4,32,,32,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4723,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,14-Jun,HSNYJM CHA,....... TBD-TBD,LE,000,"Persons, Bill",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4734,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,14-Jun,HSNYJM CLY,....... TBD-TBD,LE,000,"Kerr, Stacey",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4763,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,20-Jan,HSNYJM DUN,....... TBD-TBD,ITV,000,"Vecchio, Vincent",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4781,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,20-Jan,HSNYJM FAL,....... TBD-TBD,LE,000,"Anderson, Jonathan",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4818,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,20-Jan,HSNYJM FRW,....... TBD-TBD,LE,000,"Sposato, James",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4848,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,14-Jun,HSNYJM JHS,....... TBD-TBD,LE,000,"Holt, Lisa",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4849,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,14-Jun,HSNYJM JHS,....... TBD-TBD,LE,000,"Holt, Lisa",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4871,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,20-Jan,HSNYJM MAP,....... TBD-TBD,LE,000,"Burr, Michael",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4898,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,14-Jun,HSNYJM RAN,....... TBD-TBD,LE,000,"Olson, Geoffrey",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4940,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,14-Jun,HSNYJM SWC,....... TBD-TBD,LE,000,"Frisbee, Adam",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4962,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,20-Jan,HSNYJM WES,....... TBD-TBD,LE,000,"Riedesel, Connie",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,5277,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,14-Jun,HSNYJM SHE,....... TBD-TBD,LE,000,"Morano, Dakota",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,5297,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,20-Jan,HSNYJM PIN,....... TBD-TBD,ITV,001,"Vecchio, Vincent",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,5370,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,20-Jan,HSNYJM CHA,....... TBD-TBD,IS,003,"Riedesel, Connie",4,1,,1,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,3863,MAT,2650,Calculus&Analytic Geometry III,,24-Aug,18-Dec,SHEL 113,..T.R.. 11:00 AM-12:15 PM,LE,000,"Zwyghuizen, Stephanie",4,32,,32,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3863,MAT,2650,Calculus&Analytic Geometry III,,24-Aug,18-Dec,SHEL 113,.....F. 12:30 PM-01:30 PM,LE,000,"Zwyghuizen, Stephanie",4,32,,32,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,3864,MAT,2670,Linear Algebra,,24-Aug,18-Dec,SHEL 223,..T.R.. 01:30 PM-02:45 PM,LE,000,"Zeiders-Weber, Erin",3,32,,32,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4193,MCT,1240,Engineering Drawing w/AutoCAD,,24-Aug,18-Dec,JMTI 132,..T.R.. 08:00 AM-09:45 AM,LE,000,"Spess, Joseph",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4656,MCT,1240,Engineering Drawing w/AutoCAD,,4-Sep,14-Jun,HSNYJM PTECH,....... TBD-TBD,LE,000,"Anson, Nicholas",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4854,MCT,1240,Engineering Drawing w/AutoCAD,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LE,000,"Damcott, Daryl",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4923,MCT,1240,Engineering Drawing w/AutoCAD,,4-Sep,14-Jun,HSNYJM SHE,....... TBD-TBD,LE,000,"Tanski, Alan",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,5263,MCT,1240,Engineering Drawing w/AutoCAD,,4-Sep,20-Jan,HSNYJM FAL,....... TBD-TBD,LE,000,"Garner, Edward",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4232,MCT,1250,Statics for Technology,326,24-Aug,18-Dec,JMTI 125,..T.R.. 08:00 AM-09:15 AM,LE,000,"Piazza, Timothy",3,16,,16,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4195,MCT,1270,Machine Theory and Operations,,24-Aug,18-Dec,JMTI 113,...W... 01:30 PM-05:15 PM,LL,000,"Spess, Joseph",3,16,,16,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4657,MCT,1270,Machine Theory and Operations,,4-Sep,14-Jun,HSNYJM PTECH,....... TBD-TBD,LL,000,"Anson, Nicholas",3,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,5294,MCT,1270,Machine Theory and Operations,,24-Aug,18-Dec,JMTI 113,...W... 04:30 PM-08:15 PM,LL,000,"Heinrich, James",3,16,,16,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4196,MCT,1310,Industrial Safety & Quality,,24-Aug,4-Nov,ONLN ONLN,....... TBD-TBD,LE,002,"Griffin, Timothy",2,24,,24,,A,,,5
+Jamestown,Science/Tech/Engineer/Math,4197,MCT,1320,Production Processes & Mainten,,29-Sep,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Griffin, Timothy",2,24,,24,,A,,,6
+Jamestown,Science/Tech/Engineer/Math,4234,MCT,1380,Introduction to Solid Modeling,,24-Aug,18-Dec,JMTI 132,..T.R.. 02:40 PM-03:50 PM,LE,000,"Spess, Joseph",3,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4658,MCT,1380,Introduction to Solid Modeling,,4-Sep,14-Jun,HSNYJM PTECH,....... TBD-TBD,LE,000,"Anson, Nicholas",3,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4924,MCT,1380,Introduction to Solid Modeling,,4-Sep,14-Jun,HSNYJM SHE,....... TBD-TBD,LE,000,"Tanski, Alan",3,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4200,MCT,2210,Mechanical Drives,,24-Aug,18-Dec,JMTI 125,...W... 08:30 AM-12:15 PM,LL,000,"Spess, Joseph",3,16,,16,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4201,MCT,2270,Mechanics of Energy Systems,,24-Aug,18-Dec,SHEL 135,.M.W... 03:00 PM-04:15 PM,LR,000,"Piazza, Timothy",4,16,,16,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4202,MCT,2270,Mechanics of Energy Sys - Lab,,24-Aug,18-Dec,SHEL 135,.....F. 08:30 AM-11:00 AM,LA,000,"Piazza, Timothy",,16,,16,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4204,MCT,2300,Machine Tool Tech. III,,24-Aug,18-Dec,JMTI 125,.....F. 09:00 AM-09:50 AM,LR,000,"Heinrich, James",3,16,,16,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4205,MCT,2300,Machine Tool Tech. III - Lab,,24-Aug,18-Dec,JMTI 125,.....F. 10:00 AM-03:30 PM,LA,000,"Heinrich, James",,16,,16,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4206,MCT,2340,Dimensional Metrology,,24-Aug,18-Dec,JMTI 121B,....R.. 10:00 AM-12:45 PM,LL,000,"Heinrich, James",2,16,,16,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4659,MCT,2380,Advanced Solid Modeling,,4-Sep,14-Jun,HSNYJM PTECH,....... TBD-TBD,LE,000,"Anson, Nicholas",3,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4148,PHY,1500,Foundational Physics,,24-Aug,18-Dec,SHEL 135,..T.R.. 01:30 PM-02:45 PM,LR,000,"Nowling, Sean",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4149,PHY,1500,Foundational Physics - Lab,,24-Aug,18-Dec,SHEL 135,..T.R.. 03:00 PM-04:15 PM,LA,000,"Nowling, Sean",,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4801,PHY,1500,Foundational Physics,,4-Sep,14-Jun,HSNYJM FRE,....... TBD-TBD,LA,000,"Bittenger, Daniel",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4820,PHY,1500,Foundational Physics,,4-Sep,14-Jun,HSNYJM FRW,....... TBD-TBD,LA,000,"Terrill, Michele",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4948,PHY,1500,Foundational Physics,,4-Sep,20-Jan,HSNYJM SWC,....... TBD-TBD,LA,000,"Pagett, Jefferson",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4152,PHY,1610,General Physics  I,,24-Aug,18-Dec,SHEL 133,..T.R.. 09:30 AM-10:45 AM,LR,000,"Nowling, Sean",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4153,PHY,1610,General Physics  I - Lab,,24-Aug,18-Dec,SHEL 133,..T.R.. 11:00 AM-12:15 PM,LA,000,"Nowling, Sean",,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4857,PHY,1610,General Physics  I,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LL,000,"Propheter, Steven",4,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4941,PHY,1610,General Physics  I,,4-Sep,14-Jun,HSNYJM SWC,....... TBD-TBD,LL,000,"Pagett, Jefferson",4,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4154,PHY,2510,Thermodynamics,322,24-Aug,18-Dec,SHEL 133,.M.W.F. 09:30 AM-10:20 AM,LR,000,"Nowling, Sean",4,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4155,PHY,2510,Thermodynamics - Lab,323,24-Aug,18-Dec,SHEL 133,.M.W.F. 10:30 AM-11:20 AM,LA,000,"Nowling, Sean",,24,,24,,A,,,1
+Jamestown,Science/Tech/Engineer/Math,4156,WLD,1200,Safety and Cutting Processes,,24-Aug,4-Nov,JMTI 113,.M.W... 08:00 AM-12:00 PM,LL,000,"Kleinfelder, John",3,15,,15,,A,,,5
+Jamestown,Science/Tech/Engineer/Math,4660,WLD,1200,Safety and Cutting Processes,,4-Sep,14-Jun,HSNYJM PTECH,....... TBD-TBD,LL,000,"Bryant, Jeremy",3,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4724,WLD,1200,Safety and Cutting Processes,,4-Sep,20-Jan,HSNYJM CHA,....... TBD-TBD,LL,000,"McCray, Daniel",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4859,WLD,1200,Safety and Cutting Processes,,4-Sep,20-Jan,HSNYJM JHS,....... TBD-TBD,LL,000,"Jewell, Christopher",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4873,WLD,1200,Safety and Cutting Processes,,4-Sep,20-Jan,HSNYJM MAP,....... TBD-TBD,LL,000,"Hanley, Matthew",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4889,WLD,1200,Safety and Cutting Processes,,4-Sep,14-Jun,HSNYJM PIN,....... TBD-TBD,LL,000,"Habermehl, Isaac",3,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,5278,WLD,1200,Safety and Cutting Processes,,4-Sep,14-Jun,HSNYJM SHE,....... TBD-TBD,LL,000,"Tanski, Alan",3,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4158,WLD,1350,Shielded Metal Arc Welding,,24-Aug,4-Nov,JMTI 121A,..T.R.. 08:00 AM-12:00 PM,LL,000,"Harkness, Brent",3,15,,15,,A,,,5
+Jamestown,Science/Tech/Engineer/Math,4159,WLD,1350,Shielded Metal Arc Welding,,29-Sep,18-Dec,JMTI 113,.M.W... 08:00 AM-12:00 PM,LL,000,"Kleinfelder, John",3,15,,15,,A,,,6
+Jamestown,Science/Tech/Engineer/Math,4661,WLD,1350,Shielded Metal Arc Welding,,4-Sep,14-Jun,HSNYJM PTECH,....... TBD-TBD,LL,000,"Bryant, Jeremy",3,50,,50,,A,,,HS
+Jamestown,Science/Tech/Engineer/Math,4890,WLD,1350,Shielded Metal Arc Welding,,4-Sep,20-Jan,HSNYJM PIN,....... TBD-TBD,LL,000,"Habermehl, Isaac",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4161,WLD,1360,Gas Metal Arc Welding,,24-Aug,4-Nov,JMTI 113,..T.R.. 04:00 PM-08:00 PM,LL,000,"Youngberg, Jacob",3,15,,15,,A,,,5
+Jamestown,Science/Tech/Engineer/Math,4662,WLD,1360,Gas Metal Arc Welding,,4-Sep,20-Jan,HSNYJM PTECH,....... TBD-TBD,LL,000,"Bryant, Jeremy",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4725,WLD,1360,Gas Metal Arc Welding,,4-Sep,20-Jan,HSNYJM CHA,....... TBD-TBD,LL,000,"McCray, Daniel",3,50,,50,,A,,,HS1
+Jamestown,Science/Tech/Engineer/Math,4163,WLD,1370,Gas Tungsten Arc Welding,,24-Aug,4-Nov,JMTI 121B,.M.W... 04:00 PM-08:00 PM,LL,000,"Greene, Morgan",3,15,,15,,A,,,5
+Jamestown,Science/Tech/Engineer/Math,5108,WLD,2250,Adv Shielded Metal Arc Welding,,29-Sep,18-Dec,JMTI 125,.M.W... 01:00 PM-05:00 PM,LL,000,"Harkness, Brent",3,15,,15,,A,,,6
+Jamestown,Science/Tech/Engineer/Math,4166,WLD,2260,Adv Gas Metal Arc Welding,,29-Sep,18-Dec,JMTI 121A,..T.R.. 08:00 AM-12:00 PM,LL,000,"Witherow, Eric",3,15,,15,,A,,,6
+Jamestown,Science/Tech/Engineer/Math,4164,WLD,2270,Adv Gas Tungsten Arc Welding,,29-Sep,18-Dec,JMTI 121A,..T.R.. 04:00 PM-08:00 PM,LL,000,"Pecoraro, Thomas",3,15,,15,,A,,,6
+Jamestown,Science/Tech/Engineer/Math,4167,WLD,2360,Alternate Processes,,24-Aug,4-Nov,JMTI 121A,.M.W.F. 09:20 AM-11:20 AM,LL,000,"Harkness, Brent",3,15,,15,,A,,,5
+Jamestown,Science/Tech/Engineer/Math,4168,WLD,2370,Metallurgy,,24-Aug,18-Dec,JMTI 121A,.M.W.F. 08:00 AM-09:15 AM,LE,000,"Harkness, Brent",3,15,,15,,A,,,1
+Jamestown,Student Affairs,4371,HUM,1320,Growth & Goal Setting,,5-Nov,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Shaw, Dianna",1,25,,25,,A,,,4
+Jamestown,Student Affairs,4368,HUM,1550,Life/Career Planning,,29-Sep,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Spinuzza, Tracey",2,25,,25,,A,,,6
+Jamestown,Student Affairs,4370,HUM,1550,Life/Career Planning,,29-Sep,18-Dec,ONLN ONLN,....... TBD-TBD,LE,002,"Olson, Kristin",2,25,,25,,A,,,6
+Olean,*Arts/Humanities/Health Sci,3826,CERN,2510,NUR 2510 Review-NCLEX Success,,24-Aug,18-Dec,AHSC 107,..T.... 09:00 AM-10:00 AM,TU,000,"Visbisky, Jennifer",,60,,60,,A,,,1
+Olean,Arts/Humanities/Social Science,4498,ANT,1520,Intro to Cultural Anthropology,,24-Aug,18-Dec,TECH 311,..T.R.. 11:00 AM-12:15 PM,LE,000,"Scott, Chelsie",3,26,,26,,A,,,1
+Olean,Arts/Humanities/Social Science,4966,ART,1590,Ceramics I,,4-Sep,14-Jun,HSNYOL OLE,....... TBD-TBD,LL,000,"O'Brien, Kellie",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4566,ART,1670,Photo I: Digital Photography,,4-Sep,14-Jun,HSNYOL B-BEL,....... TBD-TBD,LL,000,"Pettenati, Steven",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4584,ART,1670,Photo I: Digital Photography,,4-Sep,20-Jan,HSNYOL B-OLE,....... TBD-TBD,LL,000,"Christensen, Amber",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4567,ART,1730,Graphic Design I,,4-Sep,14-Jun,HSNYOL B-BEL,....... TBD-TBD,LL,000,"Pettenati, Steven",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4585,ART,1730,Graphic Design I,,4-Sep,14-Jun,HSNYOL B-OLE,....... TBD-TBD,LL,000,"Christensen, Amber",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4592,CMM,1610,Public Speaking,,4-Sep,14-Jun,HSNYOL B-OLE,....... TBD-TBD,LE,000,"Chimbel, Bethanne",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4663,CMM,1610,Public Speaking,,4-Sep,20-Jan,HSNYOL ALL,....... TBD-TBD,LE,000,"Ayres, Jolene",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4788,CMM,1610,Public Speaking,,4-Sep,14-Jun,HSNYOL FRA,....... TBD-TBD,LE,000,"Svec, Lauren",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4055,ENG,0410,Develop Reading Versatility,231,24-Aug,18-Dec,LLAC 317,..T.... 09:30 AM-10:45 AM,LE,004,"Funke, Renee",3,24,,24,,A,,,1
+Olean,Arts/Humanities/Social Science,4080,ENG,1510,English Composition I,210,24-Aug,18-Dec,LLAC 225,..T.R.. 01:30 PM-02:45 PM,LE,000,"Yerpe, Dale",3,12,,12,,A,,,1
+Olean,Arts/Humanities/Social Science,4081,ENG,1510,English Comp I (coreq 4079),210,24-Aug,18-Dec,LLAC 225,..T.R.. 01:30 PM-02:45 PM,LE,000,"Yerpe, Dale",3,12,,12,,A,,,1
+Olean,Arts/Humanities/Social Science,4502,ENG,1510,English Composition I,,24-Aug,18-Dec,LLAC 225,.M.W... 09:30 AM-10:45 AM,LE,000,"Yerpe, Dale",3,24,,24,,A,,,1
+Olean,Arts/Humanities/Social Science,4580,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYOL B-OLE,....... TBD-TBD,LE,002,"Giamanco, Melanie",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4664,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYOL ALL,....... TBD-TBD,LE,000,"Ayres, Jolene",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4682,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYOL BOL,....... TBD-TBD,LE,000,"Peterson, Nicole",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4738,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYOL CUB,....... TBD-TBD,LE,000,"Snyder, Elaine",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4770,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYOL ELL,....... TBD-TBD,LE,000,"Richardson, Holly",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4771,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYOL ELL,....... TBD-TBD,LE,000,"Richardson, Holly",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4789,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYOL FRA,....... TBD-TBD,LE,000,"Svec, Lauren",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4822,ENG,1510,English Composition I,,4-Sep,14-Jun,HSNYOL GOW,....... TBD-TBD,LE,000,"Izard, Zachary",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4828,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYOL HIN,....... TBD-TBD,LE,000,"Newman, Danielle",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,5007,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYOL CLV,....... TBD-TBD,LE,000,"McIntyre, Beth",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,5204,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYOL B-OLE,....... TBD-TBD,LE,002,"Wolcott, Joseph",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,5232,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYOL ALL,....... TBD-TBD,LE,000,"Ayres, Jolene",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,5406,ENG,1510,English Composition I,,4-Sep,20-Jan,HSNYOL SCI,....... TBD-TBD,ITV,001,"Peterson, Nicole",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4089,ENG,1530,English Composition II,,24-Aug,18-Dec,LLAC 224,.M.W... 01:30 PM-02:45 PM,LE,000,"Colosimo, Mandy",3,24,,24,,A,,,1
+Olean,Arts/Humanities/Social Science,4708,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYOL CLV,....... TBD-TBD,LE,000,"Moore, Kathryn",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4790,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYOL FRA,....... TBD-TBD,LE,000,"Svec, Lauren",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4823,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYOL GOW,....... TBD-TBD,LE,000,"Izard, Zachary",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4904,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYOL SAL,....... TBD-TBD,LE,000,"Spitale, Paul",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4970,ENG,1530,English Composition II,,4-Sep,20-Jan,HSNYOL OLE,....... TBD-TBD,LE,000,"Mathieson, Jennifer",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4945,FRE,2520,Intermediate French II,,4-Sep,14-Jun,HSNYOL SPR,....... TBD-TBD,LE,000,"Brown, Valerie",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4973,HIS,1530,US History before 1865,,4-Sep,20-Jan,HSNYOL OLE,....... TBD-TBD,LE,000,"Perry, Matthew",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,5332,HIS,1540,US History Since 1865,88,24-Aug,18-Dec,TECH 211,.M.W... 01:30 PM-02:45 PM,ITV,000,"De Angelo, Donald",3,20,,20,,A,,,1
+Olean,Arts/Humanities/Social Science,4099,MUS,1510,Music Appreciation,212,24-Aug,18-Dec,TECH 310,..T.R.. 01:30 PM-02:45 PM,ITV,000,"Johnson, Marci",3,40,,40,,A,,,1
+Olean,Arts/Humanities/Social Science,4741,MUS,1510,Music Appreciation,,4-Sep,14-Jun,HSNYOL CUB,....... TBD-TBD,LE,000,"Tackentien, Megan",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,5270,MUS,1510,Music Appreciation,,4-Sep,14-Jun,HSNYOL GOW,....... TBD-TBD,LE,000,"Smith, Robin",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4103,MUS,1570,Music Theory I,213,24-Aug,18-Dec,TECH 309,..T.R.. 08:00 AM-09:15 AM,ITV,000,"Flory, Neil",3,40,,40,,A,,,1
+Olean,Arts/Humanities/Social Science,4742,MUS,1570,Music Theory I,,4-Sep,14-Jun,HSNYOL CUB,....... TBD-TBD,LE,000,"Emhof, Haley",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4827,MUS,1570,Music Theory I,,4-Sep,14-Jun,HSNYOL GOW,....... TBD-TBD,LE,000,"Smith, Robin",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,5260,MUS,1570,Music Theory I,,4-Sep,14-Jun,HSNYOL ELL,....... TBD-TBD,LE,000,"Wilder, Crystal",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,5276,MUS,1570,Music Theory I,,4-Sep,14-Jun,HSNYOL SAL,....... TBD-TBD,LE,000,"Bodnar III, Cyril",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,5403,MUS,1570,Music Theory I,,4-Sep,14-Jun,HSNYOL PIO,....... TBD-TBD,LE,000,"Tomasulo, Victoria",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,5124,MUS,1930,Aural Skills I,214,24-Aug,18-Dec,TECH 211,.M.W.F. 08:30 AM-09:20 AM,ITV,000,"Johnson, Marci",2,40,,40,,A,,,1
+Olean,Arts/Humanities/Social Science,4010,POL,1510,American Politics,116,24-Aug,18-Dec,TECH 309,.M.W... 11:00 AM-12:15 PM,ITV,000,"De Angelo, Donald",3,20,,20,,A,,,1
+Olean,Arts/Humanities/Social Science,4274,PSY,1510,General Psychology,,24-Aug,18-Dec,TECH 311,.M.W... 11:00 AM-11:50 AM,LE,004,"Lachappelle, Francis",3,32,,32,,A,,,1
+Olean,Arts/Humanities/Social Science,4794,PSY,1510,General Psychology,,4-Sep,14-Jun,HSNYOL FRA,....... TBD-TBD,LE,002,"Harris, Matthew",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4952,PSY,1510,General Psychology,,4-Sep,20-Jan,HSNYOL WEL,....... TBD-TBD,LE,003,"Segrue, Nichole",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4976,PSY,1510,General Psychology,,4-Sep,14-Jun,HSNYOL OLE,....... TBD-TBD,LE,000,"Filjones, Mary",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,5203,PSY,1510,General Psychology,,4-Sep,20-Jan,HSNYOL B-OLE,....... TBD-TBD,LE,000,"Hlasnick, Andrea",3,50,,50,,A,,,HS1
+Olean,Arts/Humanities/Social Science,4275,PSY,2530,Social Psychology,,24-Aug,18-Dec,TECH 209,.M.W... 01:30 PM-02:45 PM,LE,000,"Lachappelle, Francis",3,18,,18,,A,,,1
+Olean,Arts/Humanities/Social Science,3885,SOC,1510,Intro to Sociology,,24-Aug,18-Dec,TECH 311,....R.. 09:30 AM-10:45 AM,LE,004,"Scott, Chelsie",3,26,,26,,A,,,1
+Olean,Arts/Humanities/Social Science,5301,SOC,1510,Intro to Sociology,51,24-Aug,18-Dec,TECH 309,..T.R.. 03:00 PM-04:15 PM,ITV,000,"Scott, Chelsie",3,26,,26,,A,,,1
+Olean,Arts/Humanities/Social Science,4482,SOC,2560,Criminology,155,24-Aug,18-Dec,TECH 309,..T.R.. 01:30 PM-02:45 PM,ITV,000,"Corapi, Frank",3,26,,26,,A,,,1
+Olean,Arts/Humanities/Social Science,4669,SPA,2510,Intermediate Spanish I,,4-Sep,14-Jun,HSNYOL ALL,....... TBD-TBD,LE,000,"Charles, Suzanne",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4713,SPA,2510,Intermediate Spanish I,,4-Sep,14-Jun,HSNYOL CLV,....... TBD-TBD,LE,000,"Atkins, Kerri",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4977,SPA,2510,Intermediate Spanish I,,4-Sep,14-Jun,HSNYOL OLE,....... TBD-TBD,LE,000,"Kohler, Nadia",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,5003,SPA,2510,Intermediate Spanish I,,4-Sep,14-Jun,HSNYOL ELL,....... TBD-TBD,LE,000,"Emborsky, Meghan",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4670,SPA,2520,Intermediate Spanish II,,4-Sep,14-Jun,HSNYOL ALL,....... TBD-TBD,LE,000,"Charles, Suzanne",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,4714,SPA,2520,Intermediate Spanish II,,4-Sep,14-Jun,HSNYOL CLV,....... TBD-TBD,LE,000,"Atkins, Kerri",3,50,,50,,A,,,HS
+Olean,Arts/Humanities/Social Science,5004,SPA,2520,Intermediate Spanish II,,4-Sep,14-Jun,HSNYOL ELL,....... TBD-TBD,LE,000,"Emborsky, Meghan",3,50,,50,,A,,,HS
+Olean,Continuing Education,5431,CEJR,7485,Grade C,,13-Oct,15-Oct,CMTI 203,..TWR.. 08:00 AM-04:00 PM,CEC,000,STAFF,,20,,20,,A,,,E
+Olean,Health Sciences,3821,CERN,1510,NUR 1510 Review Session,,24-Aug,18-Dec,LLAC 308,.M..... 08:00 AM-09:50 AM,TU,000,"Williams, Laura",,75,,75,,A,,,1
+Olean,Health Sciences,4570,HCR,1200,Intro to Healthcare Studies,,4-Sep,20-Jan,HSNYOL B-BEL,....... TBD-TBD,LE,000,"Hlasnick, Andrea",3,50,,50,,A,,,HS1
+Olean,Health Sciences,4574,HCR,1200,Intro to Healthcare Studies,,4-Sep,14-Jun,HSNYOL B-BEL,....... TBD-TBD,LE,000,"Karn, Emily",3,50,,50,,A,,,HS
+Olean,Health Sciences,4589,HCR,1200,Intro to Healthcare Studies,,4-Sep,20-Jan,HSNYOL B-OLE,....... TBD-TBD,LE,000,"Militello, Jennifer",3,50,,50,,A,,,HS1
+Olean,Health Sciences,4594,HCR,1200,Intro to Healthcare Studies,,4-Sep,20-Jan,HSNYOL B-OLE,....... TBD-TBD,LE,000,"Crowley, Krista",3,50,,50,,A,,,HS1
+Olean,Health Sciences,4569,HCR,1210,Introduction to Disease,,4-Sep,14-Jun,HSNYOL B-BEL,....... TBD-TBD,LE,000,"Hlasnick, Andrea",1,50,,50,,A,,,HS
+Olean,Health Sciences,4575,HCR,1210,Introduction to Disease,,4-Sep,14-Jun,HSNYOL B-BEL,....... TBD-TBD,LE,000,"Karn, Emily",1,50,,50,,A,,,HS
+Olean,Health Sciences,4590,HCR,1210,Introduction to Disease,,4-Sep,14-Jun,HSNYOL B-OLE,....... TBD-TBD,LE,000,"Militello, Jennifer",1,50,,50,,A,,,HS
+Olean,Health Sciences,4595,HCR,1210,Introduction to Disease,,4-Sep,20-Jan,HSNYOL B-OLE,....... TBD-TBD,LE,000,"Crowley, Krista",1,50,,50,,A,,,HS1
+Olean,Health Sciences,3823,NUR,1510,Foundations of Nursing - LAB,,24-Aug,18-Dec,AHSC 104,..T.R.. 07:00 AM-01:00 PM,LA,000,"Williams, Laura",,35,,35,,A,,,1
+Olean,Health Sciences,3824,NUR,1510,Foundations of Nursing - LAB,,24-Aug,18-Dec,AHSC 104,...W.F. 07:00 AM-01:00 PM,LA,000,"Williams, Laura",,34,,34,,A,,,1
+Olean,Health Sciences,5433,NUR,1510,Foundations of Nursing,,24-Aug,18-Dec,LLAC 308,.M..... 10:00 AM-12:05 PM,LR,000,"Williams, Laura",7,70,,70,,A,,,1
+Olean,Health Sciences,5433,NUR,1510,Foundations of Nursing,,24-Aug,18-Dec,LLAC 308,.M..... 01:15 PM-03:20 PM,LR,000,"Williams, Laura",7,70,,70,,A,,,1
+Olean,Health Sciences,3825,NUR,2350,Pharmacology For Nurses I,,24-Aug,18-Dec,AHSC 107,..T.... 01:30 PM-02:45 PM,LE,000,"Visbisky, Jennifer",1.5,60,,60,,A,,,1
+Olean,Health Sciences,3827,NUR,2510,Health Restoration/Maint I,,24-Aug,18-Dec,AHSC 107,.M..... 01:30 PM-03:25 PM,LR,000,"Visbisky, Jennifer",8,60,,60,,A,,,1
+Olean,Health Sciences,3827,NUR,2510,Health Restoration/Maint I,,24-Aug,18-Dec,AHSC 107,..T.... 10:15 AM-12:10 PM,LR,000,"Visbisky, Jennifer",8,60,,60,,A,,,1
+Olean,Health Sciences,3828,NUR,2510,Health Rest/Maint I - LAB,,24-Aug,18-Dec,AHSC 107,....... TBD-TBD,LA,000,"Visbisky, Jennifer",,60,,60,,A,,,1
+Olean,Health Sciences,3829,NUR,2550,Pathophysiology I,,24-Aug,18-Dec,AHSC 107,.M..... 11:00 AM-12:15 PM,LE,000,"Visbisky, Jennifer",1.5,60,,60,,A,,,1
+Olean,Multiple Divisions,4175,INT,1555,Inquire:The Art of Adulting,,24-Aug,4-Nov,TECH 311,....R.. 01:30 PM-02:45 PM,LE,004,"Bray, Sarah",2,22,,22,,A,,,5
+Olean,Multiple Divisions,4176,INT,1555,Inquire:Robot Revolution,1,24-Aug,4-Nov,CMTI 111,.M.W... 11:00 AM-12:15 PM,LE,000,"Griffin, Timothy",2,20,,20,,A,,,5
+Olean,Multiple Divisions,5146,INT,1555,"Inquire: Monsters, Freaks, Tri",,24-Aug,4-Nov,LLAC 225,..T.R.. 11:00 AM-12:15 PM,LE,000,"Yerpe, Dale",2,20,,20,,A,,,5
+Olean,Public & Professional Services,5005,BUS,1360,Keyboarding/Word Processing,,4-Sep,20-Jan,HSNYOL OLE,....... TBD-TBD,LE,000,"Pace, Jennifer",3,50,,50,,A,,,HS1
+Olean,Public & Professional Services,5274,BUS,1500,Intro to Business,,4-Sep,14-Jun,HSNYOL SAL,....... TBD-TBD,LE,000,"Schnaufer, Susan",3,50,,50,,A,,,HS
+Olean,Public & Professional Services,4187,BUS,1510,Princ/Financial Accounting,,24-Aug,18-Dec,TECH 210,.M.W... 01:30 PM-03:10 PM,LE,000,"Miller, Deborah",4,26,,26,,A,,,1
+Olean,Public & Professional Services,4767,BUS,1610,Personal Finance,,4-Sep,20-Jan,HSNYOL ELL,....... TBD-TBD,LE,000,"Nason, Catherine",3,50,,50,,A,,,HS1
+Olean,Public & Professional Services,4967,BUS,1610,Personal Finance,,4-Sep,14-Jun,HSNYOL OLE,....... TBD-TBD,LE,000,"Goodwin, Susan",3,50,,50,,A,,,HS
+Olean,Public & Professional Services,4218,BUS,1650,Global Business,120,24-Aug,18-Dec,TECH 211,....R.. 09:30 AM-10:45 AM,ITV,004,"Daly, Dion",3,26,,26,,A,,,1
+Olean,Public & Professional Services,4911,BUS,1700,Intro to Tourism & Hospitality,,4-Sep,14-Jun,HSNYOL SAL,....... TBD-TBD,LE,000,"Kolb, Matt",3,50,,50,,A,,,HS
+Olean,Public & Professional Services,4277,BUS,2530,Business Law I,133,24-Aug,18-Dec,TECH 211,.M.W... 09:30 AM-10:45 AM,ITV,000,"Daly, Dion",3,26,,26,,A,,,1
+Olean,Public & Professional Services,4280,BUS,2550,Marketing,,24-Aug,18-Dec,TECH 210,.M..... 11:00 AM-12:15 PM,LE,004,"Forney, Jennifer",3,26,,26,,A,,,1
+Olean,Public & Professional Services,3924,CRI,1320,Intro Law Enforcement,963,24-Aug,18-Dec,TECH 211,.M.W... 11:00 AM-12:15 PM,ITV,000,"Barone, Brian",3,26,,26,,A,,,1
+Olean,Public & Professional Services,3935,CRI,1520,Intro to Corrections,128,24-Aug,18-Dec,LLAC 317,.M.W... 08:30 AM-09:20 AM,ITV,004,"Gerace, Joseph",3,26,,26,,A,,,1
+Olean,Public & Professional Services,3990,CRI,2330,Criminal Procedural Law,112,24-Aug,18-Dec,TECH 310,..T.R.. 09:30 AM-10:45 AM,ITV,000,"Gerace, Marilyn",3,26,,26,,A,,,1
+Olean,Public & Professional Services,5112,CRI,2550,Ethics in Criminal Justice,958,24-Aug,18-Dec,TECH 310,..T.R.. 08:30 AM-09:20 AM,ITV,004,"Gerace, Marilyn",3,26,,26,,A,,,1
+Olean,Public & Professional Services,4969,ECO,1530,Contemporary Economic Problems,,4-Sep,20-Jan,HSNYOL OLE,....... TBD-TBD,LE,000,"Kolasny, Carl",3,50,,50,,A,,,HS1
+Olean,Public & Professional Services,4034,ECO,2620,Microeconomic Principles,442,24-Aug,18-Dec,TECH 309,.M.W... 09:30 AM-10:45 AM,LE,000,"Bray, Sarah",3,26,,26,,A,,,1
+Olean,Public & Professional Services,5154,EDU,1310,"Family, School, & Community Pa",585,24-Aug,18-Dec,LLAC 317,....R.. 11:00 AM-12:15 PM,ITV,004,"Metzger, Heather",3,24,,24,,A,,,1
+Olean,Public & Professional Services,4336,EDU,1510,Foundations/Education-Tchg Pro,140,24-Aug,18-Dec,LLAC 317,..T.... 11:00 AM-12:15 PM,ITV,004,"Funke, Renee",3,,,,,A,,,1
+Olean,Public & Professional Services,4593,EDU,1510,Foundations/Education-Tchg Pro,,4-Sep,14-Jun,HSNYOL B-OLE,....... TBD-TBD,LE,000,"Chimbel, Bethanne",3,50,,50,,A,,,HS
+Olean,Public & Professional Services,4394,EDU,2450,Exceptional Children,148,24-Aug,18-Dec,LLAC 317,.M..... 11:00 AM-12:15 PM,ITV,004,"Metzger, Heather",3,22,,22,,A,,,1
+Olean,Public & Professional Services,4037,ENT,1480,Entrepreneurship Internship,,24-Aug,18-Dec,OFFC TBD,....... TBD-TBD,IN,000,"Bray, Sarah",1,10,,10,,A,,,1
+Olean,Public & Professional Services,4012,HIT,1410,Medical Terminology,117,24-Aug,18-Dec,TECH 211,..T.R.. 11:00 AM-12:15 PM,ITV,000,"Rives, Krysta",3,26,,26,,A,,,1
+Olean,Public & Professional Services,4576,HIT,1410,Medical Terminology,,4-Sep,14-Jun,HSNYOL B-BEL,....... TBD-TBD,LE,000,"Karn, Emily",3,50,,50,,A,,,HS
+Olean,Public & Professional Services,4578,HIT,1410,Medical Terminology,,4-Sep,14-Jun,HSNYOL B-BEL,....... TBD-TBD,LE,000,"Hlasnick, Andrea",3,50,,50,,A,,,HS
+Olean,Public & Professional Services,4591,HIT,1410,Medical Terminology,,4-Sep,14-Jun,HSNYOL B-OLE,....... TBD-TBD,LE,000,"Militello, Jennifer",3,50,,50,,A,,,HS
+Olean,Public & Professional Services,4679,HIT,1410,Medical Terminology,,4-Sep,14-Jun,HSNYOL B-ELL,....... TBD-TBD,LE,000,"Giboo, Amy",3,50,,50,,A,,,HS
+Olean,Public & Professional Services,4577,HIT,1420,Health Data Procedures,,4-Sep,14-Jun,HSNYOL B-BEL,....... TBD-TBD,LE,000,"Karn, Emily",3,50,,50,,A,,,HS
+Olean,Public & Professional Services,4680,HIT,1420,Health Data Procedures,,4-Sep,14-Jun,HSNYOL B-ELL,....... TBD-TBD,LE,000,"Giboo, Amy",3,50,,50,,A,,,HS
+Olean,Public & Professional Services,3975,HUS,1210,Intro to Human Services,601,24-Aug,18-Dec,TECH 309,..T.R.. 09:30 AM-10:45 AM,ITV,000,"Lachappelle, Francis",3,25,,25,,A,,,1
+Olean,Public & Professional Services,3981,HUS,1310,Studies/Alcohol/Chem Depend,111,24-Aug,18-Dec,TECH 211,..T.R.. 01:30 PM-02:45 PM,ITV,000,"Lachappelle, Francis",3,15,,15,,A,,,1
+Olean,Public & Professional Services,4400,HUS,2210,Field Placement I-Social Work,152,24-Aug,18-Dec,TECH 211,..T.... 03:00 PM-04:15 PM,LR,005,"Lachappelle, Francis",5,10,,10,,A,,,1
+Olean,Public & Professional Services,4401,HUS,2210,Field Placement I-Social Work,603,24-Aug,18-Dec,TBD TBD,....... TBD-TBD,FW,005,"Lachappelle, Francis",,10,,10,,A,,,1
+Olean,Public & Professional Services,4402,HUS,2215,Field Placement: Addictions I,603,24-Aug,18-Dec,TBD TBD,....... TBD-TBD,FW,005,"Lachappelle, Francis",,10,,10,,A,,,1
+Olean,Public & Professional Services,4513,HUS,2215,Field Placement: Addictions I,152,24-Aug,18-Dec,TECH 211,..T.... 03:00 PM-04:15 PM,LR,004,"Lachappelle, Francis",5,10,,10,,A,,,1
+Olean,Public & Professional Services,4403,HUS,2220,Field Placement II,151,24-Aug,18-Dec,ONLN ONLN,....... TBD-TBD,LR,002,"Lachappelle, Francis",5,5,,5,,A,,,1
+Olean,Public & Professional Services,4404,HUS,2220,Field Placement II,151,24-Aug,18-Dec,TBD TBD,....... TBD-TBD,FW,002,"Lachappelle, Francis",,5,,5,,A,,,1
+Olean,Public & Professional Services,5280,LDR,1300,Leadership Engagement,,4-Sep,20-Jan,HSNYOL ALL,....... TBD-TBD,LE,000,"Ayres, Jolene",3,50,,50,,A,,,HS1
+Olean,Public & Professional Services,5348,LDR,1300,Leadership Engagement,,4-Sep,20-Jan,HSNYOL SAL,....... TBD-TBD,ITV,001,"Congdon, Sara",3,50,,50,,A,,,HS1
+Olean,Public & Professional Services,5351,SPT,1300,Introduction-Sport Management,,4-Sep,14-Jun,HSNYOL OLE,....... TBD-TBD,LE,000,"Pace, Jennifer",3,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,3905,BIO,1510,Health Science,400,24-Aug,18-Dec,TECH 310,..T.R.. 03:00 PM-04:15 PM,ITV,000,"Whitmore, Kathleen",3,12,,12,,A,,,1
+Olean,Science/Tech/Engineer/Math,4568,BIO,1510,Health Science,,4-Sep,14-Jun,HSNYOL B-BEL,....... TBD-TBD,LE,000,"Hlasnick, Andrea",3,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4586,BIO,1510,Health Science,,4-Sep,14-Jun,HSNYOL B-OLE,....... TBD-TBD,LE,000,"Militello, Jennifer",3,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,3943,BIO,2510,Anatomy & Physiology I,,24-Aug,18-Dec,LLAC 308,.M.W... 04:00 PM-05:15 PM,LR,000,"Avelar, Alicia",4,36,,36,,A,,,1
+Olean,Science/Tech/Engineer/Math,3946,BIO,2510,Anatomy & Physiology I - Lab,,24-Aug,18-Dec,AHSC 203,....R.. 01:30 PM-04:15 PM,LA,000,"Avelar, Alicia",,18,,18,,A,,,1
+Olean,Science/Tech/Engineer/Math,3948,BIO,2510,Anatomy & Physiology I - Lab,,24-Aug,18-Dec,AHSC 203,.M..... 06:00 PM-08:45 PM,LA,000,"Militello, Jennifer",,18,,18,,A,,,1
+Olean,Science/Tech/Engineer/Math,3950,BIO,2510,Anatomy & Physiology I,,24-Aug,18-Dec,AHSC 204,...W... 06:00 PM-08:45 PM,LR,000,"Militello, Jennifer",4,34,,34,,A,,,1
+Olean,Science/Tech/Engineer/Math,3952,BIO,2510,Anatomy & Physiology I - Lab,,24-Aug,18-Dec,AHSC 203,....R.. 04:30 PM-07:15 PM,LA,000,"Avelar, Alicia",,18,,18,,A,,,1
+Olean,Science/Tech/Engineer/Math,3953,BIO,2510,Anatomy & Physiology I - Lab,,24-Aug,18-Dec,AHSC 203,..T.... 04:30 PM-07:15 PM,LA,000,"Avelar, Alicia",,16,,16,,A,,,1
+Olean,Science/Tech/Engineer/Math,4571,BIO,2510,Anatomy & Physiology I,,4-Sep,20-Jan,HSNYOL B-BEL,....... TBD-TBD,LR,000,"Hlasnick, Andrea",4,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,4572,BIO,2510,Anatomy & Physiology I - LAB,,4-Sep,20-Jan,HSNYOL B-BEL,....... TBD-TBD,LA,000,"Hlasnick, Andrea",,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,4587,BIO,2510,Anatomy & Physiology I,,4-Sep,20-Jan,HSNYOL B-OLE,....... TBD-TBD,LR,000,"Militello, Jennifer",4,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,4588,BIO,2510,Anatomy & Physiology I - LAB,,4-Sep,20-Jan,HSNYOL B-OLE,....... TBD-TBD,LA,000,"Militello, Jennifer",,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,3939,BIO,2531,Microbiology,,24-Aug,18-Dec,AHSC 204,.....F. 09:30 AM-12:15 PM,LE,000,"Avelar, Alicia",3,20,,20,,A,,,1
+Olean,Science/Tech/Engineer/Math,3942,BIO,2532,Microbiology - LAB,,24-Aug,18-Dec,AHSC 203,...W... 09:30 AM-12:15 PM,LA,000,"Avelar, Alicia",1,20,,20,,A,,,1
+Olean,Science/Tech/Engineer/Math,5104,CHE,1530,Allied Health Chemistry,,24-Aug,18-Dec,TECH 311,.M.W... 04:30 PM-05:45 PM,LE,000,"Whitesell, Dakota",3,20,,20,,A,,,1
+Olean,Science/Tech/Engineer/Math,4968,CSC,1510,Intro to Computer Science,,4-Sep,20-Jan,HSNYOL OLE,....... TBD-TBD,LE,000,"Lasky, David",3,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,4124,CSC,1560,Computer App Software I,319,24-Aug,18-Dec,TECH 207,..T.R.. 04:20 PM-06:00 PM,LE,000,"Lasky, David",4,25,,25,,A,,,1
+Olean,Science/Tech/Engineer/Math,4903,CSC,1560,Computer App Software I,,4-Sep,14-Jun,HSNYOL SAL,....... TBD-TBD,LE,000,"Schnaufer, Susan",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,5269,CSC,1570,CS1: Programming Concepts/Appl,,4-Sep,20-Jan,HSNYOL GOW,....... TBD-TBD,LE,000,"Reeves, James",3,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,3830,MAT,0530,Essential Mathematics,302,24-Aug,18-Dec,TECH 308,.M.W... 08:30 AM-10:35 AM,LE,000,"Reisch, Christopher",5,22,,22,,A,,,1
+Olean,Science/Tech/Engineer/Math,3835,MAT,0550,Algebra Fundamentals,,24-Aug,18-Dec,TECH 308,.M.W... 10:50 AM-12:30 PM,LE,000,"Reisch, Christopher",4,25,,25,,A,,,1
+Olean,Science/Tech/Engineer/Math,3841,MAT,1500,Problem Solving w/Mathematics,308,24-Aug,18-Dec,TECH 310,..T.R.. 11:00 AM-12:15 PM,LE,000,"Fofanah, Mary",3,28,,28,,A,,,1
+Olean,Science/Tech/Engineer/Math,4685,MAT,1500,Problem Solving w/Mathematics,,4-Sep,20-Jan,HSNYOL BOL,....... TBD-TBD,LE,000,"Hyson, Jacquelyn",3,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,4829,MAT,1500,Problem Solving w/Mathematics,,4-Sep,20-Jan,HSNYOL HIN,....... TBD-TBD,LE,000,"Malia, Courtney",3,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,4905,MAT,1500,Problem Solving w/Mathematics,,4-Sep,20-Jan,HSNYOL SAL,....... TBD-TBD,LE,000,"Ferrucci, Mallory",3,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,5289,MAT,1500,Problem Solving w/Mathematics,,4-Sep,14-Jun,HSNYOL CLV,....... TBD-TBD,LE,000,"Powenski, Kathy",3,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,3845,MAT,1540,Elementary Statistics,,24-Aug,18-Dec,TECH 210,..T.R.. 03:00 PM-04:15 PM,LE,000,"Dodd-Nagel, Linda",3,28,,28,,A,,,1
+Olean,Science/Tech/Engineer/Math,4666,MAT,1540,Elementary Statistics,,4-Sep,14-Jun,HSNYOL ALL,....... TBD-TBD,LE,000,"Haynes, Cathy",3,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4712,MAT,1540,Elementary Statistics,,4-Sep,14-Jun,HSNYOL CLV,....... TBD-TBD,LE,000,"Powenski, Kathy",3,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4739,MAT,1540,Elementary Statistics,,4-Sep,14-Jun,HSNYOL CUB,....... TBD-TBD,LE,000,"Barry, Theresa",3,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4772,MAT,1540,Elementary Statistics,,4-Sep,14-Jun,HSNYOL ELL,....... TBD-TBD,LE,000,"Chamberlain, Ann",3,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4791,MAT,1540,Elementary Statistics,,4-Sep,14-Jun,HSNYOL FRA,....... TBD-TBD,LE,000,"Grace, Joseph",3,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4824,MAT,1540,Elementary Statistics,,4-Sep,14-Jun,HSNYOL GOW,....... TBD-TBD,LE,000,"Reeves, James",3,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4974,MAT,1540,Elementary Statistics,,4-Sep,20-Jan,HSNYOL OLE,....... TBD-TBD,LE,000,"Ring, Kristine",3,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,4686,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYOL BOL,....... TBD-TBD,LE,000,"Hyson, Jacquelyn",4,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,4740,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYOL CUB,....... TBD-TBD,LE,000,"Kenyon, Thomas",4,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,4774,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYOL ELL,....... TBD-TBD,LE,000,"Reedy, Melissa",4,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,4792,MAT,1590,College Algebra / Trigonometry,,4-Sep,14-Jun,HSNYOL FRA,....... TBD-TBD,LE,000,"Grace, Joseph",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4830,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYOL HIN,....... TBD-TBD,LE,000,"Parr, Mary",4,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,5268,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYOL FRI,....... TBD-TBD,LE,000,"Wagner, Courtney",4,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,5281,MAT,1590,College Algebra / Trigonometry,,4-Sep,20-Jan,HSNYOL OLE,....... TBD-TBD,LE,000,"Lapi, Cole",4,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,5349,MAT,1590,College Algebra / Trigonometry,,4-Sep,14-Jun,HSNYOL FRA,....... TBD-TBD,LE,000,"Grace, Joseph",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4667,MAT,1600,Precalculus,,4-Sep,14-Jun,HSNYOL ALL,....... TBD-TBD,LE,000,"Haynes, Cathy",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4710,MAT,1600,Precalculus,,4-Sep,14-Jun,HSNYOL CLV,....... TBD-TBD,LE,000,"Powenski, Kathy",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4793,MAT,1600,Precalculus,,4-Sep,14-Jun,HSNYOL FRA,....... TBD-TBD,LE,000,"Grace, Joseph",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4825,MAT,1600,Precalculus,,4-Sep,14-Jun,HSNYOL GOW,....... TBD-TBD,LE,000,"Reeves, James",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4906,MAT,1600,Precalculus,,4-Sep,14-Jun,HSNYOL SAL,....... TBD-TBD,LE,000,"Wheeler, Lawrence",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,5346,MAT,1600,Precalculus,,4-Sep,20-Jan,HSNYOL FIL,....... TBD-TBD,LE,000,"Vosburg, Jarrett",4,50,,50,,A,,,HS1
+Olean,Science/Tech/Engineer/Math,5360,MAT,1600,Precalculus,,4-Sep,14-Jun,HSNYOL WV,....... TBD-TBD,ITV,001,"Grace, Joseph",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4668,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,14-Jun,HSNYOL ALL,....... TBD-TBD,LE,000,"Stamets, Kathy",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4711,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,14-Jun,HSNYOL CLV,....... TBD-TBD,LE,000,"Powenski, Kathy",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4773,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,14-Jun,HSNYOL ELL,....... TBD-TBD,LE,000,"Chamberlain, Ann",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4826,MAT,1710,Calculus/Analytic Geometry I,,4-Sep,14-Jun,HSNYOL GOW,....... TBD-TBD,LE,000,"Reeves, James",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4225,MCT,1240,Engineering Drawing w/AutoCAD,,24-Aug,18-Dec,CMTI 111,.M.W... 01:30 PM-03:10 PM,LE,006,"Griffin, Timothy",4,16,,16,,A,,,1
+Olean,Science/Tech/Engineer/Math,4596,MCT,1240,Engineering Drawing w/AutoCAD,,4-Sep,14-Jun,HSNYOL B-OLE,....... TBD-TBD,LE,000,"Hilyer, James",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4909,MCT,1240,Engineering Drawing w/AutoCAD,,4-Sep,14-Jun,HSNYOL SAL,....... TBD-TBD,LE,000,"Howard, Shawn",4,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4227,MCT,1270,Machine Theory and Operations,,24-Aug,18-Dec,CMTI 111,.....F. 08:00 AM-12:20 PM,LL,000,"Griffin, Timothy",3,12,,12,,A,,,1
+Olean,Science/Tech/Engineer/Math,4230,MCT,1380,Introduction to Solid Modeling,,24-Aug,18-Dec,CMTI 111,..T.R.. 01:30 PM-02:40 PM,LE,006,"Griffin, Timothy",3,24,,24,,A,,,1
+Olean,Science/Tech/Engineer/Math,5275,MCT,1380,Introduction to Solid Modeling,,4-Sep,14-Jun,HSNYOL SAL,....... TBD-TBD,LE,000,"Howard, Shawn",3,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4157,WLD,1200,Safety and Cutting Processes,,24-Aug,4-Nov,CMTI 116,..T.R.. 04:00 PM-08:00 PM,LL,000,"Phinney, Richard",3,15,,15,,A,,,5
+Olean,Science/Tech/Engineer/Math,4582,WLD,1200,Safety and Cutting Processes,,4-Sep,14-Jun,HSNYOL B-BEL,....... TBD-TBD,LL,000,"Beardsley, Michael",3,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4160,WLD,1350,Shielded Metal Arc Welding,,29-Sep,18-Dec,CMTI 116,..T.R.. 04:00 PM-08:00 PM,LL,000,"Shaw, Mark",3,15,,15,,A,,,6
+Olean,Science/Tech/Engineer/Math,4583,WLD,1350,Shielded Metal Arc Welding,,4-Sep,14-Jun,HSNYOL B-BEL,....... TBD-TBD,LL,000,"Beardsley, Michael",3,50,,50,,A,,,HS
+Olean,Science/Tech/Engineer/Math,4162,WLD,1360,Gas Metal Arc Welding,,24-Aug,4-Nov,CMTI 116,.M.W... 04:00 PM-08:00 PM,LL,000,"Elliott, Robert",3,15,,15,,A,,,5
+Olean,Science/Tech/Engineer/Math,4165,WLD,1370,Gas Tungsten Arc Welding,,29-Sep,18-Dec,CMTI 116,.M.W... 04:00 PM-08:00 PM,LL,000,"Elliott, Robert",3,15,,15,,A,,,6
